@@ -845,61 +845,44 @@ function startTest(block) {
 
 }
 
-
 /* ============================================================
    PREGUNTA
 ============================================================ */
 
 function showQuestion() {
 
-    const q =
-        state.questions[state.current];
-
+    const q = state.questions[state.current];
 
     if (!q) {
-
         finishTest();
-
         return;
-
     }
 
-
-    $("questionNumber").textContent =
-        `PREGUNTA ${state.current + 1}`;
-
-
-    $("questionText").textContent =
-        q.text;
-        
+    $("questionNumber").textContent = `PREGUNTA ${state.current + 1}`;
+    $("questionText").textContent = q.text;
         
     // NOVA FUNCIONALITAT: Mostrar l'etiqueta de la categoria de la pregunta
     const blockName = getBlockNames()[q.category] || q.categoryName || q.category;
     $("questionCategoryBadge").textContent = blockName;
+    $("questionCategoryBadge").classList.remove("hidden"); // <--- AQUESTA LÍNIA FALTAVA PERQUÈ ES VEIÉS
 
-
-    $("questionSource").textContent =
-        q.source
-            ? `Font: ${q.source}`
-            : "";
-
+    // NETEJA DEL TEXT DE LA FONT
+    if (q.source) {
+        const cleanSource = q.source.replace(/^Font:\s*/i, '');
+        $("questionSource").textContent = `Font: ${cleanSource}`;
+    } else {
+        $("questionSource").textContent = "";
+    }
 
     renderOptions(q);
-
     renderFeedback(q);
-
     updateProgress();
-
     updateQuestionMap();
 
-    $("nextButton").disabled =
-        state.answers[q.id] === undefined;
-
-
-    $("answeredLabel").textContent =
-        state.answers[q.id] === undefined
-            ? "Selecciona una resposta"
-            : "Resposta registrada";
+    $("nextButton").disabled = state.answers[q.id] === undefined;
+    $("answeredLabel").textContent = state.answers[q.id] === undefined
+        ? "Selecciona una resposta"
+        : "Resposta registrada";
 
 }
 

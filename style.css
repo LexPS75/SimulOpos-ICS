@@ -1805,6 +1805,7 @@ footer {
     border-radius: 7px;
     font-size: 11px;
     font-weight: 700;
+	margin-left: 10px; /* <--- Aquesta és la línia que dóna l'espai */
     letter-spacing: 0.5px;
 }
 
