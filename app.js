@@ -10,71 +10,43 @@
 
 const CATEGORIES = {
 
-    auxadm: {
-
-        name: "Aux. Administratiu/va",
-
-        shortName: "Aux. Administratiu/va",
-
-        file:
-            "preguntas_ics_aux_administratiu.json",
-
-        icon:
-            "📋",
-
-        description:
-            "Preguntes del temari d'Auxiliar Administratiu/va de l'ICS.",
-
-        color:
-            "#2563eb"
+    infermeria: {
+        name: "Infermer/a",
+        shortName: "Infermer/a",
+        file: "preguntas_ics_infermeria.json",
+        icon: "💉",
+        description: "Preguntes del temari d'Infermer/a de l'ICS.",
+        color: "#10b981"
     },
 
+    auxadm: {
+        name: "Aux. Administratiu/va",
+        shortName: "Aux. Administratiu/va",
+        file: "preguntas_ics_aux_administratiu.json",
+        icon: "📋",
+        description: "Preguntes del temari d'Auxiliar Administratiu/va de l'ICS.",
+        color: "#2563eb"
+    },
 
     administratiu: {
-
-        name:
-            "Administratiu/va",
-
-        shortName:
-            "Administratiu/va",
-
-        file:
-            "preguntas_ics_administratiu.json",
-
-        icon:
-            "📁",
-
-        description:
-            "Preguntes del temari d'Administratiu/va de l'ICS.",
-
-        color:
-            "#7c3aed"
+        name: "Administratiu/va",
+        shortName: "Administratiu/va",
+        file: "preguntas_ics_administratiu.json",
+        icon: "📁",
+        description: "Preguntes del temari d'Administratiu/va de l'ICS.",
+        color: "#7c3aed"
     },
 
-
     transversal: {
-
-        name:
-            "Transversal",
-
-        shortName:
-            "Temari comú",
-
-        file:
-            "preguntas_ics_transversal.json",
-
-        icon:
-            "📚",
-
-        description:
-            "Temari comú i transversal de l'ICS.",
-
-        color:
-            "#0891b2"
+        name: "Transversal",
+        shortName: "Temari comú",
+        file: "preguntas_ics_transversal.json",
+        icon: "📚",
+        description: "Temari comú i transversal de l'ICS.",
+        color: "#0891b2"
     }
 
 };
-
 
 /* ============================================================
    ESTADO
@@ -117,119 +89,67 @@ const state = {
 
 };
 
-
 /* ============================================================
    BLOQUES POR DEFECTO
 ============================================================ */
 
 const DEFAULT_BLOCKS = {
 
-    auxadm: {
-
-        dret:
-            "⚖️ Dret administratiu",
-
-        dades:
-            "🔒 Protecció de dades",
-
-        transparencia:
-            "🏛️ Transparència",
-
-        ics:
-            "🏥 Organització ICS",
-
-        informatica:
-            "💻 Informàtica",
-
-        gestioarchius:
-            "📂 Gestió d'arxius",
-
-        rrhhadm:
-            "👥 RRHH administratiu",
-
-        prl:
-            "⚠️ PRL",
-
-        igualtat:
-            "⚖️ Igualtat",
-
-        qualitat:
-            "🔄 Qualitat",
-
-        carrera:
-            "🏅 Carrera professional"
+    infermeria: {
+        transversal: "🏛️ Temari transversal",
+        clinic: "🩺 Temari clínic",
+        etica: "⚖️ Ètica i deontologia",
+        suposits: "📋 Supòsits pràctics",
+        farmacologia: "💊 Farmacologia",
+        legislacio: "📜 Legislació",
+        pediatria: "👶 Pediatria",
+        prl: "⚠️ PRL",
+        igualtat: "⚖️ Igualtat",
+        qualitat: "🔄 Qualitat",
+        carrera: "🏅 Carrera professional"
     },
 
+    auxadm: {
+        dret: "⚖️ Dret administratiu",
+        dades: "🔒 Protecció de dades",
+        transparencia: "🏛️ Transparència",
+        ics: "🏥 Organització ICS",
+        informatica: "💻 Informàtica",
+        gestioarchius: "📂 Gestió d'arxius",
+        rrhhadm: "👥 RRHH administratiu",
+        prl: "⚠️ PRL",
+        igualtat: "⚖️ Igualtat",
+        qualitat: "🔄 Qualitat",
+        carrera: "🏅 Carrera professional"
+    },
 
     administratiu: {
-
-        dret:
-            "⚖️ Dret administratiu",
-
-        rrhh:
-            "👥 Recursos humans",
-
-        sistemes:
-            "💻 Sistemes",
-
-        sanitari:
-            "🏥 Organització sanitària",
-
-        comptabilitat:
-            "📊 Comptabilitat",
-
-        contractaciopublica:
-            "📋 Contractació pública",
-
-        gestioeconomica:
-            "💶 Gestió econòmica",
-
-        prl:
-            "⚠️ PRL",
-
-        igualtat:
-            "⚖️ Igualtat",
-
-        qualitat:
-            "🔄 Qualitat",
-
-        carrera:
-            "🏅 Carrera professional"
+        dret: "⚖️ Dret administratiu",
+        rrhh: "👥 Recursos humans",
+        sistemes: "💻 Sistemes",
+        sanitari: "🏥 Organització sanitària",
+        comptabilitat: "📊 Comptabilitat",
+        contractaciopublica: "📋 Contractació pública",
+        gestioeconomica: "💶 Gestió econòmica",
+        prl: "⚠️ PRL",
+        igualtat: "⚖️ Igualtat",
+        qualitat: "🔄 Qualitat",
+        carrera: "🏅 Carrera professional"
     },
 
-
     transversal: {
-
-        organitzacio:
-            "🏥 Organització sanitària",
-
-        marc_legal:
-            "📜 Marc legal",
-
-        drets_pacient:
-            "🩺 Drets del pacient",
-
-        prl:
-            "⚠️ PRL",
-
-        igualtat:
-            "⚖️ Igualtat",
-
-        lopd:
-            "🔒 LOPD",
-
-        qualitat:
-            "🔄 Qualitat",
-
-        carrera:
-            "🏅 Carrera professional",
-
-        pla_salut:
-            "📋 Pla de Salut"
+        organitzacio: "🏥 Organització sanitària",
+        marc_legal: "📜 Marc legal",
+        drets_pacient: "🩺 Drets del pacient",
+        prl: "⚠️ PRL",
+        igualtat: "⚖️ Igualtat",
+        lopd: "🔒 LOPD",
+        qualitat: "🔄 Qualitat",
+        carrera: "🏅 Carrera professional",
+        pla_salut: "📋 Pla de Salut"
     }
 
 };
-
 
 /* ============================================================
    UTILIDADES DOM
@@ -781,75 +701,38 @@ function getBlockNames() {
 function getBlockDescription(key) {
 
     const descriptions = {
+        // Noves descripcions per a Infermeria
+        clinic: "Coneixements clínics i procediments",
+        etica: "Ètica, deontologia i bioètica",
+        suposits: "Casos pràctics i resolució de problemes",
+        farmacologia: "Administració de fàrmacs i precaucions",
+        legislacio: "Normativa sanitària i professional",
+        pediatria: "Cures d'infermeria pediàtrica i neonatal",
 
-        dret:
-            "Normativa i dret administratiu",
-
-        dades:
-            "Protecció de dades personals",
-
-        transparencia:
-            "Transparència i bon govern",
-
-        ics:
-            "Organització i funcionament de l'ICS",
-
-        informatica:
-            "Sistemes i eines informàtiques",
-
-        gestioarchius:
-            "Gestió documental i arxius",
-
-        rrhhadm:
-            "Recursos humans administratius",
-
-        rrhh:
-            "Personal i recursos humans",
-
-        sistemes:
-            "Sistemes d'informació",
-
-        sanitari:
-            "Organització sanitària",
-
-        comptabilitat:
-            "Comptabilitat pública",
-
-        contractaciopublica:
-            "Contractació pública",
-
-        gestioeconomica:
-            "Gestió econòmica",
-
-        prl:
-            "Prevenció de riscos laborals",
-
-        igualtat:
-            "Igualtat efectiva",
-
-        qualitat:
-            "Gestió i qualitat",
-
-        carrera:
-            "Carrera professional",
-
-        organitzacio:
-            "Organització sanitària",
-
-        marc_legal:
-            "Marc jurídic aplicable",
-
-        drets_pacient:
-            "Drets de les persones usuàries",
-
-        lopd:
-            "Protecció de dades",
-
-        pla_salut:
-            "Pla de Salut"
-
+        // Descripcions ja existents
+        dret: "Normativa i dret administratiu",
+        dades: "Protecció de dades personals",
+        transparencia: "Transparència i bon govern",
+        ics: "Organització i funcionament de l'ICS",
+        informatica: "Sistemes i eines informàtiques",
+        gestioarchius: "Gestió documental i arxius",
+        rrhhadm: "Recursos humans administratius",
+        rrhh: "Personal i recursos humans",
+        sistemes: "Sistemes d'informació",
+        sanitari: "Organització sanitària",
+        comptabilitat: "Comptabilitat pública",
+        contractaciopublica: "Contractació pública",
+        gestioeconomica: "Gestió econòmica",
+        prl: "Prevenció de riscos laborals",
+        igualtat: "Igualtat efectiva",
+        qualitat: "Gestió i qualitat",
+        carrera: "Carrera professional",
+        organitzacio: "Organització sanitària",
+        marc_legal: "Marc jurídic aplicable",
+        drets_pacient: "Drets de les persones usuàries",
+        lopd: "Protecció de dades",
+        pla_salut: "Pla de Salut"
     };
-
 
     return (
         descriptions[key] ||
@@ -857,7 +740,6 @@ function getBlockDescription(key) {
     );
 
 }
-
 
 /* ============================================================
    TEST
