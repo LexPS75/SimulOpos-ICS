@@ -871,6 +871,11 @@ function showQuestion() {
 
     $("questionText").textContent =
         q.text;
+        
+        
+    // NOVA FUNCIONALITAT: Mostrar l'etiqueta de la categoria de la pregunta
+    const blockName = getBlockNames()[q.category] || q.categoryName || q.category;
+    $("questionCategoryBadge").textContent = blockName;
 
 
     $("questionSource").textContent =
@@ -897,7 +902,6 @@ function showQuestion() {
             : "Resposta registrada";
 
 }
-
 
 /* ============================================================
    OPCIONES
