@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SimulOpos ICS · Simulador d'examen</title>
+
+    <meta
+        name="description"
+        content="Simulador de preguntes per preparar les oposicions de l'Institut Català de la Salut."
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- =========================================================
+         HEADER
+    ========================================================== -->
+
+    <header class="topbar">
+
+        <div class="brand">
+
+            <div class="brand-icon">
+                🏥
+            </div>
+
+            <div>
+                <div class="brand-name">SimulOpos</div>
+                <div class="brand-subtitle">ICS 2025</div>
+            </div>
+
+        </div>
+
+        <div class="top-actions">
+
+            <button
+                id="themeToggle"
+                class="icon-button"
+                title="Canviar tema"
+            >
+                ☀️
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <!-- =========================================================
+         MAIN
+    ========================================================== -->
+
+    <main class="container">
+
+        <!-- HERO -->
+
+        <section class="hero">
+
+            <div class="hero-badge">
+                ● SIMULADOR LOCAL
+            </div>
+
+            <h1>
+                Prepara les teves
+                <span>oposicions ICS</span>
+            </h1>
+
+            <p>
+                Practica amb les preguntes disponibles de les diferents
+                especialitats i controla el teu progrés.
+            </p>
+
+        </section>
+
+
+        <!-- =====================================================
+             CATEGORY SELECTOR
+        ====================================================== -->
+
+        <section class="category-panel">
+
+            <div class="section-heading">
+
+                <div>
+                    <span class="eyebrow">ESPECIALITAT</span>
+
+                    <h2>
+                        Què vols practicar?
+                    </h2>
+                </div>
+
+            </div>
+
+
+            <div
+                id="categoryCards"
+                class="category-grid"
+            >
+
+                <!-- Generat per JS -->
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             BLOCK SELECTOR
+        ====================================================== -->
+
+        <section
+            id="blockPanel"
+            class="block-panel hidden"
+        >
+
+            <div class="section-heading">
+
+                <div>
+
+                    <span class="eyebrow">
+                        TEMARI
+                    </span>
+
+                    <h2>
+                        Tria el bloc temàtic
+                    </h2>
+
+                    <p id="blockDescription">
+                        Selecciona el contingut que vols practicar.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div
+                id="blockGrid"
+                class="block-grid"
+            >
+
+                <!-- Generat per JS -->
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             TEST AREA
+        ====================================================== -->
+
+        <section
+            id="testPanel"
+            class="test-panel hidden"
+        >
+
+            <!-- TEST HEADER -->
+
+            <div class="test-header">
+
+                <div>
+
+                    <div
+                        id="testCategory"
+                        class="test-category"
+                    >
+                        Administratiu/va
+                    </div>
+
+                    <h2 id="testBlock">
+                        Tot el temari
+                    </h2>
+
+                </div>
+
+
+                <div class="test-actions">
+
+                    <button
+                        id="restartButton"
+                        class="secondary-button"
+                    >
+                        ↻ Nou test
+                    </button>
+
+                    <button
+                        id="changeBlockButton"
+                        class="secondary-button"
+                    >
+                        ☰ Canviar bloc
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- STATS -->
+
+            <div class="stats-grid">
+
+                <div class="stat-card">
+
+                    <div class="stat-icon blue">
+                        📝
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Pregunta
+                        </span>
+
+                        <strong id="questionCounter">
+                            0 / 0
+                        </strong>
+
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon green">
+                        ✓
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Encerts
+                        </span>
+
+                        <strong id="correctCounter">
+                            0
+                        </strong>
+
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon red">
+                        ✕
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Errors
+                        </span>
+
+                        <strong id="wrongCounter">
+                            0
+                        </strong>
+
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon purple">
+                        %
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Precisió
+                        </span>
+
+                        <strong id="accuracyCounter">
+                            0%
+                        </strong>
+
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon orange">
+                        ⏱
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Temps
+                        </span>
+
+                        <strong id="timer">
+                            00:00
+                        </strong>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- PROGRESS -->
+
+            <div class="progress-container">
+
+                <div class="progress-label">
+
+                    <span>
+                        Progrés del test
+                    </span>
+
+                    <span id="progressPercent">
+                        0%
+                    </span>
+
+                </div>
+
+                <div class="progress-bar">
+
+                    <div
+                        id="progressBar"
+                        class="progress-fill"
+                    ></div>
+
+                </div>
+
+            </div>
+
+
+            <!-- QUESTION -->
+
+            <article
+                id="questionCard"
+                class="question-card"
+            >
+
+                <div class="question-meta">
+
+                    <span
+                        id="questionNumber"
+                        class="question-number"
+                    >
+                        PREGUNTA 1
+                    </span>
+
+                    <span
+                        id="questionSource"
+                        class="question-source"
+                    >
+                    </span>
+
+                </div>
+
+
+                <h3 id="questionText">
+                    Carregant pregunta...
+                </h3>
+
+
+                <div
+                    id="optionsContainer"
+                    class="options"
+                >
+
+                    <!-- Opcions generades per JS -->
+
+                </div>
+
+
+                <!-- FEEDBACK -->
+
+                <div
+                    id="feedback"
+                    class="feedback hidden"
+                >
+
+                    <div
+                        id="feedbackIcon"
+                        class="feedback-icon"
+                    >
+                    </div>
+
+                    <div class="feedback-content">
+
+                        <strong id="feedbackTitle">
+                        </strong>
+
+                        <p id="feedbackText">
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <div class="question-footer">
+
+                    <div
+                        id="answeredLabel"
+                        class="answered-label"
+                    >
+                        Selecciona una resposta
+                    </div>
+
+                    <button
+                        id="nextButton"
+                        class="primary-button"
+                        disabled
+                    >
+                        Següent →
+                    </button>
+
+                </div>
+
+            </article>
+
+
+            <!-- TEST NAVIGATION -->
+
+            <div class="question-map">
+
+                <div class="question-map-header">
+
+                    <strong>
+                        Preguntes del test
+                    </strong>
+
+                    <span>
+                        Fes clic per revisar
+                    </span>
+
+                </div>
+
+                <div
+                    id="questionMap"
+                    class="question-map-grid"
+                >
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             RESULTS
+        ====================================================== -->
+
+        <section
+            id="resultsPanel"
+            class="results-panel hidden"
+        >
+
+            <div class="results-icon">
+                🎯
+            </div>
+
+            <div class="results-badge">
+                TEST COMPLETAT
+            </div>
+
+            <h2>
+                Test finalitzat
+            </h2>
+
+            <p id="resultsSummary">
+                Has completat el test.
+            </p>
+
+
+            <div class="result-main">
+
+                <div class="score-circle">
+
+                    <div>
+
+                        <strong id="finalAccuracy">
+                            0%
+                        </strong>
+
+                        <span>
+                            encerts
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="result-details">
+
+                    <div class="result-row">
+
+                        <span>
+                            Preguntes
+                        </span>
+
+                        <strong id="finalTotal">
+                            0
+                        </strong>
+
+                    </div>
+
+                    <div class="result-row correct-row">
+
+                        <span>
+                            ✓ Correctes
+                        </span>
+
+                        <strong id="finalCorrect">
+                            0
+                        </strong>
+
+                    </div>
+
+                    <div class="result-row wrong-row">
+
+                        <span>
+                            ✕ Incorrectes
+                        </span>
+
+                        <strong id="finalWrong">
+                            0
+                        </strong>
+
+                    </div>
+
+                    <div class="result-row">
+
+                        <span>
+                            ⏱ Temps
+                        </span>
+
+                        <strong id="finalTime">
+                            00:00
+                        </strong>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="results-actions">
+
+                <button
+                    id="newTestButton"
+                    class="primary-button large"
+                >
+                    ↻ Tornar a començar
+                </button>
+
+                <button
+                    id="resultChangeCategory"
+                    class="secondary-button large"
+                >
+                    ☰ Canviar categoria
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             LOADING / ERROR
+        ====================================================== -->
+
+        <div
+            id="loading"
+            class="loading hidden"
+        >
+
+            <div class="spinner"></div>
+
+            <p>
+                Carregant preguntes...
+            </p>
+
+        </div>
+
+
+        <div
+            id="errorPanel"
+            class="error-panel hidden"
+        >
+
+            <div class="error-icon">
+                ⚠️
+            </div>
+
+            <h3>
+                No s'han pogut carregar les preguntes
+            </h3>
+
+            <p id="errorText">
+            </p>
+
+            <button
+                onclick="location.reload()"
+                class="primary-button"
+            >
+                ↻ Reintentar
+            </button>
+
+        </div>
+
+    </main>
+
+
+    <!-- =========================================================
+         FOOTER
+    ========================================================== -->
+
+    <footer>
+
+        <div class="footer-inner">
+
+            <div>
+                <strong>
+                    SimulOpos ICS
+                </strong>
+
+                <span>
+                    · Simulador local de preparació
+                </span>
+            </div>
+
+            <div>
+                Preguntes carregades des de fitxers JSON locals
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <script src="app.js"></script>
+
+</body>
+</html>

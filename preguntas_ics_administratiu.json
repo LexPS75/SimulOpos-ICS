@@ -1,0 +1,4326 @@
+{
+  "metadata": {
+    "titulo": "Administratiu/va ICS 2025",
+    "especialidad": "administratiu",
+    "origen": "SimulOpos",
+    "url_origen": "https://simulopos.com/ca/ics/administratiu/",
+    "base_datos": "Firebase Firestore",
+    "coleccion_origen": "questions",
+    "filtros": {
+      "specialty": "administratiu",
+      "active": true
+    },
+    "fecha_descarga": "2026-09-19T13:54:25.599451+00:00",
+    "total_preguntas": 125,
+    "bloques": {
+      "atencio": {
+        "nombre": "atencio",
+        "preguntas": 2
+      },
+      "carrera": {
+        "nombre": "🏅 Carrera professional",
+        "preguntas": 11
+      },
+      "comptabilitat": {
+        "nombre": "📊 Comptabilitat",
+        "preguntas": 7
+      },
+      "contractaciopublica": {
+        "nombre": "📋 Contractació pública",
+        "preguntas": 7
+      },
+      "dret": {
+        "nombre": "⚖️ Dret administratiu",
+        "preguntas": 21
+      },
+      "gestio": {
+        "nombre": "gestio",
+        "preguntas": 3
+      },
+      "gestioeconomica": {
+        "nombre": "💶 Gestió econòmica",
+        "preguntas": 6
+      },
+      "igualtat": {
+        "nombre": "⚖️ Igualtat",
+        "preguntas": 6
+      },
+      "informatica": {
+        "nombre": "informatica",
+        "preguntas": 2
+      },
+      "prl": {
+        "nombre": "⚠️ Prevenció de riscos laborals",
+        "preguntas": 7
+      },
+      "qualitat": {
+        "nombre": "🔄 Qualitat",
+        "preguntas": 11
+      },
+      "rrhh": {
+        "nombre": "👥 Recursos humans",
+        "preguntas": 15
+      },
+      "sanitari": {
+        "nombre": "🏥 Organització sanitària",
+        "preguntas": 13
+      },
+      "sistemes": {
+        "nombre": "💻 Sistemes",
+        "preguntas": 14
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "QYzFyTMCGloOhIzTABRs",
+      "categoria": "atencio",
+      "categoria_nombre": "atencio",
+      "pregunta": "Davant d'una queixa d'un ciutadà, quina és l'actitud correcta del funcionari?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Defensar sempre la postura de l'administració",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Escoltar activament, registrar la queixa i informar el ciutadà del procediment de reclamació",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ignorar la queixa si no és per escrit",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Dir-li que ha d'adreçar-se al superior jeràrquic",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Escoltar activament, registrar la queixa i informar el ciutadà del procediment de reclamació",
+      "explicacion": "Cal escoltar amb respecte, registrar la queixa i informar el ciutadà dels canals de reclamació, garantint el seu dret a formular queixes.",
+      "explicacion_incorrecta": "Ignorar una queixa o derivar sense atendre vulnera els drets del ciutadà; cal un procés formal de gestió de queixes.",
+      "fuente": "Drets dels ciutadans - Llei 39/2015"
+    },
+    {
+      "id": "WDyJF3T6ZqR23o5HAXhN",
+      "categoria": "atencio",
+      "categoria_nombre": "atencio",
+      "pregunta": "Quin és el principi fonamental de l'atenció al ciutadà en l'administració pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Atendre ràpidament per tancar les peticions",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Oferir una atenció de qualitat, accessible, respectuosa i orientada a resoldre les necessitats del ciutadà",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Derivar totes les consultes a altres serveis",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Prioritzar les tasques administratives internes",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Oferir una atenció de qualitat, accessible, respectuosa i orientada a resoldre les necessitats del ciutadà",
+      "explicacion": "L'atenció al ciutadà ha de ser de qualitat, accessible, respectuosa amb la dignitat de la persona i centrada en la resolució efectiva de les seves necessitats.",
+      "explicacion_incorrecta": "La velocitat no pot comprometres la qualitat; l'atenció al ciutadà és una responsabilitat central de l'administració pública.",
+      "fuente": "Llei 39/2015 - Atenció al ciutadà"
+    },
+    {
+      "id": "0pMLlBvCvIqvFLPwjOzb",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "La carrera professional al ICS reconeix:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament l'antiguitat acumulada en l'organització sanitària",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El desenvolupament professional, formació, docència, recerca i qualitat",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Exclusivament els mèrits acadèmics previs a entrar al ICS",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Únicament els resultats econòmics del centre on treballa",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El desenvolupament professional, formació, docència, recerca i qualitat",
+      "explicacion": "La carrera professional al ICS reconeix múltiples dimensions amb 4 nivells (CI a CIV).",
+      "explicacion_incorrecta": "Carrera professional ICS: antiguitat + formació + docència + recerca + qualitat.",
+      "fuente": "Font: Acord de Carrera Professional ICS"
+    },
+    {
+      "id": "6F1GYvfPh7mpc4mjPlIY",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Quin mecanisme permet a un funcionari millorar econòmicament sense ascendir de grup ni canviar de lloc?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El concurs de trasllats",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La carrera horitzontal i els trams de carrera",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La comissió de serveis",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'excedència voluntària",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La carrera horitzontal i els trams de carrera",
+      "explicacion": "La carrera horitzontal permet millorar les retribucions complementàries a través de trams de carrera aconseguits per mèrits, sense canviar de lloc ni de grup.",
+      "explicacion_incorrecta": "El concurs de trasllats és mobilitat; la carrera horitzontal és la progressió econòmica dins el mateix lloc.",
+      "fuente": "EBEP - Art. 17"
+    },
+    {
+      "id": "8kcaQRQ9Qgl9Qd6YBAqJ",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "A quin instrument vincula l'Estatut Bàsic de l'Empleat Públic la carrera professional i les retribucions complementàries dels empleats públics?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Exclusivament a l'antiguitat acumulada, amb independència del rendiment o de la conducta professional",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Exclusivament al nombre d'anys de formació acadèmica prèvia obtinguda abans de l'ingrés a l'Administració",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A l'avaluació de l'acompliment, entesa com el procediment que mesura la conducta professional i el rendiment del treballador",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Exclusivament al resultat d'un examen d'oposició únic, repetit periòdicament al llarg de tota la carrera",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "A l'avaluació de l'acompliment, entesa com el procediment que mesura la conducta professional i el rendiment del treballador",
+      "explicacion": "L'Estatut Bàsic de l'Empleat Públic vincula la carrera professional i la percepció de determinades retribucions complementàries a l'avaluació de l'acompliment, un procediment que mesura i valora la conducta professional i el rendiment del treballador de manera objectiva.",
+      "explicacion_incorrecta": "L'antiguitat, la formació prèvia o un únic examen periòdic poden influir en altres aspectes de la carrera, però l'EBEP configura l'avaluació de l'acompliment com l'instrument específic vinculat a aquesta progressió i a les retribucions complementàries.",
+      "fuente": "Reial decret legislatiu 5/2015, de 30 d'octubre (EBEP), article 20"
+    },
+    {
+      "id": "95OQxWQtXmJCbmJtupzl",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Quin és el concepte de 'carrera horitzontal' a la funció pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "L'ascens a un grup de titulació superior",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La progressió de grau, nivell o categoria sense necessitat d'accedir a un lloc de treball diferent ni superior",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El canvi d'administració",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La mobilitat entre departaments del mateix nivell",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La progressió de grau, nivell o categoria sense necessitat d'accedir a un lloc de treball diferent ni superior",
+      "explicacion": "La carrera horitzontal (EBEP art. 17) permet la progressió i millora de les condicions de treball sense necessitat de canviar de lloc ni ascendir de grup.",
+      "explicacion_incorrecta": "La carrera vertical és l'ascens de grup; la horitzontal és la progressió dins el mateix nivell.",
+      "fuente": "EBEP - Art. 17"
+    },
+    {
+      "id": "E98FghQjvdmgiR1dofdT",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Quin és el model de carrera professional de l'ICS per als seus treballadors?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El mateix que tota la Generalitat de Catalunya",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El model de carrera professional específic de l'ICS basat en trams de reconeixement i acreditació de competències",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament per antiguitat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "No hi ha carrera professional a l'ICS",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El model de carrera professional específic de l'ICS basat en trams de reconeixement i acreditació de competències",
+      "explicacion": "L'ICS té un model de carrera professional propi basat en el reconeixement de trams per mèrits, formació i competències, establert per la seva normativa específica.",
+      "explicacion_incorrecta": "La carrera de l'ICS no és automàtica per antiguitat; requereix acreditació de competències.",
+      "fuente": "Model de carrera professional ICS"
+    },
+    {
+      "id": "McXeUVtSZAE5W7f70HNl",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Segons l'Estatut Bàsic de l'Empleat Públic, quins són els grups de classificació professional en què s'organitzen els cossos i escales de la funció pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Els grups A1, A2, B, C1 i C2, en funció de la titulació exigida per a l'accés",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Els grups X, Y i Z, establerts de manera diferent per cada comunitat autònoma sense criteri comú",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Els nivells I, II, III i IV, en funció exclusivament de l'antiguitat acumulada al servei de l'Administració",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Els nivells complements 1 a 30, aplicables únicament al personal laboral de les administracions públiques",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Els grups A1, A2, B, C1 i C2, en funció de la titulació exigida per a l'accés",
+      "explicacion": "L'Estatut Bàsic de l'Empleat Públic estableix la classificació dels cossos i escales en els grups A1, A2, B, C1 i C2, atenent principalment a la titulació acadèmica exigida per a l'accés a cadascun d'ells.",
+      "explicacion_incorrecta": "Ni els nivells I a IV per antiguitat, ni uns suposats grups X, Y, Z diferents per comunitat autònoma, ni els nivells de complement de destinació (que sí existeixen, però són una figura diferent) es corresponen amb la classificació real que estableix l'EBEP.",
+      "fuente": "Reial decret legislatiu 5/2015, de 30 d'octubre (EBEP), article 76"
+    },
+    {
+      "id": "NE8Xo3uomvMlSslzCRUi",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Què s'entén per carrera vertical en el marc de la funció pública, a diferència de la carrera horitzontal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La millora econòmica del funcionari, sense necessitat de canviar de grup professional ni de lloc de treball actualment ocupat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "L'ascens en l'estructura jeràrquica de l'organització, ja sigui a través de la promoció interna o d'altres sistemes de provisió de llocs de treball",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El reconeixement de graus personals consolidats de manera automàtica pel simple transcurs d'un determinat període de temps",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La progressió merament salarial, sense cap efecte real sobre les funcions o el nivell del lloc de treball actualment ocupat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "L'ascens en l'estructura jeràrquica de l'organització, ja sigui a través de la promoció interna o d'altres sistemes de provisió de llocs de treball",
+      "explicacion": "La carrera vertical consisteix en l'ascens en l'estructura jeràrquica de l'organització, mitjançant mecanismes com la promoció interna o altres sistemes de provisió de llocs de treball, i implica un canvi real de responsabilitats o de grup professional.",
+      "explicacion_incorrecta": "La millora econòmica sense canvi de lloc, el reconeixement automàtic de graus i la progressió merament salarial descriuen, en canvi, trets propis de la carrera horitzontal, que no comporta necessàriament un ascens jeràrquic.",
+      "fuente": "Reial decret legislatiu 5/2015, de 30 d'octubre (EBEP), article 16"
+    },
+    {
+      "id": "V5lcXuKNJjJIDzaK9h4x",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Quin és el mecanisme de provisió de llocs de treball que permet als funcionaris de carrera canviar de destinació dins la mateixa Administració, valorant-se principalment mèrits com l'antiguitat i la formació?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La lliure designació, en què l'òrgan competent tria discrecionalment entre els candidats que hi concorren",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El concurs de trasllats, el sistema ordinari de mobilitat entre destinacions dins la mateixa Administració",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La promoció interna, que sempre comporta necessàriament un canvi de grup de classificació professional",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'oposició lliure, reservada exclusivament a l'accés inicial a la funció pública des de fora de l'Administració",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El concurs de trasllats, el sistema ordinari de mobilitat entre destinacions dins la mateixa Administració",
+      "explicacion": "El concurs de trasllats és el sistema ordinari de provisió de llocs de treball que permet als funcionaris de carrera optar a una nova destinació dins la mateixa Administració, mitjançant la valoració objectiva de mèrits com l'antiguitat, la formació o l'experiència.",
+      "explicacion_incorrecta": "La lliure designació es basa en la discrecionalitat de l'òrgan que nomena, no en un barem de mèrits; la promoció interna implica canviar de grup, i l'oposició lliure està reservada a l'accés inicial extern, no a la mobilitat entre destinacions.",
+      "fuente": "Reial decret legislatiu 5/2015, de 30 d'octubre (EBEP), article 78-79"
+    },
+    {
+      "id": "Z4MPR7BdYzVJiA5soryK",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Quins requisits generals estableix l'Estatut Bàsic de l'Empleat Públic per poder participar en els processos selectius d'accés a la funció pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament haver superat un període mínim de pràctiques prèvies remunerades a la mateixa Administració que convoca el procés",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Entre d'altres, tenir la nacionalitat exigida, l'edat mínima establerta, la titulació requerida i la capacitat funcional per exercir les tasques",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament residir de manera permanent i acreditada al municipi on radiqui la seu de l'Administració convocant",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Únicament acreditar experiència laboral prèvia en el sector privat en un lloc de treball de característiques similars",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Entre d'altres, tenir la nacionalitat exigida, l'edat mínima establerta, la titulació requerida i la capacitat funcional per exercir les tasques",
+      "explicacion": "L'Estatut Bàsic de l'Empleat Públic estableix com a requisits generals per participar en els processos selectius, entre d'altres, tenir la nacionalitat exigida, l'edat mínima establerta legalment, posseir la titulació requerida i tenir la capacitat funcional necessària per exercir les tasques corresponents.",
+      "explicacion_incorrecta": "Ni un període previ de pràctiques, ni l'experiència en el sector privat, ni la residència en un municipi concret figuren entre els requisits generals d'accés que exigeix l'EBEP amb caràcter bàsic per a tot l'Estat.",
+      "fuente": "Reial decret legislatiu 5/2015, de 30 d'octubre (EBEP), article 56"
+    },
+    {
+      "id": "mxyvSt72ekUgM5apu2Pt",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Quina és la diferència entre la carrera professional i la promoció interna?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No hi ha diferència",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La carrera professional és la progressió en grau i reconeixement; la promoció interna és l'accés a un cos o escala de grup superior",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La promoció interna és automàtica; la carrera professional es guanya amb mèrits",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La carrera professional és per a laborals; la promoció interna per a funcionaris",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La carrera professional és la progressió en grau i reconeixement; la promoció interna és l'accés a un cos o escala de grup superior",
+      "explicacion": "La carrera professional inclou la progressió vertical (promoció interna a grup superior) i horitzontal (avenç en grau sense canvi de lloc); la promoció interna és la modalitat vertical.",
+      "explicacion_incorrecta": "No són el mateix; la promoció interna és un dels components de la carrera professional.",
+      "fuente": "EBEP - Art. 16-18"
+    },
+    {
+      "id": "t0GMo7R1eoUP9HpWsLMm",
+      "categoria": "carrera",
+      "categoria_nombre": "🏅 Carrera professional",
+      "pregunta": "Quina norma estatal bàsica regula amb caràcter general la carrera professional dels empleats públics a Espanya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Llei 40/2015, d'1 d'octubre, de règim jurídic general del conjunt del sector públic espanyol",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El text refós de la Llei de contractes del sector públic, aprovat pel Reial decret legislatiu 3/2011",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "La Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de totes les administracions públiques",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El text refós de l'Estatut Bàsic de l'Empleat Públic, aprovat pel Reial decret legislatiu 5/2015",
+          "correcta": true
+        }
+      ],
+      "respuesta_correcta": "D",
+      "respuesta_correcta_indice": 3,
+      "respuesta_correcta_texto": "El text refós de l'Estatut Bàsic de l'Empleat Públic, aprovat pel Reial decret legislatiu 5/2015",
+      "explicacion": "El text refós de l'Estatut Bàsic de l'Empleat Públic (EBEP), aprovat pel Reial decret legislatiu 5/2015, de 30 d'octubre, és la norma estatal bàsica que regula amb caràcter general els drets i deures dels empleats públics, incloent-hi els diferents models de carrera professional.",
+      "explicacion_incorrecta": "La Llei 39/2015 regula el procediment administratiu comú, la Llei 40/2015 regula el règim jurídic del sector públic, i la llei de contractes regula la contractació pública; cap de les tres regula amb caràcter general la carrera professional dels empleats públics.",
+      "fuente": "Reial decret legislatiu 5/2015, de 30 d'octubre (EBEP)"
+    },
+    {
+      "id": "8RiChTmhvvyjHvISRRtG",
+      "categoria": "comptabilitat",
+      "categoria_nombre": "📊 Comptabilitat",
+      "pregunta": "Quin document resumeix les despeses reals efectuades i els ingressos obtinguts al final d'un exercici?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El pressupost inicial",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La liquidació del pressupost",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El pla de tresoreria",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La relació de llocs de treball",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La liquidació del pressupost",
+      "explicacion": "La liquidació del pressupost és el document que compara les previsions inicials amb les operacions realment realitzades al tancament de l'exercici.",
+      "explicacion_incorrecta": "El pressupost inicial és la previsió; la liquidació en reflecteix el resultat real.",
+      "fuente": "TRLRHL - Art. 191"
+    },
+    {
+      "id": "9Qcr6o3BRvmnEgBh9dh5",
+      "categoria": "comptabilitat",
+      "categoria_nombre": "📊 Comptabilitat",
+      "pregunta": "Quin principi comptable estableix que les despeses s'han de reconèixer quan es produeixen, independentment del moment del pagament?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Principi de caixa",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Principi de meritació (accrual)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Principi de prudència",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Principi de correlació d'ingressos i despeses",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Principi de meritació (accrual)",
+      "explicacion": "El principi de meritació (o accrual) estableix que els fets es registren quan succeeixen econòmicament, no quan es cobra o es paga.",
+      "explicacion_incorrecta": "El principi de caixa registra quan s'efectua el pagament o cobrament, no quan es merita.",
+      "fuente": "PGCP - Principis comptables"
+    },
+    {
+      "id": "C62QCRd6Dd9AkGndaJi4",
+      "categoria": "comptabilitat",
+      "categoria_nombre": "📊 Comptabilitat",
+      "pregunta": "Quin organisme fiscalitza el compliment de la legalitat economicofinancera de les administracions a Catalunya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Intervenció General de l'Estat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La Sindicatura de Comptes de Catalunya",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El Tribunal de Comptes de l'Estat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La Intervenció General de la Generalitat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La Sindicatura de Comptes de Catalunya",
+      "explicacion": "La Sindicatura de Comptes de Catalunya és l'organisme fiscalitzador del sector públic de la Generalitat i ens locals catalans.",
+      "explicacion_incorrecta": "El Tribunal de Comptes és l'organisme estatal; la Sindicatura és el equivalent a Catalunya.",
+      "fuente": "Llei 18/2010 Sindicatura de Comptes"
+    },
+    {
+      "id": "gwMP6XgfjWwKvZY6W3ho",
+      "categoria": "comptabilitat",
+      "categoria_nombre": "📊 Comptabilitat",
+      "pregunta": "Quin és el document comptable que reflecteix el patrimoni d'una entitat en un moment determinat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Compte de resultats",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Balanç de situació",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Estat de fluxos de tresoreria",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Informe de gestió",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Balanç de situació",
+      "explicacion": "El balanç de situació reflecteix l'actiu (béns i drets), el passiu (obligacions) i el patrimoni net d'una entitat en una data concreta.",
+      "explicacion_incorrecta": "El compte de resultats reflecteix ingressos i despeses d'un exercici, no la situació patrimonial.",
+      "fuente": "PGCP"
+    },
+    {
+      "id": "iFFXqBSNJzp3NiS2f7YO",
+      "categoria": "comptabilitat",
+      "categoria_nombre": "📊 Comptabilitat",
+      "pregunta": "Quin document recull la previsió d'ingressos i despeses d'una administració pública per a un exercici?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El balanç de situació",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El pressupost general",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La memòria anual",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'estat de tresoreria",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El pressupost general",
+      "explicacion": "El pressupost general és el document que recull totes les previsions d'ingressos i autoritzacions de despesa d'una administració per a un any.",
+      "explicacion_incorrecta": "El balanç reflecteix la situació patrimonial, no les previsions anuals de despesa i ingressos.",
+      "fuente": "TRLRHL / Llei de Finances Públiques"
+    },
+    {
+      "id": "naJ1ouyMl8mOcQr8R29v",
+      "categoria": "comptabilitat",
+      "categoria_nombre": "📊 Comptabilitat",
+      "pregunta": "Quin és el principi pressupostari d'anualitat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El pressupost ha de ser equilibrat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El pressupost regeix per a un exercici econòmic anual (1 gener - 31 desembre)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Els crèdits no es poden modificar durant l'any",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Totes les despeses han de ser aprovades pel Parlament",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El pressupost regeix per a un exercici econòmic anual (1 gener - 31 desembre)",
+      "explicacion": "El principi d'anualitat estableix que el pressupost cobreix un exercici econòmic d'un any natural, del primer de gener al trenta-u de desembre.",
+      "explicacion_incorrecta": "L'equilibri és un altre principi; l'anualitat fa referència al període de vigència.",
+      "fuente": "Llei de Finances Públiques de Catalunya"
+    },
+    {
+      "id": "tCkqLtZhPe4Cf1PyaD6e",
+      "categoria": "comptabilitat",
+      "categoria_nombre": "📊 Comptabilitat",
+      "pregunta": "Quin és el concepte d'execució pressupostària?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "L'elaboració del pressupost anual",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El procés de realització de les operacions previstes en el pressupost (reconeixement d'obligacions, ordenació de pagaments)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La liquidació del deute públic",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'auditoria de les comptes",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El procés de realització de les operacions previstes en el pressupost (reconeixement d'obligacions, ordenació de pagaments)",
+      "explicacion": "L'execució pressupostària és el procés pel qual es fan efectives les previsions del pressupost: es reconeixen les obligacions i s'ordenen els pagaments.",
+      "explicacion_incorrecta": "L'elaboració és la fase prèvia; l'execució és la realització efectiva de les operacions pressupostàries.",
+      "fuente": "Dret financer - pressupost"
+    },
+    {
+      "id": "P9TSvX0seShQzVsV1AtT",
+      "categoria": "contractaciopublica",
+      "categoria_nombre": "📋 Contractació pública",
+      "pregunta": "Quin és el termini general per impugnar la decisió d'adjudicació d'un contracte públic mitjançant recurs especial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "5 dies",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "15 dies hàbils",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "1 mes",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "3 mesos",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "15 dies hàbils",
+      "explicacion": "El recurs especial en matèria de contractació s'ha d'interposar en el termini de 15 dies hàbils des de la notificació o publicació de l'acte impugnat.",
+      "explicacion_incorrecta": "5 dies és el termini per a mesures provisionals; el recurs especial és 15 dies hàbils.",
+      "fuente": "LCSP - Art. 50"
+    },
+    {
+      "id": "PZO10saYnhek7iP5qLBR",
+      "categoria": "contractaciopublica",
+      "categoria_nombre": "📋 Contractació pública",
+      "pregunta": "Quin procediment d'adjudicació s'utilitza per a contractes de valor inferior als llindars europeus amb menys formalitats?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Procediment obert",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Procediment restringit",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Procediment simplificat",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Procediment negociat sense publicitat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "Procediment simplificat",
+      "explicacion": "El procediment simplificat (LCSP art. 159) s'aplica a contractes per sota dels llindars europeus i té tràmits menys onerosos que el procediment obert.",
+      "explicacion_incorrecta": "El procediment obert és el general per sobre dels llindars; el simplificat és per a imports menors.",
+      "fuente": "LCSP - Art. 159"
+    },
+    {
+      "id": "SZ7hJRwjaSh9Hdm1Mviw",
+      "categoria": "contractaciopublica",
+      "categoria_nombre": "📋 Contractació pública",
+      "pregunta": "Quin document recull les condicions tècniques i jurídiques que han de complir les ofertes en una licitació pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El pressupost",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Els plecs de clàusules administratives i de prescripcions tècniques",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "L'acta de la mesa de contractació",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El contracte definitiu",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Els plecs de clàusules administratives i de prescripcions tècniques",
+      "explicacion": "Els plecs (de clàusules administratives particulars i de prescripcions tècniques) estableixen les condicions de la licitació, els criteris d'adjudicació i els requisits del contracte.",
+      "explicacion_incorrecta": "El contracte es formalitza un cop adjudicada la licitació; els plecs regulen tot el procés.",
+      "fuente": "LCSP - Art. 122-124"
+    },
+    {
+      "id": "fQSFuiZ5Jsky6KuylFkc",
+      "categoria": "contractaciopublica",
+      "categoria_nombre": "📋 Contractació pública",
+      "pregunta": "Quin organisme publica les licitacions públiques de l'Administració General de l'Estat i del sector públic estatal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El BOE",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La Plataforma de Contractació del Sector Públic (PLACSP)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El DOGC",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El Diari Oficial de la UE",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La Plataforma de Contractació del Sector Públic (PLACSP)",
+      "explicacion": "La Plataforma de Contractació del Sector Públic (PLACSP) és el portal on es publiquen les licitacions de l'Administració General de l'Estat i dels ens del sector públic estatal.",
+      "explicacion_incorrecta": "El BOE publica disposicions normatives; la PLACSP és específica per a contractació.",
+      "fuente": "LCSP - Art. 347"
+    },
+    {
+      "id": "tDGXnKfQcNW64BGVnhaa",
+      "categoria": "contractaciopublica",
+      "categoria_nombre": "📋 Contractació pública",
+      "pregunta": "Quin és el concepte de 'fraccionament il·legal del contracte'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dividir un contracte en lots per facilitar la participació de PIMES",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Dividir artificialment un contracte per evitar els llindars de publicitat o procediments més exigents",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Pagar un contracte en diverses anualitats",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Subcontractar part de l'obra o servei",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Dividir artificialment un contracte per evitar els llindars de publicitat o procediments més exigents",
+      "explicacion": "El fraccionament il·legal consisteix a dividir artificialment un contracte per quedar per sota dels llindars que obligarien a procediments més rigorosos o a publicitat europea.",
+      "explicacion_incorrecta": "Dividir en lots per facilitar la concurrència és legal; el fraccionament il·legal és fraudulent.",
+      "fuente": "LCSP - Art. 99"
+    },
+    {
+      "id": "xZWR6eb82SOWKzGA7WFm",
+      "categoria": "contractaciopublica",
+      "categoria_nombre": "📋 Contractació pública",
+      "pregunta": "Quina llei regula la contractació del sector públic a Espanya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Llei 9/2017 de Contractes del Sector Públic (LCSP)",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Llei 39/2015 de Procediment Administratiu",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "RDL 5/2015 EBEP",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Llei 33/2003 del Patrimoni de les AAPP",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Llei 9/2017 de Contractes del Sector Públic (LCSP)",
+      "explicacion": "La Llei 9/2017 de Contractes del Sector Públic és la norma principal que regula la contractació pública a Espanya, transposant directives europees.",
+      "explicacion_incorrecta": "La Llei 39/2015 regula el procediment administratiu, no la contractació.",
+      "fuente": "LCSP - Llei 9/2017"
+    },
+    {
+      "id": "z05wvLtAvzp5J1ztyLrm",
+      "categoria": "contractaciopublica",
+      "categoria_nombre": "📋 Contractació pública",
+      "pregunta": "Quin és el principi que obliga a publicitar els contractes públics per garantir la concurrència?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Principi de transparència i publicitat",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Principi de jerarquia normativa",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Principi d'eficàcia",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Principi de proporcionalitat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Principi de transparència i publicitat",
+      "explicacion": "La publicitat i la transparència en la contractació pública garanteixen la concurrència de licitadors i impedeixen la corrupció.",
+      "explicacion_incorrecta": "La jerarquia normativa regula el rang de les normes, no la contractació.",
+      "fuente": "LCSP - Art. 1"
+    },
+    {
+      "id": "08qNLBFCXnQT8RwUi9Zd",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quant dura el període de prova d'un funcionari en pràctiques?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1 any",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El temps que estableix la convocatòria específica o la normativa aplicable, sovint entre 6 mesos i 1 any",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "2 anys",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "No hi ha període de prova per als funcionaris",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El temps que estableix la convocatòria específica o la normativa aplicable, sovint entre 6 mesos i 1 any",
+      "explicacion": "El període de pràctiques el fixa la convocatòria o la normativa específica de cada cos; generalment és d'entre 6 mesos i un any.",
+      "explicacion_incorrecta": "No hi ha un termini únic universal; cada convocatòria estableix el seu propi període.",
+      "fuente": "EBEP - Art. 61"
+    },
+    {
+      "id": "1pJYUmuf8IKBoT5mthmN",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quina llei regula el règim jurídic del sector públic i les relacions entre administracions?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Llei 39/2015",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Llei 40/2015",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Llei 29/1998",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "RDL 5/2015",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Llei 40/2015",
+      "explicacion": "La Llei 40/2015 de Règim Jurídic del Sector Públic regula les relacions interadministratives i l'organització del sector públic.",
+      "explicacion_incorrecta": "La Llei 39/2015 regula el procediment administratiu comú.",
+      "fuente": "Llei 40/2015 RJSP"
+    },
+    {
+      "id": "ALMxzGDef9kmfRlWYrzh",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quins són els requisits per ser funcionari de carrera a Espanya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ser espanyol, major de 18 anys, tenir la titulació requerida i no patir cap incapacitat",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ser europeu, major de 16 anys i tenir experiència",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ser español, major de 21 anys i superar un curs selectiu",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Tenir titulació i no haver estat sancionat mai",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Ser espanyol, major de 18 anys, tenir la titulació requerida i no patir cap incapacitat",
+      "explicacion": "L'EBEP estableix com a requisits: nacionalitat (espanyola o d'UE per certs cossos), majoria d'edat, titulació, capacitat funcional i no haver estat separat del servei.",
+      "explicacion_incorrecta": "16 anys és la majoria laboral general, però la funció pública exigeix 18 anys.",
+      "fuente": "EBEP - Art. 56"
+    },
+    {
+      "id": "Jd3lUn3PWsn43xyeMjyz",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin recurs administratiu es presenta davant el mateix òrgan que va dictar l'acte?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Recurs d'alçada",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Recurs de reposició",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Recurs contenciós-administratiu",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Recurs extraordinari de revisió",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Recurs de reposició",
+      "explicacion": "El recurs de reposició es presenta davant el mateix òrgan que va dictar l'acte.",
+      "explicacion_incorrecta": "El recurs d'alçada va al superior jeràrquic.",
+      "fuente": "Llei 39/2015 - Recursos"
+    },
+    {
+      "id": "OtjBjhGNOHTUHtDbxppk",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "L'Estatut Bàsic de l'Empleat Públic (EBEP) és regulat per:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Llei 39/2015 de procediment administratiu comú",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El RDL 5/2015, de 30 d'octubre, text refós de l'Estatut",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La LO 3/2018 de protecció de dades i drets digitals",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La Llei 19/2014 de transparència i bon govern català",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El RDL 5/2015, de 30 d'octubre, text refós de l'Estatut",
+      "explicacion": "EBEP = RDL 5/2015, de 30 d'octubre, text refós de la Llei de l'Estatut Bàsic de l'Empleat Públic.",
+      "explicacion_incorrecta": "EBEP = RDL 5/2015.",
+      "fuente": "Font: RDL 5/2015, de 30 d'octubre (EBEP)"
+    },
+    {
+      "id": "SlCfq2PeO5OVNDOP56Dn",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin és el rang normatiu d'un reglament aprovat per un conseller de la Generalitat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Llei",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Decret",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ordre",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Resolució",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "Ordre",
+      "explicacion": "Les normes aprovades pels consellers/eres de la Generalitat de Catalunya es denominen ordres i tenen rang inferior als decrets del Govern.",
+      "explicacion_incorrecta": "Un decret és aprovat pel Govern (Consell Executiu), no per un conseller.",
+      "fuente": "Dret administratiu - fonts"
+    },
+    {
+      "id": "TCDrhNV7t4uvHvoMobkP",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "La norma de referència en contractació pública a Espanya és:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Llei 39/2015 de procediment administratiu de les AAPP",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La Llei 9/2017 de Contractes del Sector Públic (LCSP)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La Llei 19/2014 de transparència i bon govern de Catalunya",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El RDL 5/2015 de l'Estatut Bàsic de l'Empleat Públic",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La Llei 9/2017 de Contractes del Sector Públic (LCSP)",
+      "explicacion": "LCSP (Llei 9/2017) = contractació pública.",
+      "explicacion_incorrecta": "LCSP (Llei 9/2017) = contractació pública. Llei 39/2015 = procediment administratiu.",
+      "fuente": "Font: Llei 9/2017, de 8 de novembre, LCSP"
+    },
+    {
+      "id": "WCBsyYaMTiN95vAju2Mv",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "L'EBEP (Estatut Bàsic de l'Empleat Públic) s'aplica a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament als funcionaris de carrera",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Als empleats públics de totes les administracions, incloent-hi personal laboral i funcionari",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Només als treballadors de l'Administració General de l'Estat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Exclusivament als empleats de les Comunitats Autònomes",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Als empleats públics de totes les administracions, incloent-hi personal laboral i funcionari",
+      "explicacion": "L'EBEP (Reial Decret Legislatiu 5/2015) s'aplica a tots els empleats públics de totes les administracions: funcionaris de carrera, interins, personal laboral i eventual.",
+      "explicacion_incorrecta": "L'EBEP no es limita ni a funcionaris de carrera ni a cap administració específica; té àmbit general.",
+      "fuente": "RDL 5/2015 EBEP"
+    },
+    {
+      "id": "Wt3nwSCv41SpYBRkP1yt",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin document acredita que una persona és funcionari de carrera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El contracte laboral",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El títol universitari",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "La credencial de nomenament",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "El certificat de serveis prestats",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "La credencial de nomenament",
+      "explicacion": "El nomenament és l'acte administratiu pel qual una persona adquireix la condició de funcionari de carrera; la credencial n'és el document acreditatiu.",
+      "explicacion_incorrecta": "Els funcionaris no tenen contracte laboral; la relació és estatutària.",
+      "fuente": "EBEP - Art. 62"
+    },
+    {
+      "id": "YoBmrK60bYcksmE723ur",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quins principis d'actuació de les administracions estableix l'article 103 de la Constitució?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Eficàcia, jerarquia, descentralització, desconcentració i coordinació",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Centralització, unitat i eficiència",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Autonomia, subsidirarietat i proporcionalitat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Transparència, austeritat i modernització",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Eficàcia, jerarquia, descentralització, desconcentració i coordinació",
+      "explicacion": "L'article 103 CE estableix eficàcia, jerarquia, descentralització, desconcentració i coordinació.",
+      "explicacion_incorrecta": "La CE no menciona centralització com a principi.",
+      "fuente": "CE - Art. 103"
+    },
+    {
+      "id": "gSU64O5ZGTnXA3tiXCtv",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "El principi d'eficàcia en l'actuació administrativa implica:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fer les coses al menor cost possible sense considerar la qualitat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Assolir els objectius fixats complint les normes establertes",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Prioritzar la rapidesa sobre la qualitat del servei prestat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Maximitzar els recursos disponibles sense cap tipus de límit",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Assolir els objectius fixats complint les normes establertes",
+      "explicacion": "Eficàcia = assolir objectius. Eficiència = menor cost.",
+      "explicacion_incorrecta": "Eficàcia = assolir objectius. Eficiència = menor cost.",
+      "fuente": "Font: Llei 40/2015 · Principis generals"
+    },
+    {
+      "id": "gUBFa2zYz3f1XGqy28nq",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Termini de conservació de documentació comptable a les AAPP:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "3 anys des de la data de la darrera anotació comptable",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "5 anys com a mínim per normativa comptable aplicable",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "10 anys per equiparar-ho a la documentació clínica sanitària",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "20 anys per a documents que afecten drets i obligacions",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "5 anys com a mínim per normativa comptable aplicable",
+      "explicacion": "Normativa comptable: mínim 5 anys de conservació.",
+      "explicacion_incorrecta": "Documentació comptable: mínim 5 anys. No confondre amb documentació clínica (10 anys).",
+      "fuente": "Font: Llei General Pressupostària"
+    },
+    {
+      "id": "gsCDFCC8pSMiAzXiH9XJ",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quina és la diferència entre descentralització i desconcentració?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Són sinònims",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La descentralització transfereix competències a ens amb personalitat jurídica pròpia; la desconcentració les transfereix a òrgans del mateix ens",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La desconcentració és permanent; la descentralització, temporal",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La descentralització és aplicable només a l'Estat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La descentralització transfereix competències a ens amb personalitat jurídica pròpia; la desconcentració les transfereix a òrgans del mateix ens",
+      "explicacion": "La descentralització transfereix competències a ens autònoms; la desconcentració les trasllada internament dins el mateix ens sense crear personalitat jurídica nova.",
+      "explicacion_incorrecta": "No són sinònims; impliquen estructures organitzatives molt diferents.",
+      "fuente": "Dret administratiu - organització"
+    },
+    {
+      "id": "inoQFdmrHv5KHEHyKIZm",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin és el termini general per resoldre un procediment administratiu ordinari?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "15 dies hàbils",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "3 mesos",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "6 mesos",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "1 any",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "6 mesos",
+      "explicacion": "La Llei 39/2015 de Procediment Administratiu Comú estableix que el termini màxim de resolució és de 6 mesos, tret que la normativa específica en fixi un altre.",
+      "explicacion_incorrecta": "Els 3 mesos corresponen a alguns procediments específics; el termini general ordinari és de 6 mesos.",
+      "fuente": "Llei 39/2015 - Art. 21"
+    },
+    {
+      "id": "lIOn960B4Dfv8sdhP0Ai",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quina és la vigència d'un reglament que no estableix data d'entrada en vigor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Immediatament",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Als 20 dies de la publicació al BOE/DOGC",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Al cap de 10 dies",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Al cap de 30 dies",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Als 20 dies de la publicació al BOE/DOGC",
+      "explicacion": "Pel Codi Civil (art. 2), les lleis i disposicions entren en vigor als 20 dies de la seva publicació oficial si no s'hi especifica una altra data.",
+      "explicacion_incorrecta": "No és immediata; el termini general és de 20 dies.",
+      "fuente": "Codi Civil - Art. 2"
+    },
+    {
+      "id": "lPeaLldRVounyb1Xjcum",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin és el principi que limita la discrecionalitat administrativa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Principi de jerarquia",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Principi de proporcionalitat",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Principi d'eficàcia",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Principi de desconcentració",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Principi de proporcionalitat",
+      "explicacion": "El principi de proporcionalitat exigeix que les mesures administratives siguin adequades, necessàries i proporcionades a la finalitat legítima perseguida.",
+      "explicacion_incorrecta": "La jerarquia regula la relació entre òrgans; la proporcionalitat limita l'excés.",
+      "fuente": "Llei 40/2015 - Art. 4"
+    },
+    {
+      "id": "m4zmjHyhud0nx8cVH6P1",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin és el termini per interposar un recurs d'alçada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "15 dies hàbils",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "1 mes si l'acte és exprés; 3 mesos si és per silenci",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "2 mesos",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "6 mesos",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "1 mes si l'acte és exprés; 3 mesos si és per silenci",
+      "explicacion": "El recurs d'alçada s'ha d'interposar en el termini d'un mes si l'acte és exprés, o en tres mesos si és per silenci administratiu.",
+      "explicacion_incorrecta": "El termini no és de 15 dies; això correspon a altres recursos.",
+      "fuente": "Llei 39/2015 - Art. 121"
+    },
+    {
+      "id": "o95RhndJJotTUdaee8iQ",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "La invalidesa dels actes administratius pot ser de dos tipus. Quins?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Absolutament nul·la i anulable",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Irregular i viciada",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nul·la i ineficaç",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Vàlida i provisional",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Absolutament nul·la i anulable",
+      "explicacion": "Els actes administratius poden ser nuls de ple dret (nul·litat absoluta) o anulables (nul·litat relativa), amb causes i efectes diferents.",
+      "explicacion_incorrecta": "Irregular i viciada no són categories jurídiques administratives.",
+      "fuente": "Llei 39/2015 - Art. 47-48"
+    },
+    {
+      "id": "q81Fotd5HnbrhKVf4X0B",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin és l'efecte del silenci administratiu en els procediments iniciats a sol·licitud de l'interessat, amb caràcter general?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Negatiu (desestimació)",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Positiu (estimació)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Nul (sense efecte)",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Depèn del tribunal",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Positiu (estimació)",
+      "explicacion": "Amb caràcter general, en els procediments iniciats a sol·licitud de l'interessat el silenci és positiu (estimació), llevat d'excepcions legals.",
+      "explicacion_incorrecta": "El silenci negatiu s'aplica en els procediments d'ofici i en excepcions legals.",
+      "fuente": "Llei 39/2015 - Art. 24"
+    },
+    {
+      "id": "t6FhIl1nMBWXZoeDRNOr",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "Quin principi obliga l'administració a tractar de manera igual els casos iguals?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Principi de jerarquia",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Principi d'igualtat i no discriminació",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Principi d'eficiència",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Principi de transparència",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Principi d'igualtat i no discriminació",
+      "explicacion": "El principi d'igualtat obliga l'administració a no discriminar i a tractar de manera igual els supòsits equivalents.",
+      "explicacion_incorrecta": "La jerarquia regula les relacions entre òrgans, no el tracte als ciutadans.",
+      "fuente": "CE - Art. 14 i 103"
+    },
+    {
+      "id": "uuBuB7h6QHkEm97FuJsL",
+      "categoria": "dret",
+      "categoria_nombre": "⚖️ Dret administratiu",
+      "pregunta": "La responsabilitat patrimonial de les AAPP implica:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "L'administració mai pot ser responsable pels seus actes i omissions",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Els particulars poden ser indemnitzats pels danys causats per l'administració",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Només els funcionaris responen personalment pels danys que causen",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La responsabilitat és exclusivament de caràcter penal i no civil",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Els particulars poden ser indemnitzats pels danys causats per l'administració",
+      "explicacion": "Art. 32 Llei 40/2015: els particulars tindran dret a indemnització pels danys causats per les AAPP.",
+      "explicacion_incorrecta": "Responsabilitat patrimonial: l'administració indemnitza els danys que causi.",
+      "fuente": "Font: Llei 40/2015 · Art. 32"
+    },
+    {
+      "id": "E2Q5MkzAnW2QniWHYz9P",
+      "categoria": "gestio",
+      "categoria_nombre": "gestio",
+      "pregunta": "Quin document formalitza la relació entre unitats administratives per a la prestació d'un servei?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un decret",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Un conveni de col·laboració o acord de servei",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Una circular interna",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Un reglament orgànic",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Un conveni de col·laboració o acord de servei",
+      "explicacion": "Els convenis de col·laboració o acords de servei formalitzen la relació entre unitats o entitats per a la prestació coordinada d'un servei.",
+      "explicacion_incorrecta": "Un decret és una norma jurídica general; els convenis regulen les relacions específiques entre entitats.",
+      "fuente": "Llei 40/2015 RJSP"
+    },
+    {
+      "id": "KYY4rY3DClcI6BR3Kesi",
+      "categoria": "gestio",
+      "categoria_nombre": "gestio",
+      "pregunta": "Quina és la finalitat de l'arxiu administratiu?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desar documents per estalviar espai",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Gestionar i custodiar la documentació administrativa per garantir-ne l'accessibilitat i la conservació",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Facilitar la venda de documents antics",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Digitalitzar tots els expedients per reduir paper",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Gestionar i custodiar la documentació administrativa per garantir-ne l'accessibilitat i la conservació",
+      "explicacion": "L'arxiu administratiu custodia, organitza i facilita l'accés a la documentació generada per l'administració, garantint-ne la conservació i la traçabilitat.",
+      "explicacion_incorrecta": "L'arxiu no és simplement un magatzem; té funcions actives de gestió documental i garantia de drets.",
+      "fuente": "Llei 10/2001 d'arxius i documents"
+    },
+    {
+      "id": "WUqozUTdQIKgifZlwXlk",
+      "categoria": "gestio",
+      "categoria_nombre": "gestio",
+      "pregunta": "Quin és l'objectiu del sistema de gestió per processos en l'administració sanitària?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Augmentar el nombre de treballadors",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Millorar l'eficiència i la qualitat dels serveis centrant-se en els processos que aporten valor",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Reduir la plantilla de personal",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Centralitzar totes les decisions en la direcció",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Millorar l'eficiència i la qualitat dels serveis centrant-se en els processos que aporten valor",
+      "explicacion": "La gestió per processos identifica i optimitza les activitats que aporten valor als ciutadans/pacients, millorant l'eficiència i la qualitat del servei.",
+      "explicacion_incorrecta": "La gestió per processos no implica augment ni reducció de plantilla per se; el seu objectiu és la millora de processos.",
+      "fuente": "Gestió de la qualitat - ISO 9001"
+    },
+    {
+      "id": "2YdtpOXjw7CzoL7g64Ql",
+      "categoria": "gestioeconomica",
+      "categoria_nombre": "💶 Gestió econòmica",
+      "pregunta": "Quin és el concepte de 'crèdit pressupostari'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un préstec de l'administració als ciutadans",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "L'autorització màxima de despesa aprovada en el pressupost per a una finalitat concreta",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Un tipus d'ingrés de l'administració",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El saldo del compte bancari de l'entitat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "L'autorització màxima de despesa aprovada en el pressupost per a una finalitat concreta",
+      "explicacion": "El crèdit pressupostari és l'autorització de despesa que el pressupost atorga a l'administració per a una finalitat concreta i fins a un import màxim.",
+      "explicacion_incorrecta": "No és un préstec ni un ingrés; és una autorització de gastar fins a un límit.",
+      "fuente": "Dret financer - crèdits pressupostaris"
+    },
+    {
+      "id": "A6QL4T0T6urtqq4AQbWO",
+      "categoria": "gestioeconomica",
+      "categoria_nombre": "💶 Gestió econòmica",
+      "pregunta": "Quin és el principal objectiu del control intern en la gestió econòmica de les administracions públiques?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Maximitzar els ingressos",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Verificar la legalitat, el bon ús dels recursos i la fiabilitat de la informació economicofinancera",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Controlar l'absentisme del personal",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Garantir la seguretat física dels edificis",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Verificar la legalitat, el bon ús dels recursos i la fiabilitat de la informació economicofinancera",
+      "explicacion": "El control intern (auditoria interna, intervenció) verifica que les operacions econòmiques siguin legals, eficients i que la informació financera sigui fiable.",
+      "explicacion_incorrecta": "No és maximitzar ingressos ni controlar absentisme; el control intern és de legalitat i eficiència.",
+      "fuente": "LCSP / Llei de Finances Públiques"
+    },
+    {
+      "id": "BJwRWexTlV7ecn0hgFTr",
+      "categoria": "gestioeconomica",
+      "categoria_nombre": "💶 Gestió econòmica",
+      "pregunta": "Quin document autoritza l'inici d'una despesa pública quan hi ha crèdit pressupostari suficient?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "L'ordenació del pagament",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "L'autorització de la despesa (fase A)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La proposta de resolució",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El reconeixement de l'obligació",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "L'autorització de la despesa (fase A)",
+      "explicacion": "La fase A (autorització) és el primer pas del cicle de la despesa pública: es reserva crèdit pressupostari per a una despesa futura prevista.",
+      "explicacion_incorrecta": "L'ordenació del pagament és la fase final (fase P); l'autorització és la fase inicial.",
+      "fuente": "Cicle de la despesa pública - PGCP"
+    },
+    {
+      "id": "IvormU7bksarr1SNosm8",
+      "categoria": "gestioeconomica",
+      "categoria_nombre": "💶 Gestió econòmica",
+      "pregunta": "Quin document de planificació financera a llarg termini permet avaluar la sostenibilitat de l'endeutament d'una administració?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El pressupost anual",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El Pla Econòmico-financer (PEF)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La liquidació de l'exercici anterior",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El pla de contractació anual",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El Pla Econòmico-financer (PEF)",
+      "explicacion": "El Pla Econòmico-financer (PEF) és l'instrument de planificació pluriennal que avalua l'equilibri pressupostari i la sostenibilitat financera a mig termini.",
+      "explicacion_incorrecta": "El pressupost anual és a curt termini; el PEF és la projecció pluriennal.",
+      "fuente": "Llei Orgànica 2/2012 d'estabilitat pressupostària"
+    },
+    {
+      "id": "mgLkNEtKYu9KynHpOh81",
+      "categoria": "gestioeconomica",
+      "categoria_nombre": "💶 Gestió econòmica",
+      "pregunta": "Quin és el concepte de 'romanent de tresoreria'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Els diners en caixa al final de l'any",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Els drets pendents de cobrament d'exercicis anteriors",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "El resultat de la liquidació pressupostària que reflecteix els recursos disponibles",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Les inversions financeres de l'entitat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "El resultat de la liquidació pressupostària que reflecteix els recursos disponibles",
+      "explicacion": "El romanent de tresoreria és el resultat de la liquidació pressupostària que indica els recursos disponibles de l'entitat, incloent drets pendents i obligacions.",
+      "explicacion_incorrecta": "No és simplement el saldo de caixa; incorpora drets i obligacions pendents.",
+      "fuente": "TRLRHL - Liquidació pressupostària"
+    },
+    {
+      "id": "x9KEl7ovKH0RQouuQeAt",
+      "categoria": "gestioeconomica",
+      "categoria_nombre": "💶 Gestió econòmica",
+      "pregunta": "Quines fases comprèn el cicle de la despesa pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Autorització, Disposició, Reconeixement de l'obligació i Ordenació del pagament (A-D-O-P)",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sol·licitud, Autorització i Pagament",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proposta, Aprovació i Execució",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Planificació, Pressupostació i Liquidació",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Autorització, Disposició, Reconeixement de l'obligació i Ordenació del pagament (A-D-O-P)",
+      "explicacion": "El cicle de la despesa pública es desenvolupa en quatre fases: Autorització (A), Disposició (D), Reconeixement de l'obligació (O) i Ordenació del pagament (P).",
+      "explicacion_incorrecta": "Planificació, Proposta, Sol·licitud no són fases formals del cicle de la despesa.",
+      "fuente": "PGCP - Cicle de la despesa"
+    },
+    {
+      "id": "9B8y8Rl16n9IDAhmSESJ",
+      "categoria": "igualtat",
+      "categoria_nombre": "⚖️ Igualtat",
+      "pregunta": "Quin instrument han d'aprovar les empreses i administracions amb 50 o més treballadors per promoure la igualtat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un codi de conducta",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Un pla d'igualtat",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Un protocol d'assetjament",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Una auditoria retributiva",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Un pla d'igualtat",
+      "explicacion": "La LO 3/2007 (modificada pel RDL 6/2019) obliga les empreses amb 50 o més persones treballadores a elaborar i aplicar un pla d'igualtat.",
+      "explicacion_incorrecta": "El protocol d'assetjament és obligatori però és un instrument diferent; el pla d'igualtat és l'obligació principal.",
+      "fuente": "LO 3/2007 / RDL 6/2019"
+    },
+    {
+      "id": "BmFZPXLlQyUqscyUXhh1",
+      "categoria": "igualtat",
+      "categoria_nombre": "⚖️ Igualtat",
+      "pregunta": "Quin és el concepte de 'discriminació indirecta' per raó de sexe?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una norma que tracta explícitament diferent homes i dones",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Una disposició, criteri o pràctica aparentment neutra que posa en desavantatge a persones d'un sexe",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El tracte vexatori explícit a una persona per raó del seu sexe",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'exclusió deliberada de dones d'un procés selectiu",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Una disposició, criteri o pràctica aparentment neutra que posa en desavantatge a persones d'un sexe",
+      "explicacion": "La discriminació indirecta es produeix quan una mesura aparentment neutra afecta desproporcionadament les persones d'un sexe.",
+      "explicacion_incorrecta": "La discriminació directa és el tracte explícitament diferent; la indirecta és l'efecte diferenciat d'una mesura neutra.",
+      "fuente": "LO 3/2007 - Art. 6"
+    },
+    {
+      "id": "DbrHM4HIXaXisSYMhGp8",
+      "categoria": "igualtat",
+      "categoria_nombre": "⚖️ Igualtat",
+      "pregunta": "Quina llei estableix les mesures per garantir la igualtat real entre dones i homes a Espanya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Llei Orgànica 1/2004 de violència de gènere",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Llei Orgànica 3/2007 per a la igualtat efectiva de dones i homes",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Llei 39/2015 de Procediment Administratiu",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Llei Orgànica 10/1995 del Codi Penal",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Llei Orgànica 3/2007 per a la igualtat efectiva de dones i homes",
+      "explicacion": "La Llei Orgànica 3/2007 regula la igualtat efectiva entre dones i homes i estableix mesures per eliminar la discriminació en tots els àmbits.",
+      "explicacion_incorrecta": "La LO 1/2004 tracta específicament la violència de gènere; la LO 3/2007 és la llei d'igualtat general.",
+      "fuente": "LO 3/2007"
+    },
+    {
+      "id": "rHZ48wsKWJgdNXyLsmjy",
+      "categoria": "igualtat",
+      "categoria_nombre": "⚖️ Igualtat",
+      "pregunta": "Quin és el concepte d'assetjament sexual en l'entorn laboral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Qualsevol conflicte entre companys",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Qualsevol comportament verbal, no verbal o físic de naturalesa sexual no desitjat que atempti contra la dignitat de la persona",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament el contacte físic no desitjat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El tracte discriminatori per raó de l'orientació sexual",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Qualsevol comportament verbal, no verbal o físic de naturalesa sexual no desitjat que atempti contra la dignitat de la persona",
+      "explicacion": "L'assetjament sexual comprèn comportaments verbals, no verbals o físics de naturalesa sexual no desitjats que atempten contra la dignitat i creen un entorn intimidatori.",
+      "explicacion_incorrecta": "No és només contacte físic; inclou comentaris, gestos i qualsevol conducta sexual no desitjada.",
+      "fuente": "LO 3/2007 - Art. 7"
+    },
+    {
+      "id": "tuOqR87mSbw5xeTlRjnx",
+      "categoria": "igualtat",
+      "categoria_nombre": "⚖️ Igualtat",
+      "pregunta": "Quina mesura corregeix la infrarepresentació d'un sexe en determinats llocs o sectors?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La discriminació positiva il·limitada",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Les mesures d'acció positiva, dins els límits establerts per la llei",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La paritat automàtica en tots els llocs",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La reserva de places exclusiva per a dones",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Les mesures d'acció positiva, dins els límits establerts per la llei",
+      "explicacion": "Les mesures d'acció positiva busquen corregir desigualtats de fet, donant preferència al sexe infrarepresentat en condicions d'igualtat de mèrit, dins els límits legals.",
+      "explicacion_incorrecta": "L'acció positiva no és discriminació positiva il·limitada; ha de ser proporcional i temporal.",
+      "fuente": "LO 3/2007 - Art. 11"
+    },
+    {
+      "id": "zKCi47C57LsX1hYOGiH3",
+      "categoria": "igualtat",
+      "categoria_nombre": "⚖️ Igualtat",
+      "pregunta": "Quin principi obliga a tenir en compte l'impacte de gènere en les polítiques i actuacions de l'administració?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Principi de subsidiarietat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Transversalitat o mainstreaming de gènere",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Principi de proporcionalitat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Principi de jerarquia normativa",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Transversalitat o mainstreaming de gènere",
+      "explicacion": "El principi de transversalitat (mainstreaming) exigeix integrar la perspectiva de gènere en totes les polítiques, programes i actuacions de l'administració.",
+      "explicacion_incorrecta": "La subsidiarietat regula la distribució de competències; la transversalitat és el principi d'igualtat de gènere.",
+      "fuente": "LO 3/2007 - Art. 15"
+    },
+    {
+      "id": "4XmzuUUSd1hSV0SG2ttT",
+      "categoria": "informatica",
+      "categoria_nombre": "informatica",
+      "pregunta": "Quin programari s'utilitza per gestionar bases de dades relacionals?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Microsoft Word",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Microsoft Access, MySQL o Oracle",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Adobe Acrobat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Google Chrome",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Microsoft Access, MySQL o Oracle",
+      "explicacion": "Els sistemes gestors de bases de dades relacionals (SGBDR) com Access, MySQL o Oracle permeten crear, consultar i gestionar dades estructurades.",
+      "explicacion_incorrecta": "Word és un processador de textos; Access/MySQL/Oracle són SGBDR específics per a bases de dades.",
+      "fuente": "Ofimàtica i bases de dades"
+    },
+    {
+      "id": "CiOaMutJRAPwonTRWraT",
+      "categoria": "informatica",
+      "categoria_nombre": "informatica",
+      "pregunta": "Quin tipus de memòria emmagatzema les dades de forma permanent, fins i tot quan el dispositiu s'apaga?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "RAM",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "ROM / disc dur / SSD",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Memòria caché",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Registres del processador",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "ROM / disc dur / SSD",
+      "explicacion": "La memòria ROM, el disc dur i l'SSD emmagatzemen dades de forma permanent (no volàtil); la RAM és volàtil i perd les dades en apagar el dispositiu.",
+      "explicacion_incorrecta": "La RAM és volàtil; la memòria permanent és la ROM, els discos durs o els dispositius SSD.",
+      "fuente": "Fonaments d'informàtica"
+    },
+    {
+      "id": "469ygbUeN5oam4NvGWbV",
+      "categoria": "prl",
+      "categoria_nombre": "⚠️ Prevenció de riscos laborals",
+      "pregunta": "Quins factors de risc psicosocial s'han de tenir en compte en l'avaluació de riscos d'un lloc de treball administratiu?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament el soroll i la il·luminació",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Càrrega de treball, autonomia, suport social, conflicte de rol i violència laboral",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament l'ergonomia del mobiliari",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Temperatura i humitat de l'oficina",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Càrrega de treball, autonomia, suport social, conflicte de rol i violència laboral",
+      "explicacion": "Els riscos psicosocials inclouen factors com la càrrega de treball, l'autonomia, el suport social, el conflicte de rol i l'exposició a violència o assetjament.",
+      "explicacion_incorrecta": "El soroll i la il·luminació són riscos ambientals; els psicosocials van més enllà.",
+      "fuente": "INSST - Mètode ISTAS21 / COPSOQ"
+    },
+    {
+      "id": "BVW3GNDrSqsZlyT8TXHS",
+      "categoria": "prl",
+      "categoria_nombre": "⚠️ Prevenció de riscos laborals",
+      "pregunta": "Quin organisme gestiona la prevenció de riscos en una administració quan no n'hi ha de propi?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La mútua col·laboradora",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El servei de prevenció aliè",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La inspecció de treball",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El delegat de personal",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El servei de prevenció aliè",
+      "explicacion": "Quan una administració no té servei de prevenció propi, pot contractar un servei de prevenció aliè (SPA) per complir les obligacions de la LPRL.",
+      "explicacion_incorrecta": "La mútua gestiona les contingències professionals (accidents i malalties); el SPA és el servei preventiu.",
+      "fuente": "LPRL - Art. 31"
+    },
+    {
+      "id": "GcUpclsA8Vjm2aLTHnHI",
+      "categoria": "prl",
+      "categoria_nombre": "⚠️ Prevenció de riscos laborals",
+      "pregunta": "La Llei 31/1995 de Prevenció de Riscos Laborals estableix que l'obligació d'avaluar els riscos recau sobre:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El treballador individual que pot identificar els seus propis riscos",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "L'empresari o la institució com a responsable de la prevenció",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El Servei de Prevenció extern contractat per a aquesta funció",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El Ministeri de Treball com a autoritat laboral competent",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "L'empresari o la institució com a responsable de la prevenció",
+      "explicacion": "La Llei 31/1995 obliga l'empresari (o l'administració) a avaluar els riscos i adoptar mesures preventives.",
+      "explicacion_incorrecta": "PRL: obligació principal de l'empresari/institució.",
+      "fuente": "Font: Llei 31/1995 · Art. 14-16"
+    },
+    {
+      "id": "Oz5Mhz2eaOXNUu3gxNri",
+      "categoria": "prl",
+      "categoria_nombre": "⚠️ Prevenció de riscos laborals",
+      "pregunta": "Quin és el deure del treballador respecte a la seva pròpia seguretat i salut?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No té cap obligació; és responsabilitat de l'empresa",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Vetllar per la seva pròpia seguretat i la dels companys, i seguir les instruccions rebudes",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament portar els EPI (equips de protecció individual)",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Informar el delegat de prevenció de tot risc observat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Vetllar per la seva pròpia seguretat i la dels companys, i seguir les instruccions rebudes",
+      "explicacion": "L'article 29 de la LPRL estableix que els treballadors han de vetllar per la seva pròpia seguretat i la dels companys, i complir les instruccions de l'empresari en matèria preventiva.",
+      "explicacion_incorrecta": "L'obligació no és només portar EPI; és una obligació activa de col·laboració en la prevenció.",
+      "fuente": "LPRL - Art. 29"
+    },
+    {
+      "id": "iV9yddL2BjZLyy8TvwvA",
+      "categoria": "prl",
+      "categoria_nombre": "⚠️ Prevenció de riscos laborals",
+      "pregunta": "Quin document recull l'identificació de riscos i les mesures preventives d'un lloc de treball?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El pla de formació",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "L'avaluació de riscos",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El pla d'evacuació",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El registre d'accidents",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "L'avaluació de riscos",
+      "explicacion": "L'avaluació de riscos identifica els riscos de cada lloc de treball i estableix les mesures preventives i correctores necessàries.",
+      "explicacion_incorrecta": "El pla de formació és per a la capacitació; l'avaluació de riscos és el diagnòstic preventiu.",
+      "fuente": "LPRL - Art. 16"
+    },
+    {
+      "id": "jI84G594rf4WovOkhKz5",
+      "categoria": "prl",
+      "categoria_nombre": "⚠️ Prevenció de riscos laborals",
+      "pregunta": "Quin és el termini per comunicar un accident de treball a l'autoritat laboral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "48 hores",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "5 dies hàbils",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "15 dies naturals",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "1 mes",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "5 dies hàbils",
+      "explicacion": "El RD 1299/2006 estableix que els accidents de treball amb baixa s'han de comunicar en el termini de 5 dies hàbils a l'autoritat laboral competent.",
+      "explicacion_incorrecta": "48 hores és el termini per als accidents mortals; els accidents amb baixa ordinaris, 5 dies hàbils.",
+      "fuente": "RD 1299/2006 - accidents laborals"
+    },
+    {
+      "id": "pwXc7bfJco9GQElgZ0CY",
+      "categoria": "prl",
+      "categoria_nombre": "⚠️ Prevenció de riscos laborals",
+      "pregunta": "Quin és el dret fonamental dels treballadors recollit a la LPRL?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A una retribució justa",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A una protecció eficaç en matèria de seguretat i salut en el treball",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "A la negociació col·lectiva",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "A la formació professional contínua",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "A una protecció eficaç en matèria de seguretat i salut en el treball",
+      "explicacion": "L'article 14 de la LPRL reconeix el dret dels treballadors a una protecció eficaç davant els riscos del treball, i l'obligació correlativa de l'empresari.",
+      "explicacion_incorrecta": "La retribució i la negociació col·lectiva es regulen per l'EBEP i l'Estatut dels Treballadors.",
+      "fuente": "LPRL - Art. 14"
+    },
+    {
+      "id": "8e3dytFEEO47zx66mQGG",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quin model europeu d'excel·lència és àmpliament utilitzat per a l'avaluació de la qualitat en les organitzacions públiques?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ISO 9001",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Model EFQM (European Foundation for Quality Management)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Norma UNE-EN 15224",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Balanced Scorecard",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Model EFQM (European Foundation for Quality Management)",
+      "explicacion": "El model EFQM és el marc de referència europeu d'excel·lència que avalua l'organització en criteris d'agents (lideratge, persones, estratègia...) i resultats.",
+      "explicacion_incorrecta": "La ISO 9001 és una norma de certificació de sistemes de gestió; l'EFQM és un model d'excel·lència.",
+      "fuente": "Model EFQM"
+    },
+    {
+      "id": "EKVyT9EC00togL0kq2CW",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quina és la norma internacional de referència per implantar un sistema de gestió de la qualitat en una organització?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La norma ISO 27001, específica per a la seguretat de la informació",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La norma ISO 14001, específica per a la gestió ambiental de les organitzacions",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "La norma ISO 9001, aplicable a qualsevol tipus d'organització",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "La norma ISO 45001, específica per a la seguretat i salut en el treball",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "La norma ISO 9001, aplicable a qualsevol tipus d'organització",
+      "explicacion": "La norma ISO 9001 és l'estàndard internacional de referència que estableix els requisits per implantar i certificar un sistema de gestió de la qualitat aplicable a qualsevol tipus d'organització, incloent-hi l'Administració pública.",
+      "explicacion_incorrecta": "La ISO 14001 regula la gestió ambiental, la ISO 27001 la seguretat de la informació i la ISO 45001 la seguretat i salut laboral; totes tres són normes de gestió, però cap regula específicament la qualitat.",
+      "fuente": "Norma ISO 9001 (font de referència general)"
+    },
+    {
+      "id": "I63eTOXLr46vc2TbtI8p",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quin és l'objectiu de les cartes de serveis en l'administració pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Limitar els drets dels ciutadans",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Informar els ciutadans dels serveis que presta l'administració, els compromisos de qualitat i els mecanismes de reclamació",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Definir les funcions de cada departament",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Fixar els preus dels serveis públics",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Informar els ciutadans dels serveis que presta l'administració, els compromisos de qualitat i els mecanismes de reclamació",
+      "explicacion": "Les cartes de serveis comuniquen els serveis oferts, els nivells de qualitat compromesos i els canals de reclamació, afavorint la transparència i la confiança.",
+      "explicacion_incorrecta": "No limiten drets; tot al contrari, reforcen els drets dels ciutadans.",
+      "fuente": "Decret 106/2008 - cartes de serveis"
+    },
+    {
+      "id": "KlXD3Tor4clbRUcisW5Z",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quina és la finalitat principal d'un sistema de gestió de queixes i suggeriments en una administració pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Substituir de manera completa totes les vies formals de recurs administratiu previstes per la legislació vigent",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Imposar sancions econòmiques de manera automàtica al personal responsable dels serveis pitjor valorats cada any",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Recollir de manera sistemàtica la percepció dels ciutadans sobre el servei rebut, per identificar àrees de millora i donar-hi resposta",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Servir exclusivament com a eina de control disciplinari intern del personal que presta servei a l'Administració",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "Recollir de manera sistemàtica la percepció dels ciutadans sobre el servei rebut, per identificar àrees de millora i donar-hi resposta",
+      "explicacion": "Un sistema de queixes i suggeriments té com a finalitat recollir de manera sistemàtica la percepció i les propostes de la ciutadania sobre els serveis rebuts, per tal d'identificar àrees de millora, donar-hi resposta i retroalimentar el cicle de gestió de la qualitat.",
+      "explicacion_incorrecta": "Aquest sistema no substitueix les vies formals de recurs administratiu, que mantenen la seva pròpia regulació; tampoc no és un instrument disciplinari ni sancionador, sinó un mecanisme de participació i millora.",
+      "fuente": "Gestió pública i qualitat dels serveis (font de referència general)"
+    },
+    {
+      "id": "TAzcGg1CxGWnRZxwSsh4",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quin és el concepte de 'benchmarking' en el context de la millora de serveis públics?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un tipus d'auditoria financera",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La comparació sistemàtica de pràctiques, processos i resultats amb organitzacions de referència per aprendre i millorar",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Una enquesta de satisfacció als ciutadans",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Un pla de formació del personal",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La comparació sistemàtica de pràctiques, processos i resultats amb organitzacions de referència per aprendre i millorar",
+      "explicacion": "El benchmarking és la comparació sistemàtica amb les millors pràctiques d'altres organitzacions per identificar oportunitats de millora.",
+      "explicacion_incorrecta": "Una enquesta de satisfacció recull opinió dels usuaris; el benchmarking compara pràctiques organitzatives.",
+      "fuente": "Gestió de la qualitat - benchmarking"
+    },
+    {
+      "id": "WBhCvYHd5XYU2sqRhtRs",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quin indicador mesura el temps que transcorre des que el ciutadà sol·licita un servei fins que el rep?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Taxa d'errors",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Temps de resposta o temps de cicle",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Índex de satisfacció",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Taxa de reclamacions",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Temps de resposta o temps de cicle",
+      "explicacion": "El temps de resposta o temps de cicle mesura l'eficiència del procés; és un dels indicadors clau en la gestió de la qualitat dels serveis públics.",
+      "explicacion_incorrecta": "La taxa d'errors mesura qualitat del resultat; el temps de resposta mesura eficiència del procés.",
+      "fuente": "Indicadors de qualitat - AEVAL"
+    },
+    {
+      "id": "cX294z4J7JXntgQtWpz2",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quina diferència hi ha entre els conceptes d'eficàcia i eficiència en la gestió de la qualitat d'un servei públic?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "L'eficàcia és aplicable només al sector privat, i l'eficiència és aplicable només al sector públic",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "L'eficàcia mesura el grau d'assoliment dels objectius fixats, i l'eficiència relaciona els resultats obtinguts amb els recursos emprats",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "L'eficàcia i l'eficiència són sinònims exactes, i s'utilitzen indistintament en la gestió pública de la qualitat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'eficàcia mesura els recursos emprats, i l'eficiència mesura únicament el grau de satisfacció de la ciutadania",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "L'eficàcia mesura el grau d'assoliment dels objectius fixats, i l'eficiència relaciona els resultats obtinguts amb els recursos emprats",
+      "explicacion": "L'eficàcia mesura el grau en què s'assoleixen els objectius previstos, amb independència dels mitjans emprats, mentre que l'eficiència relaciona els resultats obtinguts amb els recursos utilitzats per aconseguir-los, valorant si aquest ús ha estat òptim.",
+      "explicacion_incorrecta": "No són sinònims, ja que un servei pot ser eficaç sense ser eficient (assolir l'objectiu malbaratant recursos); les definicions de la segona opció estan invertides, i tots dos conceptes són plenament aplicables tant al sector públic com al privat.",
+      "fuente": "Gestió pública i qualitat dels serveis (font de referència general)"
+    },
+    {
+      "id": "dUAM4gy5By0hXbkmCl34",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quin cicle de millora contínua s'utilitza en la gestió de la qualitat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cicle PDCA (Planificar-Fer-Verificar-Actuar)",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Cicle RACI (Responsable-Aprova-Consulta-Informa)",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Cicle ABC (Activitat-Benefici-Cost)",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Cicle SWOT (Fortaleses-Debilitats-Oportunitats-Amenaces)",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Cicle PDCA (Planificar-Fer-Verificar-Actuar)",
+      "explicacion": "El cicle PDCA (Plan-Do-Check-Act) o cicle de Deming és el model de millora contínua bàsic en la gestió de la qualitat.",
+      "explicacion_incorrecta": "RACI és una matriu de responsabilitats; SWOT és d'anàlisi estratègica; el cicle de qualitat és el PDCA.",
+      "fuente": "Gestió de la qualitat - Deming"
+    },
+    {
+      "id": "m9X4L2u53Jz5lx53fZCF",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Què és el Marc Comú d'Avaluació (CAF, per les sigles en anglès), utilitzat com a model de qualitat en organitzacions del sector públic?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un model europeu de gestió de la qualitat, adaptat específicament a les característiques i necessitats de les administracions públiques",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Un òrgan jurisdiccional de la Unió Europea encarregat d'auditar de manera periòdica la despesa pública dels estats",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Un tribut específic que grava, a escala europea, l'activitat econòmica pròpia de les administracions públiques",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Un procediment de contractació pública emprat exclusivament per adjudicar serveis externs de certificació",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Un model europeu de gestió de la qualitat, adaptat específicament a les característiques i necessitats de les administracions públiques",
+      "explicacion": "El Marc Comú d'Avaluació (Common Assessment Framework, CAF) és un model europeu de gestió de la qualitat total, inspirat en el model EFQM però adaptat específicament a les característiques, la cultura i les necessitats pròpies de les organitzacions del sector públic.",
+      "explicacion_incorrecta": "El CAF no és cap tribut, ni un òrgan jurisdiccional, ni un procediment de contractació: és exclusivament un model d'autoavaluació de la qualitat organitzativa aplicable a l'Administració pública.",
+      "fuente": "Model CAF - Common Assessment Framework (font de referència general)"
+    },
+    {
+      "id": "mNyk1CZOWXSg0rsEX0T9",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Quina diferència fonamental hi ha entre l'enfocament de millora contínua (kaizen) i el de reenginyeria de processos en la gestió de la qualitat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La millora contínua requereix sempre una certificació ISO prèvia, mentre que la reenginyeria mai no en requereix cap",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "No hi ha cap diferència real entre totes dues: descriuen exactament la mateixa metodologia de gestió de la qualitat",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "La millora contínua només és aplicable en el sector privat, mentre que la reenginyeria és exclusiva del sector públic",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La millora contínua introdueix canvis petits i graduals de manera constant, mentre que la reenginyeria replanteja radicalment els processos existents",
+          "correcta": true
+        }
+      ],
+      "respuesta_correcta": "D",
+      "respuesta_correcta_indice": 3,
+      "respuesta_correcta_texto": "La millora contínua introdueix canvis petits i graduals de manera constant, mentre que la reenginyeria replanteja radicalment els processos existents",
+      "explicacion": "La millora contínua, o kaizen, es basa en la introducció de canvis petits, incrementals i constants en els processos existents, mentre que la reenginyeria de processos planteja un replantejament radical i profund d'aquests processos, sovint dissenyant-los de nou des de zero.",
+      "explicacion_incorrecta": "Cap dels dos enfocaments es limita a un sol sector ni requereix una certificació ISO com a condició prèvia, i tenen una lògica de canvi clarament diferent, no són en absolut equivalents.",
+      "fuente": "Metodologies de millora de processos (font de referència general)"
+    },
+    {
+      "id": "vYekZr6CqHNST4nvLWWN",
+      "categoria": "qualitat",
+      "categoria_nombre": "🔄 Qualitat",
+      "pregunta": "Què és el diagrama de causa-efecte, també conegut com a diagrama d'Ishikawa, en la gestió de la qualitat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una eina gràfica que permet identificar i organitzar les possibles causes d'un problema o d'un efecte concret",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Un procediment administratiu per tramitar formalment les queixes i suggeriments dels ciutadans",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Un indicador numèric que mesura el grau de satisfacció dels usuaris amb un servei públic",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Un document normatiu que estableix els compromisos de qualitat d'un servei davant la ciutadania",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Una eina gràfica que permet identificar i organitzar les possibles causes d'un problema o d'un efecte concret",
+      "explicacion": "El diagrama de causa-efecte, o diagrama d'Ishikawa, és una eina gràfica d'anàlisi que permet identificar, classificar i organitzar de manera visual les possibles causes que originen un problema o un efecte determinat, facilitant-ne l'anàlisi sistemàtica.",
+      "explicacion_incorrecta": "Un indicador de satisfacció és una mesura numèrica, no una eina gràfica d'anàlisi causal; la carta de serveis és un document de compromisos, i el sistema de queixes i suggeriments és un canal de participació, no una eina d'anàlisi de causes.",
+      "fuente": "Eines de gestió de la qualitat (font de referència general)"
+    },
+    {
+      "id": "6XqO1wRPc9PIuzuLOJiV",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quin document recull les places dotades de cada administració amb les seves característiques?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Pla d'Ocupació",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La Relació de Llocs de Treball (RLT)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El Catàleg de Places",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El Registre de Personal",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La Relació de Llocs de Treball (RLT)",
+      "explicacion": "La Relació de Llocs de Treball (RLT) és el document organitzatiu que recull totes les places dotades, els seus requisits, nivells i retribucions.",
+      "explicacion_incorrecta": "El Catàleg de Places és una figura diferent; la RLT és l'instrument principal de planificació de personal.",
+      "fuente": "EBEP - Art. 74"
+    },
+    {
+      "id": "Cyt9n6WJZ4JDyxw8PfEL",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "El sistema ordinari de provisió de llocs de treball per als funcionaris és:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Designació discrecional per part del directiu responsable",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Concurs basat en mèrits, capacitats i idoneïtat del candidat",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Rotació obligatòria periòdica entre els treballadors del cos",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Assignació per antiguitat exclusiva sense valoració de mèrits",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Concurs basat en mèrits, capacitats i idoneïtat del candidat",
+      "explicacion": "Concurs de mèrits = sistema ordinari. Lliure designació = excepció.",
+      "explicacion_incorrecta": "Concurs = sistema ordinari (mèrits). Lliure designació = excepció.",
+      "fuente": "Font: RDL 5/2015 (EBEP) · Arts. 78-80"
+    },
+    {
+      "id": "HF9g86NhfXVOfCMox4ID",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quin és el termini de prescripció de les faltes molt greus dels empleats públics?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1 any",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "3 anys",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "6 anys",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "10 anys",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "3 anys",
+      "explicacion": "Les faltes molt greus prescriuen als 3 anys, les greus als 2 anys i les lleus als 6 mesos.",
+      "explicacion_incorrecta": "1 any és el termini de les faltes greus en alguns règims; el general per a molt greus és 3 anys.",
+      "fuente": "EBEP - Art. 97"
+    },
+    {
+      "id": "Hz2fxyk23KTQmNskscRW",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "La situació de 'serveis especials' del personal funcionari implica:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Baixa mèdica de llarga durada per malaltia o accident laboral",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Prestar serveis en un altre lloc mantenint el cos/escala d'origen",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sanció disciplinària amb suspensió de funcions per falta greu",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Excedència voluntària per interès particular del funcionari",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Prestar serveis en un altre lloc mantenint el cos/escala d'origen",
+      "explicacion": "Serveis especials (art. 87 EBEP): funcions en altres llocs mantenint vinculació al cos.",
+      "explicacion_incorrecta": "Serveis especials ≠ excedència. En serveis especials es manté vinculat al cos.",
+      "fuente": "Font: RDL 5/2015 (EBEP) · Art. 87"
+    },
+    {
+      "id": "MAcmolEjQJkVkxrGEtwp",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "L'EBEP (art. 48) reconeix com a permisos retribuïts:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament la maternitat i la paternitat com a drets bàsics",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Matrimoni, naixement, mort familiar, malaltia greu i altres",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament les vacances i els festius oficials establerts",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Els que estableixi cada administració per conveni col·lectiu",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Matrimoni, naixement, mort familiar, malaltia greu i altres",
+      "explicacion": "Art. 48 EBEP: matrimoni, naixement, adopció, mort/malaltia greu familiar, mudança, exàmens...",
+      "explicacion_incorrecta": "EBEP art. 48: llista permisos retribuïts. Son drets mínims.",
+      "fuente": "Font: RDL 5/2015 (EBEP) · Art. 48"
+    },
+    {
+      "id": "OCBmZeLfUW1xvcybqVVZ",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quin és el concepte de 'mobilitat voluntària' en l'àmbit de la funció pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El canvi forçós de lloc per necessitats del servei",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El dret del funcionari a sol·licitar traslladament a una altra plaça o administració",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La reducció de jornada per raons familiars",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'adscripció temporal a un altre departament",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El dret del funcionari a sol·licitar traslladament a una altra plaça o administració",
+      "explicacion": "La mobilitat voluntària permet al funcionari sol·licitar canvi de destinació per concurs de trasllats o altres mecanismes establerts.",
+      "explicacion_incorrecta": "La mobilitat forçosa o per necessitats del servei és una altra figura diferent.",
+      "fuente": "EBEP - Mobilitat"
+    },
+    {
+      "id": "PT2JEZHdZVHaQ3XBCrdP",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quina situació administrativa es produeix quan un funcionari ocupa un lloc de treball en un organisme internacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Excedència voluntària",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Comissió de serveis",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Serveis en altres administracions",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Serveis especials",
+          "correcta": true
+        }
+      ],
+      "respuesta_correcta": "D",
+      "respuesta_correcta_indice": 3,
+      "respuesta_correcta_texto": "Serveis especials",
+      "explicacion": "El funcionari passa a la situació de serveis especials quan ocupa llocs en organismes internacionals, càrrecs polítics o d'elecció popular.",
+      "explicacion_incorrecta": "L'excedència voluntària és a instàncies del funcionari per motius personals.",
+      "fuente": "EBEP - Art. 87"
+    },
+    {
+      "id": "lCiYhBYqvbKeajdiga7U",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "El personal estatutari del ICS es regeix per:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "L'Estatut dels Treballadors com a norma laboral general",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La Llei 55/2003 de l'Estatut Marc del personal estatutari",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El Conveni Col·lectiu del sector sanitari concertat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El Reglament intern de cada hospital o centre del ICS",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La Llei 55/2003 de l'Estatut Marc del personal estatutari",
+      "explicacion": "Personal estatutari ICS → Llei 55/2003 (Estatut Marc).",
+      "explicacion_incorrecta": "Personal estatutari → Llei 55/2003. Personal laboral → Estatut Treballadors.",
+      "fuente": "Font: Llei 55/2003, de 16 de desembre, Estatut Marc"
+    },
+    {
+      "id": "mcEEZJW7hODPFddBhor0",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quin és el dret de negociació col·lectiva dels empleats públics?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No existeix en la funció pública",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Existeix per a personal laboral però no per a funcionaris",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Existeix per a tots els empleats públics, diferenciada entre funcionaris i laborals",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Existeix per a funcionaris però no per a personal laboral",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "Existeix per a tots els empleats públics, diferenciada entre funcionaris i laborals",
+      "explicacion": "L'EBEP reconeix el dret a la negociació col·lectiva per a tots els empleats públics, amb òrgans diferenciats: meses de negociació per a funcionaris i convenis col·lectius per a laborals.",
+      "explicacion_incorrecta": "La negociació col·lectiva existeix en ambdós casos, tot i que amb canals jurídics diferents.",
+      "fuente": "EBEP - Art. 31-38"
+    },
+    {
+      "id": "mdWq2HYy4w0DFtpE5b0R",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quins sistemes d'accés a la funció pública preveu l'EBEP?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Oposició, concurs i concurs-oposició",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Oposició i concurs de mèrits",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Concurs-oposició i nomenament directe",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Entrevista i concurs de mèrits",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "Oposició, concurs i concurs-oposició",
+      "explicacion": "L'EBEP preveu tres sistemes selectius: oposició (exàmens), concurs (mèrits) i concurs-oposició (combinació de tots dos).",
+      "explicacion_incorrecta": "El nomenament directe no és un sistema ordinari d'accés; l'EBEP exigeix publicitat i mèrit.",
+      "fuente": "EBEP - Art. 61"
+    },
+    {
+      "id": "nyqVhYeOb6tp1endaXnr",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quin és l'objectiu de l'avaluació de l'acompliment a la funció pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sancionar els empleats poc productius",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mesurar i valorar la conducta professional i el rendiment per millorar i vincular resultats a retribucions o carrera",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Controlar les hores de treball",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Seleccionar els funcionaris millors per a promocions internes automàtiques",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Mesurar i valorar la conducta professional i el rendiment per millorar i vincular resultats a retribucions o carrera",
+      "explicacion": "L'avaluació de l'acompliment (EBEP art. 20) mesura el rendiment professional i pot vincular-se a la carrera horitzontal i les retribucions complementàries.",
+      "explicacion_incorrecta": "No és un instrument de sanció; és una eina de gestió i millora.",
+      "fuente": "EBEP - Art. 20"
+    },
+    {
+      "id": "olc5ICwlxXMWCQAgIX5P",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quin permís té dret a gaudir un funcionari per matrimoni o parella de fet?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "3 dies laborables",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "15 dies naturals",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "7 dies hàbils",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "1 mes",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "15 dies naturals",
+      "explicacion": "L'EBEP preveu un permís de 15 dies naturals per matrimoni o unió de parella de fet (registrada).",
+      "explicacion_incorrecta": "3 dies és el permís mínim laboral general; la funció pública preveu 15 dies.",
+      "fuente": "EBEP - Art. 48"
+    },
+    {
+      "id": "qZJDtFYzsBwMtVEEaDss",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quin és el concepte de 'promoció interna' a la funció pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "L'accés a un cos o escala de grup superior des de la mateixa administració",
+          "correcta": true
+        },
+        {
+          "letra": "B",
+          "texto": "El canvi de lloc de treball dins el mateix grup",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "L'ascens per antiguitat automàtic",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "La millora de les retribucions sense canvi de categoria",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "A",
+      "respuesta_correcta_indice": 0,
+      "respuesta_correcta_texto": "L'accés a un cos o escala de grup superior des de la mateixa administració",
+      "explicacion": "La promoció interna és el procés per accedir a un cos o escala de grup superior des del mateix cos, dins la mateixa administració.",
+      "explicacion_incorrecta": "El canvi de lloc dins el grup és mobilitat, no promoció interna.",
+      "fuente": "EBEP - Art. 18"
+    },
+    {
+      "id": "tZfVuHLE8T4DKfotHbiA",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Les faltes disciplinàries molt greus poden comportar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament una advertència formal registrada a l'expedient",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La separació definitiva del servei com a màxima sanció possible",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Reducció temporal del sou durant un període determinat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Multa econòmica proporcional a la gravetat de la falta",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La separació definitiva del servei com a màxima sanció possible",
+      "explicacion": "Faltes molt greus = separació del servei (màxima sanció).",
+      "explicacion_incorrecta": "Faltes molt greus: separació del servei (màxima). La multa econòmica no és sanció de l'EBEP.",
+      "fuente": "Font: RDL 5/2015 (EBEP) · Art. 96"
+    },
+    {
+      "id": "zJkYf64z63Phs1JoD5bm",
+      "categoria": "rrhh",
+      "categoria_nombre": "👥 Recursos humans",
+      "pregunta": "Quina és la durada màxima de la jornada laboral ordinària dels empleats públics?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "35 hores setmanals",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "37,5 hores setmanals",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "40 hores setmanals",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "La que estableixi cada conveni",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "40 hores setmanals",
+      "explicacion": "L'EBEP fixa en 37,5 hores setmanals la jornada ordinària, però el RDL 20/2012 va restablir les 37,5h per a la majoria; la jornada màxima general és 40h.",
+      "explicacion_incorrecta": "37,5h és la jornada ordinària actual per als empleats públics, però el màxim legal és 40h.",
+      "fuente": "EBEP - Art. 47 / RDL 20/2012"
+    },
+    {
+      "id": "0W0qg6Y3KT2cNXFTieZS",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "El SISCAT inclou:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament centres de titularitat directa i exclusiva del ICS a Catalunya",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Tots els centres que presten serveis públics a Catalunya independentment de la titularitat",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament els hospitals universitaris de referència de Barcelona i àrea metropolitana",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Centres privats que accepten la TSI per acord voluntari amb el CatSalut",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Tots els centres que presten serveis públics a Catalunya independentment de la titularitat",
+      "explicacion": "SISCAT = tot el sistema sanitari públic català (ICS + altres proveïdors concertats).",
+      "explicacion_incorrecta": "SISCAT = ICS + altres proveïdors concertats.",
+      "fuente": "Font: Llei 15/1990 d'ordenació sanitària · SISCAT"
+    },
+    {
+      "id": "1EOT5hO9bmS78jWjiZgf",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quin és el model d'atenció primària a Catalunya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Consultori privat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Equip d'Atenció Primària (EAP) amb metge, infermera i treballador social",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Atenció exclusiva per especialistes",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Atenció hospitalària de primer nivell",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Equip d'Atenció Primària (EAP) amb metge, infermera i treballador social",
+      "explicacion": "L'atenció primària a Catalunya s'organitza en Equips d'Atenció Primària (EAP) que integren metges, infermeres, treballadors socials i personal administratiu.",
+      "explicacion_incorrecta": "No és exclusivament metges; els EAP són equips multidisciplinaris.",
+      "fuente": "Model sanitari català - LOSC"
+    },
+    {
+      "id": "1zYnFgVLnjfj1zL19C6z",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quin dret recull la Llei 41/2002 respecte als pacients?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El dret a escollir el metge de capçalera",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El dret a la informació, al consentiment informat i a l'accés a la història clínica",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El dret a una habitació individual",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El dret a rebre tractament gratuït",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El dret a la informació, al consentiment informat i a l'accés a la història clínica",
+      "explicacion": "La Llei 41/2002 regula l'autonomia del pacient, el consentiment informat, la informació clínica i l'accés a la història clínica.",
+      "explicacion_incorrecta": "El dret a escollir metge és un dret organitzatiu; la Llei 41/2002 se centra en l'autonomia i la informació.",
+      "fuente": "Llei 41/2002"
+    },
+    {
+      "id": "4PIryFhBIp8QS6UnqXTA",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quina llei regula el dret a la protecció de la salut i l'organització sanitària a Catalunya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Llei General de Sanitat (Llei 14/1986)",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Llei d'Ordenació Sanitària de Catalunya (LOSC - Llei 15/1990)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Llei 41/2002 d'autonomia del pacient",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Decret 196/2010 de l'ICS",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Llei d'Ordenació Sanitària de Catalunya (LOSC - Llei 15/1990)",
+      "explicacion": "La Llei 15/1990 d'Ordenació Sanitària de Catalunya (LOSC) regula l'organització del sistema sanitari públic català i crea el CatSalut.",
+      "explicacion_incorrecta": "La Llei 14/1986 és estatal; la LOSC és l'específica de Catalunya.",
+      "fuente": "LOSC - Llei 15/1990"
+    },
+    {
+      "id": "7l9MyCsdBOjaabeuMw8t",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "El termini de conservació de la documentació clínica a Catalunya (Llei 21/2000):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "5 anys com a mínim des de la data de l'última atenció rebuda",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "10 anys des de la darrera atenció com a mínim obligatori",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "20 anys per a documents de processos crònics o greus",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Indefinidament per a tota la documentació clínica generada",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "10 anys des de la darrera atenció com a mínim obligatori",
+      "explicacion": "Llei 21/2000: mínim 10 anys des de la darrera atenció.",
+      "explicacion_incorrecta": "Llei 21/2000 (Catalunya): 10 anys des de la darrera atenció.",
+      "fuente": "Font: Llei 21/2000 · Art. 12"
+    },
+    {
+      "id": "9ahydov6mpNUkVxj6vhB",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quina és la xarxa hospitalària de referència per a l'atenció especialitzada de l'ICS?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hospitals comarcals",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Hospitals de referència territorial i hospitals d'alta tecnologia (HAT)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Clíniques privades concertades",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Centres d'atenció primària (CAP)",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Hospitals de referència territorial i hospitals d'alta tecnologia (HAT)",
+      "explicacion": "L'ICS disposa d'hospitals de referència territorial i hospitals d'alta tecnologia (HAT) per a l'atenció especialitzada complexa.",
+      "explicacion_incorrecta": "Els CAP són d'atenció primària; els HAT i hospitals de referència fan l'atenció especialitzada.",
+      "fuente": "Organització ICS"
+    },
+    {
+      "id": "JlEkG8qDEbMi0Mt6fRkd",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quin concepte descriu la integració de serveis sanitaris i socials per a persones amb necessitats complexes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hospitalització domiciliària",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Atenció integrada social i sanitària (AISS)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Telemedicina",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Hospitalització de dia",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Atenció integrada social i sanitària (AISS)",
+      "explicacion": "L'atenció integrada social i sanitària (AISS) coordina serveis sanitaris i socials per atendre persones amb malalties cròniques o dependència.",
+      "explicacion_incorrecta": "La hospitalització domiciliària és un recurs concret; l'AISS és el model d'integració.",
+      "fuente": "Model d'atenció integrada - Catalunya"
+    },
+    {
+      "id": "LPucRZvAOWRENA0Sdyzy",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quin és l'objectiu del Pla de Salut de Catalunya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Gestionar les nòmines del personal sanitari",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Establir les prioritats de salut i les línies estratègiques d'actuació del sistema sanitari per a un període determinat",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Fixar els preus dels medicaments",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Organitzar la docència universitària en ciències de la salut",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Establir les prioritats de salut i les línies estratègiques d'actuació del sistema sanitari per a un període determinat",
+      "explicacion": "El Pla de Salut de Catalunya és l'instrument de planificació que estableix els objectius prioritaris i les estratègies d'actuació en salut per a un horitzó temporal.",
+      "explicacion_incorrecta": "No gestiona nòmines ni fixar preus de medicaments; és un instrument estratègic.",
+      "fuente": "Pla de Salut de Catalunya"
+    },
+    {
+      "id": "OonZFhJFuCJZUI4fTAAH",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quin és l'organisme responsable de la planificació, compra i avaluació dels serveis sanitaris a Catalunya?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ICS (Institut Català de la Salut)",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "CatSalut (Servei Català de la Salut)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Departament de Salut",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Agència de Qualitat i Avaluació Sanitàries",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "CatSalut (Servei Català de la Salut)",
+      "explicacion": "El CatSalut és el comprador i planificador del sistema sanitari públic de Catalunya; l'ICS n'és el principal proveïdor de serveis.",
+      "explicacion_incorrecta": "L'ICS és proveïdor de serveis; CatSalut n'és el planificador i comprador.",
+      "fuente": "Llei 15/1990 d'ordenació sanitària"
+    },
+    {
+      "id": "QpgyZVZjAR0DuyXvuMCC",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Quina és la funció del Comitè Ètic d'Investigació Clínica (CEIC)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aprovar els contractes del personal investigador",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Avaluar la correcció metodològica i ètica dels estudis clínics i assajos",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Gestionar el pressupost de recerca",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Certificar els hospitals com a centres docents",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Avaluar la correcció metodològica i ètica dels estudis clínics i assajos",
+      "explicacion": "El CEIC avalua els projectes d'investigació clínica per garantir que compleixen els principis ètics i metodològics, protegint els participants.",
+      "explicacion_incorrecta": "El CEIC no gestiona contractes ni pressupostos; és un organisme de revisió ètica.",
+      "fuente": "Llei 14/2007 d'investigació biomèdica"
+    },
+    {
+      "id": "UGx7t8cn6HhbeinmWrpM",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "Qui pot sol·licitar còpia de la HC d'un pacient major d'edat?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Qualsevol familiar directe com cònjuge o fills majors d'edat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "El propi pacient i els professionals que l'atenen per necessitat assistencial",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El metge de capçalera sense necessitat de justificació clínica",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'asseguradora directament per als sinistres coberts per la pòlissa",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "El propi pacient i els professionals que l'atenen per necessitat assistencial",
+      "explicacion": "Accés HC: pacient + professionals assistencials + jutges. Familiars necessiten autorització.",
+      "explicacion_incorrecta": "Accés HC: pacient + professionals + jutges. Familiars: cal autorització del pacient.",
+      "fuente": "Font: Llei 41/2002 · Art. 18"
+    },
+    {
+      "id": "Vpwhjg0lVkumNWDr0Uek",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "La documentació clínica bàsica inclou:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicament el full d'ingrés i l'informe d'alta hospitalària",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "HC, consentiments informats, informes clínics i altra documentació assistencial",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Únicament la recepta mèdica com a document clínic principal",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El pressupost del procés assistencial i la facturació corresponent",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "HC, consentiments informats, informes clínics i altra documentació assistencial",
+      "explicacion": "Documentació clínica: HC + consentiments + informes clínics + altra documentació assistencial.",
+      "explicacion_incorrecta": "Documentació clínica: HC + consentiments + informes.",
+      "fuente": "Font: Llei 41/2002 · Llei 21/2000"
+    },
+    {
+      "id": "h1cNkOnFwUNvREtpcGnu",
+      "categoria": "sanitari",
+      "categoria_nombre": "🏥 Organització sanitària",
+      "pregunta": "L'accés a la HC per part del personal administratiu:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "És lliure per a tot el personal del centre sense restricció",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Limitat als aspectes necessaris per a les seves tasques administratives",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Completament prohibit sense excepció per qualsevol motiu",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Requereix consentiment exprés del pacient en cada accés individual",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Limitat als aspectes necessaris per a les seves tasques administratives",
+      "explicacion": "Administratius: accés limitat al necessari per a la funció administrativa. Principi de minimització (RGPD).",
+      "explicacion_incorrecta": "Accés administratiu: limitat al necessari (cites, facturació).",
+      "fuente": "Font: Llei 41/2002 · Art. 16 · RGPD"
+    },
+    {
+      "id": "6K5LJozIoHUFDdVWdSnM",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "e-CAP al ICS és:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sistema de gestió econòmica dels Centres d'Atenció Primària",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sistema d'informació clínica per als equips d'atenció primària (EAP)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Plataforma de formació continuada i e-learning del ICS",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Sistema de gestió de cites hospitalàries del ICS",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Sistema d'informació clínica per als equips d'atenció primària (EAP)",
+      "explicacion": "e-CAP = sistema clínic per als EAP del ICS.",
+      "explicacion_incorrecta": "e-CAP = sistema clínic atenció primària.",
+      "fuente": "Font: Sistemes informació ICS · e-CAP"
+    },
+    {
+      "id": "CSsbposMoNiI4Wykk1WG",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin és el principal risc de seguretat del 'phishing'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Alentir la xarxa informàtica",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Enganyar l'usuari perquè faciliti credencials o dades personals a través d'una pàgina o correu fraudulent",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Infectar el maquinari físic",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Bloquejar el sistema operatiu",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Enganyar l'usuari perquè faciliti credencials o dades personals a través d'una pàgina o correu fraudulent",
+      "explicacion": "El phishing és un atac d'enginyeria social que simula comunicacions legítimes per obtenir credencials, dades bancàries o informació sensible.",
+      "explicacion_incorrecta": "El phishing no afecta el maquinari directament; el seu objectiu és obtenir informació.",
+      "fuente": "Ciberseguretat - INCIBE"
+    },
+    {
+      "id": "F7mhrsNIWtlTPQdDyf2R",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin sistema operatiu de codi obert utilitzen moltes administracions públiques europees per reduir dependències de proveïdors?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Windows",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "macOS",
+          "correcta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Linux",
+          "correcta": true
+        },
+        {
+          "letra": "D",
+          "texto": "ChromeOS",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "C",
+      "respuesta_correcta_indice": 2,
+      "respuesta_correcta_texto": "Linux",
+      "explicacion": "Linux i les seves distribucions (com Ubuntu, Debian o LibreOffice/OpenOffice) s'utilitzen en moltes administracions públiques per reduir costos de llicències i dependències.",
+      "explicacion_incorrecta": "Windows i macOS són propietaris; Linux és el sistema obert preferit per moltes AAPP.",
+      "fuente": "TIC en l'administració pública"
+    },
+    {
+      "id": "K2eoGgXpjudgLbvKSEa5",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "SAP al ICS és principalment:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sistema de gestió de pacients i historials clínics del ICS",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sistema ERP per a gestió econòmica, financera i RRHH corporativa",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sistema de comunicacions internes entre els centres del ICS",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Plataforma e-learning per a la formació continuada del personal",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Sistema ERP per a gestió econòmica, financera i RRHH corporativa",
+      "explicacion": "SAP = ERP corporatiu del ICS per a gestió econòmica, financera i RRHH.",
+      "explicacion_incorrecta": "SAP = ERP (econòmic i RRHH). HC3 = historial clínic. ATRI = portal empleat.",
+      "fuente": "Font: Sistemes d'informació ICS"
+    },
+    {
+      "id": "RWH8qP50Z6dTdB993lKZ",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin és el principal avantatge del núvol (cloud computing) per a l'administració pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Elimina la necessitat de personal TIC",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Permet escalar recursos tecnològics, reduir costos d'infraestructura i millorar l'accessibilitat",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Garanteix l'accés exclusivament des d'oficines",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Elimina els riscos de seguretat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Permet escalar recursos tecnològics, reduir costos d'infraestructura i millorar l'accessibilitat",
+      "explicacion": "El cloud computing permet escalar recursos tecnològics, reduir costos de maquinari i millorar l'accessibilitat als serveis.",
+      "explicacion_incorrecta": "No elimina la necessitat de personal TIC ni garanteix seguretat absoluta.",
+      "fuente": "TIC en l'administració"
+    },
+    {
+      "id": "a3CGx6hHUALNrjj4t5wr",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin és l'objectiu de l'Esquema Nacional de Seguretat (ENS)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Protegir únicament els sistemes de l'Administració General de l'Estat",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Establir la política de seguretat per a la protecció dels sistemes d'informació de totes les administracions públiques",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Regular l'ús de les xarxes socials corporatives",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Definir els salaris del personal TIC",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Establir la política de seguretat per a la protecció dels sistemes d'informació de totes les administracions públiques",
+      "explicacion": "L'ENS (RD 3/2010, modificat pel RD 311/2022) estableix les condicions de seguretat per als sistemes TIC de totes les administracions públiques.",
+      "explicacion_incorrecta": "L'ENS s'aplica a totes les administracions, no només a l'Administració General de l'Estat.",
+      "fuente": "RD 311/2022 ENS"
+    },
+    {
+      "id": "a7vpxorpzCLNrixW3FuN",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "La funció BUSCARV (VLOOKUP) a Excel s'utilitza per:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Calcular la suma acumulada d'un rang de cel·les numèriques",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Cercar un valor en la 1a columna d'una taula i retornar una altra columna",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ordenar alfabèticament un rang de dades de forma automàtica",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Crear gràfics automàtics a partir de dades seleccionades",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Cercar un valor en la 1a columna d'una taula i retornar una altra columna",
+      "explicacion": "BUSCARV = cerca vertical en taules.",
+      "explicacion_incorrecta": "BUSCARV = cerca vertical. SUMA = sumar.",
+      "fuente": "Font: Microsoft Excel · Funcions de cerca"
+    },
+    {
+      "id": "cacXKLHvb7Xu5SYZTW7E",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin significa l'acrònim 'ERP' en el context dels sistemes d'informació?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Electronic Record Platform",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Enterprise Resource Planning (Planificació de Recursos Empresarials)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "External Registry Protocol",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Emergency Response Plan",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Enterprise Resource Planning (Planificació de Recursos Empresarials)",
+      "explicacion": "Un ERP (Enterprise Resource Planning) és un sistema integrat de gestió que unifica processos de RRHH, finances, logística, etc. en un únic entorn.",
+      "explicacion_incorrecta": "ERP no és cap Protocol o Plataforma de Registre; és un sistema de gestió integrada.",
+      "fuente": "Sistemes d'informació - ERP"
+    },
+    {
+      "id": "fKQ1eTj8lbIlu0Q09pow",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin protocol s'utilitza per a la transferència segura de fitxers per Internet?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "FTP",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "SFTP o FTPS",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "HTTP",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "SMTP",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "SFTP o FTPS",
+      "explicacion": "SFTP i FTPS xifren la connexió, a diferència del FTP que transmet dades en text pla.",
+      "explicacion_incorrecta": "FTP no és segur; SFTP/FTPS garanteixen la confidencialitat.",
+      "fuente": "Protocols de xarxa"
+    },
+    {
+      "id": "fpUXuWptL5FPh8uGHym4",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "L'HC3 (Història Clínica Compartida de Catalunya) permet:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Gestionar les nòmines i retribucions del personal del ICS",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Accedir a la informació clínica des de qualsevol centre autoritzat del SISCAT",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Realitzar la facturació i la gestió econòmica dels serveis",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Gestionar les cites mèdiques i les llistes d'espera dels pacients",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Accedir a la informació clínica des de qualsevol centre autoritzat del SISCAT",
+      "explicacion": "HC3 = historial clínic compartit accessible per professionals autoritzats de tot el SISCAT.",
+      "explicacion_incorrecta": "HC3 = historial clínic compartit. Accessible per professionals autoritzats del SISCAT.",
+      "fuente": "Font: HC3 · CatSalut"
+    },
+    {
+      "id": "j576dSKUkeBgmkTAyNvR",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "ATRI al ICS és el portal per:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Processos selectius, borsa de treball i concursos del ICS",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Gestió de nòmines, permisos i vacances del professional ICS",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Informació clínica i historial del pacient al SISCAT",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Facturació i gestió econòmica dels serveis del ICS",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Gestió de nòmines, permisos i vacances del professional ICS",
+      "explicacion": "ATRI = portal de l'empleat ICS (nòmines, permisos, vacances). TALICS = processos selectius.",
+      "explicacion_incorrecta": "ATRI = portal empleat. TALICS = processos selectius.",
+      "fuente": "Font: Web ICS · Portal ATRI"
+    },
+    {
+      "id": "lWDQif2kJWctG4cc9TlJ",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin és l'objectiu del sistema GENESYS o equivalent de gestió documental electrònica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Gestionar les nòmines del personal",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Gestionar expedients i documents administratius de forma electrònica al llarg del seu cicle de vida",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Controlar l'accés físic als edificis",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Gestionar la comptabilitat",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "Gestionar expedients i documents administratius de forma electrònica al llarg del seu cicle de vida",
+      "explicacion": "Els sistemes de gestió documental electrònica gestionen la creació, tramitació, arxiu i eliminació d'expedients i documents administratius en format digital.",
+      "explicacion_incorrecta": "No gestionen nòmines ni accés físic; el seu àmbit és la documentació administrativa.",
+      "fuente": "Llei 39/2015 - expedient electrònic"
+    },
+    {
+      "id": "uBaZEqDQeFpoDqbOkgEe",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin és el servei digital que permet als ciutadans signar documents electrònicament amb validesa legal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El DNI físic",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La signatura electrònica basada en certificat digital (p. ex. DNI-e o idCAT)",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "El formulari en paper escanejat",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "El segell d'entrada del registre",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La signatura electrònica basada en certificat digital (p. ex. DNI-e o idCAT)",
+      "explicacion": "La signatura electrònica basada en certificat digital (DNI electrònic, idCAT) té plena validesa legal i garanteix autenticitat i integritat del document.",
+      "explicacion_incorrecta": "Un document escanejat no té signatura electrònica vàlida per si sol.",
+      "fuente": "Llei 6/2020 - signatura electrònica"
+    },
+    {
+      "id": "zdODDgFRPIukLxMmzuKf",
+      "categoria": "sistemes",
+      "categoria_nombre": "💻 Sistemes",
+      "pregunta": "Quin és el concepte d'interoperabilitat en l'administració electrònica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La capacitat dels sistemes de compartir maquinari",
+          "correcta": false
+        },
+        {
+          "letra": "B",
+          "texto": "La capacitat de sistemes i organitzacions d'intercanviar informació i fer-la servir conjuntament",
+          "correcta": true
+        },
+        {
+          "letra": "C",
+          "texto": "La connexió física entre edificis administratius",
+          "correcta": false
+        },
+        {
+          "letra": "D",
+          "texto": "L'estandardització del programari d'oficina",
+          "correcta": false
+        }
+      ],
+      "respuesta_correcta": "B",
+      "respuesta_correcta_indice": 1,
+      "respuesta_correcta_texto": "La capacitat de sistemes i organitzacions d'intercanviar informació i fer-la servir conjuntament",
+      "explicacion": "La interoperabilitat permet que sistemes d'informació de diferents administracions puguin intercanviar dades i serveis sense barreres tècniques.",
+      "explicacion_incorrecta": "No és només compartir maquinari; implica estàndards de dades, formats i processos.",
+      "fuente": "Esquema Nacional d'Interoperabilitat"
+    }
+  ]
+}

@@ -1,0 +1,2028 @@
+{
+  "metadata": {
+    "titulo": "Temari Comú ICS 2025",
+    "specialty": "transversal-ics",
+    "origen": "SimulOpos",
+    "coleccion_origen": "questions",
+    "fecha_descarga": "2026-09-19T15:50:00",
+    "total_preguntas": 126
+  },
+  "preguntas": [
+    {
+      "id": "0U64getJB6wC83mHla9P",
+      "texto": "El Document de Voluntats Anticipades (DVA) a Catalunya el pot revocar:",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Únicament el jutge competent o el representant legal designat al document",
+        "La persona atorgant en qualsevol moment, oralment o per escrit, sense necessitat de causa justificada",
+        "Exclusivament el metge responsable si considera que les instruccions no corresponen a la situació clínica actual",
+        "El familiar de primer grau, si la persona atorgant no pot expressar la seva voluntat per incapacitat"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "La persona atorgant en qualsevol moment, oralment o per escrit, sense necessitat de causa justificada",
+      "explicacion": "La persona atorgant pot revocar el DVA en qualsevol moment, fins i tot oralment. Es pot revocar sense causa i sense formalitats específiques.",
+      "explicacion_incorrecta": "DVA: revocable per la persona atorgant en qualsevol moment i sense formalitats (fins i tot oralment).",
+      "fuente": "Font: Llei 21/2000, art. 8 · DVA"
+    },
+    {
+      "id": "0Y2Gbej5DtC6sen9Tyvc",
+      "texto": "El Pla de Salut 2021-2025 posa especial èmfasi en:",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "La construcció de nous hospitals",
+        "L'abordatge de les desigualtats en salut i els determinants socials",
+        "L'augment de les places MIR a Catalunya",
+        "La creació d'una xarxa de farmàcies públiques"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "L'abordatge de les desigualtats en salut i els determinants socials",
+      "explicacion": "Un eix central del Pla 2021-2025 és la reducció de les desigualtats en salut (per territori, condició socioeconòmica, gènere) i l'acció sobre els determinants socials de la salut.",
+      "explicacion_incorrecta": "La construcció d'hospitals, les places MIR i les farmàcies públiques no son eixos centrals del Pla.",
+      "fuente": "Pla de Salut de Catalunya 2021-2025, eix desigualtats"
+    },
+    {
+      "id": "0qAYgFKoebALeOYWj8Nz",
+      "texto": "L'eix de salut mental del Pla de Salut de Catalunya 2021-2025 prioritza:",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "Augmentar el nombre de llits de psiquiatria hospitalària i unitats de crisi",
+        "Reforçar l'atenció comunitària, la prevenció del suïcidi i la integració de la salut mental a l'atenció primària",
+        "Reduir la prescripció de psicofàrmacs mitjançant teràpies conductuals en règim hospitalari",
+        "La creació de nous hospitals monogràfics de salut mental a totes les regions sanitàries"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Reforçar l'atenció comunitària, la prevenció del suïcidi i la integració de la salut mental a l'atenció primària",
+      "explicacion": "Pla Salut 2021-2025: salut mental prioritza atenció comunitària, prevenció suïcidi, destigmatització i integració a AP.",
+      "explicacion_incorrecta": "Pla Salut 2021-2025 salut mental: atenció comunitària + prevenció suïcidi + integració AP.",
+      "fuente": "Font: Pla de Salut de Catalunya 2021-2025 · Eix salut mental"
+    },
+    {
+      "id": "0yr3hQPAkppPgl62PLDu",
+      "texto": "Quina és la missió de l'ICS, segons el seu Pla Estratègic?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Finançar i planificar els serveis sanitaris públics de tota Catalunya",
+        "Proveir serveis de salut de qualitat, accessibles i equitatius a la població que se li assigna",
+        "Regular i inspeccionar tots els centres sanitaris públics i privats de Catalunya",
+        "Gestionar les prestacions econòmiques de la Seguretat Social al camp sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Proveir serveis de salut de qualitat, accessibles i equitatius a la població que se li assigna",
+      "explicacion": "La missió de l'ICS és proveir serveis de salut de qualitat i equitatius a la seva població assignada. No planifica ni finança (funció del CatSalut).",
+      "explicacion_incorrecta": "ICS = presta serveis sanitaris. CatSalut = planifica i finança.",
+      "fuente": "Font: Pla Estratègic ICS · Missió, visió i valors"
+    },
+    {
+      "id": "28PDJnbPoEPfl4itJG8K",
+      "texto": "Davant d'un accident de treball amb exposició a material biològic (punció accidental), el protocol de l'ICS estableix que la primera mesura és:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Posar-se en contacte immediat amb el Servei de Salut Laboral de l'ICS per avaluar el risc",
+        "Netejar i desinfectar la ferida i comunicar-ho immediatament al responsable del torn i al Servei de Salut Laboral",
+        "Esperar 24 hores per veure si apareixen símptomes d'infecció abans de notificar",
+        "Aplicar profilaxi antiretroviral immediata sense cap altra mesura prèvia"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Netejar i desinfectar la ferida i comunicar-ho immediatament al responsable del torn i al Servei de Salut Laboral",
+      "explicacion": "Protocol accident biològic ICS: 1) Netejar i desinfectar; 2) Comunicar al responsable; 3) Anar al Servei de Salut Laboral (o urgències si és festiu).",
+      "explicacion_incorrecta": "Accident biològic: netejar + comunicar al responsable + Servei de Salut Laboral. No esperar ni automedicar-se.",
+      "fuente": "Font: Protocol accidents biològics ICS · Salut Laboral"
+    },
+    {
+      "id": "2MqdXnHOJHCpjqOHfHN4",
+      "texto": "El dret del pacient a rebutjar el tractament:",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "No existeix si la seva vida corre risc",
+        "Existeix sempre que el pacient tingui capacitat i sigui informat, fins i tot si suposa un risc per a la seva vida",
+        "Requereix autorització judicial en tots els casos",
+        "Només s'aplica a tractaments no prescrits per especialistes"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Existeix sempre que el pacient tingui capacitat i sigui informat, fins i tot si suposa un risc per a la seva vida",
+      "explicacion": "Un pacient amb capacitat té dret a rebutjar qualsevol tractament, fins i tot si suposa un risc vital, sempre que hagi rebut informació adequada. Cal documentar-ho a la HC.",
+      "explicacion_incorrecta": "El risc vital no elimina el dret, no sempre cal autorització judicial, i s'aplica a qualsevol tractament prescrit.",
+      "fuente": "Llei 41/2002, art. 8 i 9"
+    },
+    {
+      "id": "2PSt4Dwey00JA1XkpgkN",
+      "texto": "La Xarxa d'Hospitals d'Utilització Pública (XHUP) inclou:",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Només hospitals de l'ICS",
+        "Hospitals públics i privats concertats que presten serveis al sistema públic",
+        "Exclusivament hospitals universitaris",
+        "Només centres d'atenció primària"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Hospitals públics i privats concertats que presten serveis al sistema públic",
+      "explicacion": "La XHUP inclou tant els hospitals de l'ICS com els hospitals privats que han subscrit conveni amb CatSalut per prestar serveis al sistema públic de salut.",
+      "explicacion_incorrecta": "No es limita als hospitals de l'ICS, ni als universitaris, ni a l'atenció primària.",
+      "fuente": "Llei 15/1990 LOSC"
+    },
+    {
+      "id": "2TBxDGDSaUSNNvbDZHy6",
+      "texto": "Quin model d'atenció promou el Pla de Salut 2021-2025 per a les malalties cròniques?",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "Atenció reactiva centrada en les urgències hospitalàries",
+        "Model d'atenció integrada i proactiva, centrada en la persona, coordinant els nivells assistencials",
+        "Augment de les hospitalitzacions per un millor control",
+        "Model basat exclusivament en la tecnologia mèdica avançada"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Model d'atenció integrada i proactiva, centrada en la persona, coordinant els nivells assistencials",
+      "explicacion": "El Pla 2021-2025 promou l'atenció integrada i centrada en la persona per a crònics, amb coordinació entre l'atenció primària, l'especialitzada i els serveis socials.",
+      "explicacion_incorrecta": "L'atenció reactiva és el model que es vol superar, no promou augmentar hospitalitzacions, ni és exclusivament tecnològic.",
+      "fuente": "Pla de Salut 2021-2025, eix cronicitat"
+    },
+    {
+      "id": "3Hkdlbs4GUROPyjALxjh",
+      "texto": "La bretxa salarial de gènere mesura:",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "La diferència en el nombre de llocs directius entre homes i dones",
+        "La diferència percentual entre el salari mitjà de les dones i el dels homes",
+        "El diferent nombre d'hores extres fetes per homes i dones",
+        "La diferència entre els sous del sector públic i el privat per sexe"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "La diferència percentual entre el salari mitjà de les dones i el dels homes",
+      "explicacion": "La bretxa salarial de gènere mesura la diferència percentual entre el salari mitjà brut de les dones i el dels homes, reflectint la desigualtat retributiva en el mercat laboral.",
+      "explicacion_incorrecta": "No és sobre llocs directius, ni hores extres, ni diferència públic-privat.",
+      "fuente": "LO 3/2007; Enquesta d'estructura salarial INE"
+    },
+    {
+      "id": "3ysmuZqNRuz9MoEdeIHe",
+      "texto": "El Pla de Salut de Catalunya és el marc de referència per a les polítiques de salut. Qui l'aprova?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "El Consell Executiu de la Generalitat a proposta del President de la Generalitat",
+        "El Govern de la Generalitat a proposta del Conseller/a de Salut, amb participació del Consell de Salut",
+        "El Parlament de Catalunya per majoria absoluta dels seus membres",
+        "El Congrés dels Diputats, atès que la sanitat és competència estatal"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El Govern de la Generalitat a proposta del Conseller/a de Salut, amb participació del Consell de Salut",
+      "explicacion": "El Pla de Salut l'aprova el Govern de la Generalitat a proposta del Conseller/a de Salut i amb participació del Consell de Salut.",
+      "explicacion_incorrecta": "Pla de Salut = Govern Generalitat, a proposta del Conseller de Salut.",
+      "fuente": "Font: LOSC, Llei 15/1990 · Pla de Salut de Catalunya"
+    },
+    {
+      "id": "5Oiis9hPyX8cB1dc24jh",
+      "texto": "La norma ISO 9001 certifica:",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "La qualitat dels productes fabricats per una empresa",
+        "El sistema de gestió de la qualitat d'una organització, basant-se en la satisfacció del client i la millora contínua",
+        "Exclusivament els laboratoris de diagnòstic clínic",
+        "La qualitat de l'atenció sanitària en hospitals acreditats"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El sistema de gestió de la qualitat d'una organització, basant-se en la satisfacció del client i la millora contínua",
+      "explicacion": "La ISO 9001 certifica el sistema de gestió de la qualitat (SGQ) d'una organització, verificant que compleix amb els requisits de la norma i que busca la millora contínua i la satisfacció del client (pacient).",
+      "explicacion_incorrecta": "No certifica productes específics, ni exclusivament laboratoris, ni és la certificació específica hospitalària.",
+      "fuente": "ISO 9001:2015"
+    },
+    {
+      "id": "5WtfdYxGUfR56s0XVZHK",
+      "texto": "Quants Nivells de Carrera Professional (NCP) reconeix el sistema de l'ICS per al personal estatutari?",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "3 nivells (NCP-1, NCP-2, NCP-3), amb un increment retributiu per nivel de 50 euros mensuals",
+        "4 nivells (NCP-1, NCP-2, NCP-3 i NCP-4), amb un complement de carrera creixent per a cada nivell",
+        "5 nivells, dels quals el darrer (NCP-5) s'associa a funcions de gestió clínica",
+        "2 nivells: júnior (fins a 10 anys) i sènior (més de 10 anys d'experiència)"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "4 nivells (NCP-1, NCP-2, NCP-3 i NCP-4), amb un complement de carrera creixent per a cada nivell",
+      "explicacion": "El sistema de carrera professional ICS preveu 4 nivells (NCP-1 al NCP-4), cadascun amb un complement retributiu específic.",
+      "explicacion_incorrecta": "ICS: 4 nivells NCP (NCP-1 a NCP-4), cadascun amb complement retributiu creixent.",
+      "fuente": "Font: Acord carrera professional personal estatutari ICS"
+    },
+    {
+      "id": "5gyLmM3brbmemlaxNuMN",
+      "texto": "El principi de minimització de dades al RGPD significa:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Emmagatzemar el menor nombre possible de fitxers",
+        "Recollir i tractar únicament les dades personals estrictament necessàries per a la finalitat del tractament",
+        "Eliminar les dades dels pacients als 30 dies d'alta",
+        "Tractar les dades de forma anonimitzada en tots els casos"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Recollir i tractar únicament les dades personals estrictament necessàries per a la finalitat del tractament",
+      "explicacion": "El principi de minimització implica que les dades recollides han de ser adequades, pertinents i limitades al que és necessari en relació amb la finalitat del tractament.",
+      "explicacion_incorrecta": "No es refereix a fitxers en general, ni als 30 dies, ni a l'anonymització universal.",
+      "fuente": "RGPD, art. 5.1.c"
+    },
+    {
+      "id": "6PUXoHM6XCR4CoTjwdoo",
+      "texto": "La discriminació indirecta per raó de sexe és:",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "Tractar directament diferent una persona pel seu sexe",
+        "Una disposició, criteri o pràctica aparentment neutral que posa en desavantatge a persones d'un sexe",
+        "Una declaració oberta de preferència per un sexe en la contractació",
+        "La retribució diferent per feines de valor diferent"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Una disposició, criteri o pràctica aparentment neutral que posa en desavantatge a persones d'un sexe",
+      "explicacion": "La discriminació indirecta es produeix quan una mesura aparentment neutra afecta de forma desproporcionada a un sexe, sense justificació objectiva.",
+      "explicacion_incorrecta": "La discriminació directa és el tracte diferent obvi; la discriminació indirecta és la mesura neutra amb impacte desigual.",
+      "fuente": "LO 3/2007, art. 6.2"
+    },
+    {
+      "id": "7ZOmyFcJqLiHeLlHUx9d",
+      "texto": "L'informe d'alta hospitalari ha d'incloure obligatòriament:",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Només el diagnòstic i el tractament administrat",
+        "Diagnòstic, activitat assistencial realitzada, recomanacions terapèutiques i de seguiment i informació sobre la medicació",
+        "Exclusivament la medicació a continuar a domicili",
+        "El pronòstic de vida del pacient"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Diagnòstic, activitat assistencial realitzada, recomanacions terapèutiques i de seguiment i informació sobre la medicació",
+      "explicacion": "L'informe d'alta ha de contenir: diagnòstic principal i secundaris, procediments realitzats, tractament administrat, recomanacions al alta i medicació a continuar. És un dret del pacient rebre'l.",
+      "explicacion_incorrecta": "Ni la llista simple, ni la sola medicació, ni el pronòstic vital és el contingut mínim complet.",
+      "fuente": "Llei 41/2002, art. 20"
+    },
+    {
+      "id": "7msueAXcGmZfDL97Hs1p",
+      "texto": "Quina llei orgànica estatal estableix el marc per a la igualtat efectiva entre homes i dones?",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "LO 1/2004 de violència de gènere",
+        "LO 3/2007 per a la igualtat efectiva de dones i homes",
+        "Llei 17/2015 d'igualtat de Catalunya",
+        "LO 2/2010 de salut sexual i reproductiva"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "LO 3/2007 per a la igualtat efectiva de dones i homes",
+      "explicacion": "La LO 3/2007, de 22 de març, per a la igualtat efectiva de dones i homes, és la llei orgànica que estableix el marc estatal per a la igualtat de gènere en tots els àmbits, incloent el laboral.",
+      "explicacion_incorrecta": "La LO 1/2004 és de violència de gènere, la Llei 17/2015 és catalana específica, i la LO 2/2010 és de salut reproductiva.",
+      "fuente": "LO 3/2007, de 22 de març"
+    },
+    {
+      "id": "7oEmDdgFg6CLjC6YpM2t",
+      "texto": "En cas d'accident de treball, el treballador ha de comunicar-ho en primer lloc a:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Al Departament de Salut en un termini de 30 dies",
+        "Al seu superior o al servei de prevenció tan aviat com sigui possible",
+        "Directament a la Inspecció de Treball",
+        "A la mútua en el termini màxim d'una setmana"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Al seu superior o al servei de prevenció tan aviat com sigui possible",
+      "explicacion": "El treballador ha de comunicar l'accident de treball al seu superior jeràrquic i/o al servei de prevenció o persona responsable tan aviat com sigui possible.",
+      "explicacion_incorrecta": "El Departament de Salut i la Inspecció de Treball no son la primera comunicació; la mútua intervé posteriorment.",
+      "fuente": "Llei 31/1995, art. 29; Protocol accidents laborals ICS"
+    },
+    {
+      "id": "7pjbsn81S3Af1yapLtnm",
+      "texto": "Quins son els Equips de Protecció Individual (EPI) en l'àmbit sanitari?",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Opcionals si el treballador els considera innecessaris per a la seva activitat",
+        "Obligatoris quan no es poden eliminar o reduir suficientment els riscos per altres mitjans col·lectius",
+        "Responsabilitat exclusiva del treballador adquirir-los i mantenir-los",
+        "Prescindibles en entorns d'alta tecnologia mèdica amb protocols estrictes"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Obligatoris quan no es poden eliminar o reduir suficientment els riscos per altres mitjans col·lectius",
+      "explicacion": "Art. 17 Llei 31/1995 i RD 773/1997: EPI obligatoris quan el risc no es pot eliminar per mesures col·lectives. L'ICS els proporciona.",
+      "explicacion_incorrecta": "EPI: obligatoris quan el risc no es controla col·lectivament. L'ICS els proporciona; el treballador els usa.",
+      "fuente": "Font: Llei 31/1995, art. 17 · RD 773/1997"
+    },
+    {
+      "id": "7uFNe9D1NwlfohZ7f2Df",
+      "texto": "Davant d'exposició accidental a material biològic (punxada), la primera actuació és:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Aplicar immediatament antibiòtic profilàctic",
+        "Netejar la ferida amb abundant aigua i sabó, i notificar al servei de prevenció o urgències",
+        "Esperar 24 hores per veure si apareixen símptomes",
+        "Cobrir la ferida amb un apòsit i continuar treballant"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Netejar la ferida amb abundant aigua i sabó, i notificar al servei de prevenció o urgències",
+      "explicacion": "Davant una punxada accidental, la primera actuació és netejar la zona amb abundant aigua i sabó i comunicar-ho immediatament al servei de prevenció o urgències per avaluar la profilaxi.",
+      "explicacion_incorrecta": "No s'aplica antibiòtic automàticament, no s'espera a veure símptomes, i no s'ha de continuar treballant sense notificar.",
+      "fuente": "Protocol d'exposicions biològiques accidentals ICS"
+    },
+    {
+      "id": "84g1STVYFbmErLVe1Yk2",
+      "texto": "Quina llei és la norma bàsica de prevenció de riscos laborals a Espanya?",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "RD 39/1997 dels serveis de prevenció",
+        "Llei 31/1995 de prevenció de riscos laborals",
+        "Llei 54/2003 de reforma del marc normatiu",
+        "Conveni OIT 155"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Llei 31/1995 de prevenció de riscos laborals",
+      "explicacion": "La Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals (LPRL) és la norma bàsica que estableix el marc per a la protecció de la salut i seguretat dels treballadors.",
+      "explicacion_incorrecta": "El RD 39/1997 desenvolupa la LPRL, la Llei 54/2003 la reforma però no és la norma bàsica, i el Conveni OIT és internacional.",
+      "fuente": "Llei 31/1995, de 8 de novembre"
+    },
+    {
+      "id": "8NXW0BhVpiyzc2ZQgS0o",
+      "texto": "Els drets que reconeix el RGPD als titulars de les dades son:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Accés, Rectificació, Cancel·lació i Oposició",
+        "Accés, Rectificació, Supressió, Oposició, Portabilitat, Limitació i decisió automatitzada",
+        "Accés, Recuperació, Cancel·lació i Objecte",
+        "Accés, Reducció, Correcció i Ofensiva"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Accés, Rectificació, Supressió, Oposició, Portabilitat, Limitació i decisió automatitzada",
+      "explicacion": "El RGPD reconeix: Accés, Rectificació, Supressió ('dret a l'oblit'), Oposició, Portabilitat, Limitació del tractament i el dret a no ser objecte de decisions automatitzades.",
+      "explicacion_incorrecta": "ARCO era l'acrònim de la LOPD 1999. El RGPD amplia els drets. Les opcions incorrectes no existeixen.",
+      "fuente": "RGPD, arts. 15-22"
+    },
+    {
+      "id": "8iocEO0d7IVa0qP2hBg1",
+      "texto": "El personal estatutari de l'ICS té una relació jurídica de:",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Funcionaris de carrera",
+        "Relació laboral ordinària per conveni col·lectiu",
+        "Relació estatutària especial diferent de la funcionarial i laboral",
+        "Contractes administratius temporals"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "Relació estatutària especial diferent de la funcionarial i laboral",
+      "explicacion": "El personal estatutari té una relació jurídica especial, regulada per l'Estatut Marc, diferent tant de la relació funcionarial com de la laboral ordinària.",
+      "explicacion_incorrecta": "No són funcionaris de carrera, ni treballadors laborals, ni contractats administratius.",
+      "fuente": "Llei 55/2003, art. 1 i 2"
+    },
+    {
+      "id": "8nrYNPSuewJduKwMKmDP",
+      "texto": "Quin règim s'aplica als conflictes individuals de treball del personal estatutari de l'ICS?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Ordre jurisdiccional social (laboralista)",
+        "Ordre jurisdiccional contenciós-administratiu",
+        "Mediació laboral obligatòria prèvia",
+        "Arbitratge del Tribunal de Conflictes Laborals"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Ordre jurisdiccional contenciós-administratiu",
+      "explicacion": "Els conflictes del personal estatutari es dirimeixen davant la jurisdicció contenciosa-administrativa, a diferència dels treballadors laborals que van als jutjats socials.",
+      "explicacion_incorrecta": "L'ordre social s'aplica als treballadors laborals, no als estatutaris.",
+      "fuente": "Llei 55/2003, art. 3; Llei 29/1998 LJCA"
+    },
+    {
+      "id": "9Mv2A66nU3tVloC3s2YE",
+      "texto": "Quina és la definició de personal estatutari temporal de substitució, segons la Llei 55/2003?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Personal contractat per cobrir necessitats urgents no previstes al pla de provisió anual",
+        "El que substitueix el personal fix o temporal amb dret a reserva de plaça durant la seva absència",
+        "Personal que presta serveis en programes de recerca i formació de durada determinada",
+        "Personal interí que cobreix vacants fins que es resolen les oposicions corresponents"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El que substitueix el personal fix o temporal amb dret a reserva de plaça durant la seva absència",
+      "explicacion": "Personal de substitució (art. 10 Llei 55/2003): substitueix el que té dret a reserva de plaça (IT, maternitat, excedència, permís...).",
+      "explicacion_incorrecta": "Substitució = cobreix absència de personal amb dret a reserva de plaça (IT, maternitat, permís...).",
+      "fuente": "Font: Llei 55/2003, art. 10"
+    },
+    {
+      "id": "9SgwV6FklBmmzHJlwHKB",
+      "texto": "Quines empreses estan obligades a tenir un Pla d'Igualtat?",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "Totes les empreses, independentment de la mida",
+        "Les empreses amb 50 o més treballadors, i les que ho estableixi el conveni col·lectiu",
+        "Només les empreses públiques amb més de 250 treballadors",
+        "Les empreses que hagin rebut sancions per discriminació"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Les empreses amb 50 o més treballadors, i les que ho estableixi el conveni col·lectiu",
+      "explicacion": "Des del RD 901/2020, estan obligades a tenir Pla d'Igualtat les empreses amb 50 o més treballadors. L'ICS, com a empresa pública, en disposa.",
+      "explicacion_incorrecta": "No és per a totes les empreses, el llindar de 250 era l'anterior, i no es limita a les sancionades.",
+      "fuente": "LO 3/2007, art. 45; RD 901/2020"
+    },
+    {
+      "id": "9W8jdda0clsesjreZtqj",
+      "texto": "El Pla de Prevenció de Riscos Laborals de l'ICS ha d'incloure obligatòriament:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Exclusivament la llista de riscos identificats i les mesures per eliminar-los",
+        "L'estructura organitzativa, les responsabilitats, les funcions, els procediments i els recursos en matèria de PRL",
+        "El registre nominal de tots els accidents de treball ocorreguts als últims 5 anys",
+        "Únicament la planificació de la vigilància de la salut dels treballadors"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "L'estructura organitzativa, les responsabilitats, les funcions, els procediments i els recursos en matèria de PRL",
+      "explicacion": "Art. 16 Llei 31/1995: el Pla de Prevenció ha d'incloure estructura organitzativa, responsabilitats, funcions, procediments i recursos necessaris.",
+      "explicacion_incorrecta": "Pla PRL = estructura + responsabilitats + funcions + procediments + recursos (art. 16 Llei 31/1995).",
+      "fuente": "Font: Llei 31/1995, art. 16"
+    },
+    {
+      "id": "9WVSACOO9GJdoD5eJjnD",
+      "texto": "L'APDCAT (Autoritat Catalana de Protecció de Dades) és competent per als tractaments de:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Totes les empreses privades de Catalunya",
+        "Els ens públics de Catalunya",
+        "Totes les administracions del territori espanyol",
+        "Únicament les dades de salut"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Els ens públics de Catalunya",
+      "explicacion": "L'APDCAT és l'autoritat de control de protecció de dades per als tractaments dels ens públics de Catalunya. L'AEPD és competent per als ens privats i per a l'Administració General de l'Estat.",
+      "explicacion_incorrecta": "L'AEPD és espanyola general, l'APDCAT és per a ens públics catalans.",
+      "fuente": "LOPDGDD, disposició addicional divuitena"
+    },
+    {
+      "id": "9kmUpXt1NkgdhxyZEZXF",
+      "texto": "El personal estatutari de l'ICS té dret a la formació continuada. Quantes hores mínimes anuals reconeix el sistema per a activitats de formació?",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "10 hores anuals de formació obligatòria en PRL i protocols de seguretat",
+        "20 hores anuals de formació continuada com a dret subjectiu del professional",
+        "40 hores anuals de formació, de les quals la meitat en horari laboral",
+        "No hi ha un mínimum establert: és voluntari i depèn de cada gerència territorial"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "20 hores anuals de formació continuada com a dret subjectiu del professional",
+      "explicacion": "L'ICS reconeix el dret a la formació continuada amb 20 hores anuals de formació com a dret del professional, dins del marc de l'Acord de Condicions de Treball.",
+      "explicacion_incorrecta": "Formació continuada ICS: 20 hores anuals com a dret del professional.",
+      "fuente": "Font: Acord Condicions de Treball personal estatutari ICS · Formació"
+    },
+    {
+      "id": "A9hXWeQOjm9RCdKM5ERZ",
+      "texto": "L'accés a la pròpia història clínica és un dret del pacient regulat per la Llei 41/2002. Quin professional pot limitar-ne l'accés?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Cap professional no pot limitar l'accés del pacient a la seva pròpia HC en cap circumstància",
+        "El metge responsable pot limitar l'accés a dades terapèutiques de tercers o a anotacions subjetives professionals",
+        "L'hospital pot negar l'accés si el pacient no ha pagat les factures pendents amb el centre",
+        "El director mèdic, per raons d'organització interna del centre sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El metge responsable pot limitar l'accés a dades terapèutiques de tercers o a anotacions subjetives professionals",
+      "explicacion": "Art. 18.3 Llei 41/2002: es pot limitar l'accés a dades que afectin la intimitat de tercers (notes d'altres professionals) o a dades subjectives del professional.",
+      "explicacion_incorrecta": "Limitació HC: dades de tercers o anotacions subjectives del professional. No per raons econòmiques ni organitzatives.",
+      "fuente": "Font: Llei 41/2002, art. 18"
+    },
+    {
+      "id": "AODa4GeMfNagduSj1oI1",
+      "texto": "Quin tipus de selecció s'utilitza per accedir a places fixes del personal estatutari de l'ICS?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Oposició lliure exclusivament",
+        "Concurs de mèrits únicament",
+        "Concurs-oposició o oposició, en el marc de l'Oferta Pública d'Ocupació",
+        "Contractació directa per mèrits acadèmics"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "Concurs-oposició o oposició, en el marc de l'Oferta Pública d'Ocupació",
+      "explicacion": "L'accés a places fixes del personal estatutari es realitza mitjançant concurs-oposició (habitual) o oposició, sempre en el marc de l'Oferta Pública d'Ocupació (OPO).",
+      "explicacion_incorrecta": "L'oposició lliure exclusiva és possible però menys freqüent, el concurs de mèrits és per a funcionaris veterans, i la contractació directa no és procediment selectiu.",
+      "fuente": "Llei 55/2003, art. 30 i ss."
+    },
+    {
+      "id": "Alor5Bb6C3PD9I4omRnj",
+      "texto": "La carrera professional del personal estatutari de l'ICS es reconeix a través de:",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "Les oposicions internes periòdiques per accedir a categories professionals superiors",
+        "El reconeixement de Nivells de Carrera Professional (NCP), basats en l'experiència, la formació i l'activitat professional",
+        "El sistema de mèrits anuals valorats per la gerència del centre sense criteris objectius transparents",
+        "L'antiguitat exclusivament, computada des de la data d'incorporació a l'ICS"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El reconeixement de Nivells de Carrera Professional (NCP), basats en l'experiència, la formació i l'activitat professional",
+      "explicacion": "Carrera professional ICS: sistema de Nivells de Carrera Professional (NCP-1 a NCP-4), basats en experiència, formació i activitat professional.",
+      "explicacion_incorrecta": "Carrera professional ICS = Nivells NCP-1 a NCP-4. Basats en experiència + formació + activitat professional.",
+      "fuente": "Font: Acord carrera professional personal estatutari ICS"
+    },
+    {
+      "id": "Av0cKyGfAlB4Ep5Tgk5M",
+      "texto": "El delegat de prevenció és un representant dels treballadors en matèria de PRL. Quantes hores de crèdit horari té per exercir les seves funcions en centres de 50-100 treballadors?",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "10 hores mensuals de crèdit horari per a funcions preventives",
+        "15 hores mensuals de crèdit horari, acumulables al crèdit horari sindical",
+        "20 hores mensuals de crèdit horari per a les funcions de prevenció",
+        "25 hores mensuals de crèdit horari com a màxim"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "15 hores mensuals de crèdit horari, acumulables al crèdit horari sindical",
+      "explicacion": "Art. 37 Llei 31/1995: delegats de prevenció en centres de 50-100 treballadors = 15 hores mensuals de crèdit horari, acumulables.",
+      "explicacion_incorrecta": "Delegat prevenció (50-100 treballadors): 15 hores mensuals de crèdit horari.",
+      "fuente": "Font: Llei 31/1995, art. 37"
+    },
+    {
+      "id": "B0SnG8CDk7IJcikFCfbE",
+      "texto": "A quina edat es considera que un menor té capacitat per prestar consentiment informat?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "14 anys",
+        "16 anys",
+        "18 anys",
+        "12 anys, si el metge ho valora"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "16 anys",
+      "explicacion": "A partir dels 16 anys els menors es consideren capaços per prestar consentiment informat en la majoria d'actes mèdics.",
+      "explicacion_incorrecta": "14 anys no és la majoria d'edat mèdica, 18 anys és la majoria civil general, i 12 anys com a criteri únic no és correcte.",
+      "fuente": "Llei 41/2002, art. 9.3"
+    },
+    {
+      "id": "BPdfPnS5QePuRnO38uom",
+      "texto": "Quin d'aquests és un dels eixos del Pla de Salut 2021-2025?",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "Reducció del dèficit públic en sanitat",
+        "Salut mental com a prioritat i atenció integrada a les persones amb malaltia mental",
+        "Augment del sector privat sanitari",
+        "Eliminació de les llistes d'espera"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Salut mental com a prioritat i atenció integrada a les persones amb malaltia mental",
+      "explicacion": "La salut mental és un dels eixos prioritaris del Pla de Salut 2021-2025, juntament amb la cronicitat, la salut sexual i reproductiva, l'envelliment saludable, la transformació digital i la reducció de desigualtats.",
+      "explicacion_incorrecta": "La reducció del dèficit, l'augment del sector privat i l'eliminació de llistes d'espera no son eixos estratègics.",
+      "fuente": "Pla de Salut de Catalunya 2021-2025"
+    },
+    {
+      "id": "BuPK6GyUt7U6n6qBBua9",
+      "texto": "Quants eixos estratègics té el Pla de Salut 2021-2025?",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "4 eixos",
+        "6 eixos",
+        "8 eixos",
+        "10 eixos"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "6 eixos",
+      "explicacion": "El Pla de Salut 2021-2025 s'estructura en 6 eixos estratègics que abasten des de la salut mental fins a la cronicitat, la innovació i la transformació digital.",
+      "explicacion_incorrecta": "4, 8 i 10 eixos no corresponen a l'estructura del Pla 2021-2025.",
+      "fuente": "Pla de Salut de Catalunya 2021-2025"
+    },
+    {
+      "id": "CHZu54G34wDRpOlCC3fv",
+      "texto": "L'Estatut Bàsic de l'Empleat Públic (EBEP, Llei 7/2007) s'aplica al personal estatutari de l'ICS de manera:",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Directa i exclusiva, ja que l'EBEP substitueix completament la Llei 55/2003 per al personal sanitari",
+        "Supletòria per als aspectes no regulats per la Llei 55/2003, que és la norma específica del personal estatutari del SNS",
+        "Obligatòria però només per al personal no sanitari de l'ICS (administratius i zeladors)",
+        "Total per al personal fix i parcial per al personal temporal de l'ICS"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Supletòria per als aspectes no regulats per la Llei 55/2003, que és la norma específica del personal estatutari del SNS",
+      "explicacion": "EBEP és d'aplicació supletòria per al personal estatutari del SNS. La Llei 55/2003 és la norma específica. L'EBEP s'aplica en allò no previst per la Llei 55/2003.",
+      "explicacion_incorrecta": "Llei 55/2003 = norma específica. EBEP = supletori per als aspectes no regulats.",
+      "fuente": "Font: Llei 55/2003, Disposició Final 1a · EBEP"
+    },
+    {
+      "id": "CgiZUFPNayaF3xItA4KO",
+      "texto": "Quins son els drets que la LOPD-GDD reconeix a les persones respecte a les seves dades personals?",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Únicament el dret d'accés i el dret de rectificació de les dades incorrectes",
+        "Accés, rectificació, supressió (oblit), limitació del tractament, portabilitat i oposició al tractament",
+        "El dret a exigir que les dades es mantinguin en territori nacional sense transferir-les a tercers",
+        "El dret a la destrucció física de tots els documents que contenen les seves dades personals"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Accés, rectificació, supressió (oblit), limitació del tractament, portabilitat i oposició al tractament",
+      "explicacion": "RGPD i LOPD-GDD: drets ARCOPOL: Accés, Rectificació, Cancel·lació/Supressió, Oposició, Portabilitat, Oblit, Limitació.",
+      "explicacion_incorrecta": "Drets LOPD: accés + rectificació + supressió + limitació + portabilitat + oposició (ARCOPOL).",
+      "fuente": "Font: RGPD art. 15-22 · LO 3/2018"
+    },
+    {
+      "id": "D6cl3Dqck85cPUtUVIqs",
+      "texto": "L'assetjament sexual en el lloc de treball es considera:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Una falta lleu si és una situació puntual",
+        "Una conducta discriminatòria per raó de sexe i una violació dels drets fonamentals, tipificada com a falta molt greu",
+        "Una conducta regulada exclusivament pel codi penal",
+        "Un conflicte d'índole personal"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Una conducta discriminatòria per raó de sexe i una violació dels drets fonamentals, tipificada com a falta molt greu",
+      "explicacion": "L'assetjament sexual és una conducta discriminatòria per raó de sexe que vulnera drets fonamentals. A l'àmbit laboral, és falta molt greu i pot tenir conseqüències civils i penals.",
+      "explicacion_incorrecta": "No és una falta lleu, té implicació laboral i civil, i no és un conflicte personal.",
+      "fuente": "LO 3/2007, art. 48; Protocol assetjament ICS"
+    },
+    {
+      "id": "DYxEEC82reqMynYhmHwK",
+      "texto": "Els principis bàsics del tractament de dades personals al RGPD inclouen:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Velocitat, precisió i eficiència",
+        "Licitud, lleialtat i transparència; limitació de la finalitat; minimització de dades; exactitud; limitació de la conservació; integritat i confidencialitat",
+        "Seguretat, privacitat i anonymitat",
+        "Consentiment, accés i transparència"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Licitud, lleialtat i transparència; limitació de la finalitat; minimització de dades; exactitud; limitació de la conservació; integritat i confidencialitat",
+      "explicacion": "El RGPD estableix als seus principis: licitud, lleialtat, transparència; limitació de la finalitat; minimització de dades; exactitud; limitació de la conservació; integritat i confidencialitat; i responsabilitat proactiva.",
+      "explicacion_incorrecta": "Les opcions incorrectes no reflecteixen els principis del RGPD.",
+      "fuente": "RGPD, art. 5"
+    },
+    {
+      "id": "E5nFZOsJyQ1CCziHwHMK",
+      "texto": "La Llei 19/2014 de transparència de Catalunya obliga principalment a:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Els partits polítics i les empreses privades a publicar els seus comptes",
+        "Les administracions públiques i entitats amb finançament públic a publicar informació de manera proactiva",
+        "Únicament l'Ajuntament de Barcelona i la Generalitat de Catalunya",
+        "Tots els treballadors públics a declarar els seus béns personals"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Les administracions públiques i entitats amb finançament públic a publicar informació de manera proactiva",
+      "explicacion": "La Llei 19/2014 obliga les administracions públiques i entitats amb finançament públic a publicar de manera proactiva informació sobre la seva activitat, pressupostos, contractes, convenis, etc.",
+      "explicacion_incorrecta": "Afecta les entitats públiques i assimilades, no exclusivament Barcelona i Generalitat, ni exigeix declaració de béns a tots els treballadors.",
+      "fuente": "Llei 19/2014, de 29 de desembre, de Catalunya"
+    },
+    {
+      "id": "FPITVGloWofyENv5G9p1",
+      "texto": "Quantes àrees de gestió assistencial (AGA) té l'ICS aproximadament?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "8",
+      "explicacion": "L'ICS s'organitza en 8 gerències territorials o àrees de gestió assistencial (AGA) distribuïdes per tot Catalunya.",
+      "explicacion_incorrecta": "4 és insuficient per cobrir Catalunya, 6 no és el nombre correcte, 10 sobrepassa l'estructura real.",
+      "fuente": "Estructura organitzativa ICS 2024"
+    },
+    {
+      "id": "FU5ReTt9Q8b3xJtg0ecZ",
+      "texto": "En cas d'incapacitat del pacient, qui exerceix el consentiment per representació?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Sempre el familiar de major edat",
+        "El representant legal o les persones vinculades de fet per raons familiars o de convivència",
+        "El metge responsable del cas",
+        "El director del centre sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El representant legal o les persones vinculades de fet per raons familiars o de convivència",
+      "explicacion": "Si el pacient no té capacitat, el consentiment per representació l'exerceix el seu representant legal o, en absència, les persones vinculades per relació familiar o de convivència.",
+      "explicacion_incorrecta": "No és automàticament el familiar de major edat, ni el metge ni el director del centre.",
+      "fuente": "Llei 41/2002, art. 9"
+    },
+    {
+      "id": "FcApA1lwSSHGrlEm6WOt",
+      "texto": "Quina circumstància permet la suspensió de funcions provisional del personal estatutari?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Quan s'inicia un expedient disciplinari per falta molt greu",
+        "Quan el professional sol·licita una excedència voluntària",
+        "Quan s'acumulen més de 3 absències no justificades",
+        "Per decisió unilateral del cap de servei"
+      ],
+      "respuesta_correcta": 0,
+      "respuesta_correcta_texto": "Quan s'inicia un expedient disciplinari per falta molt greu",
+      "explicacion": "La suspensió de funcions provisional es pot adoptar com a mesura cautelar quan s'inicia un expedient disciplinari per faltes molt greus, i no pot superar 6 mesos.",
+      "explicacion_incorrecta": "L'excedència voluntària és a petició pròpia, les absències no generen suspensió automàtica, i el cap de servei no pot acordar-la unilateralment.",
+      "fuente": "Llei 55/2003, art. 75"
+    },
+    {
+      "id": "Fl7j7UBpWnIuou2hrdCZ",
+      "texto": "El diagrama de Pareto en qualitat s'utilitza per:",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Crear organigrames de processos",
+        "Identificar les causes que originen el major percentatge de problemes (principi 80/20)",
+        "Distribuir les tasques entre els membres de l'equip",
+        "Avaluar la satisfacció del pacient"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Identificar les causes que originen el major percentatge de problemes (principi 80/20)",
+      "explicacion": "El diagrama de Pareto aplica el principi 80/20: el 80% dels problemes son causats pel 20% de les causes. Permet prioritzar les accions de millora sobre les causes més impactants.",
+      "explicacion_incorrecta": "No és un organigrama, ni una distribució de tasques, ni un instrument de satisfacció.",
+      "fuente": "Vilfredo Pareto; Gestió de la qualitat"
+    },
+    {
+      "id": "Fy4w4GC7VuxpZsRjEgQa",
+      "texto": "L'assoliment d'un nivell de carrera professional implica:",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "Un augment temporal de l'assignació mensual fins al proper avaluació",
+        "Un complement retributiu de caràcter permanent vinculat al nivell assolit",
+        "El dret a accedir automàticament al nivell superior",
+        "L'exempció de guàrdies i caps de setmana"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Un complement retributiu de caràcter permanent vinculat al nivell assolit",
+      "explicacion": "Cada nivell de carrera professional reconegut incorpora un complement salarial permanent (que es manté fins i tot si el professional canvia de centre dins l'ICS).",
+      "explicacion_incorrecta": "No és temporal, no comporta accés automàtic al nivell superior, ni exempció de guàrdies.",
+      "fuente": "Acord de carrera professional ICS"
+    },
+    {
+      "id": "GjVWmApuzACo7bBXogIp",
+      "texto": "Quina llei va crear el Sistema Nacional de Salut (SNS) a Espanya?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Llei 14/1986 General de Sanitat",
+        "Llei 16/2003 de cohesió i qualitat",
+        "RD 1030/2006",
+        "Llei 55/2003"
+      ],
+      "respuesta_correcta": 0,
+      "respuesta_correcta_texto": "Llei 14/1986 General de Sanitat",
+      "explicacion": "La Llei 14/1986, de 25 d'abril, General de Sanitat, va crear el Sistema Nacional de Salut establint la universalitat i gratuïtat de l'atenció sanitària.",
+      "explicacion_incorrecta": "La Llei 16/2003 regula la cohesió del SNS, el RD 1030/2006 estableix la cartera de serveis, i la Llei 55/2003 regula el personal estatutari.",
+      "fuente": "Llei 14/1986, de 25 d'abril, General de Sanitat"
+    },
+    {
+      "id": "HJXF5dkoKDUUVxWSnfWu",
+      "texto": "Quina és l'obligació principal de l'empresa en matèria de PRL?",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Pagar el plus de perillositat als treballadors",
+        "Garantir la seguretat i salut dels treballadors en tots els aspectes del treball",
+        "Proporcionar equips de protecció individual de primera qualitat",
+        "Contractar una mútua d'accidents de treball"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Garantir la seguretat i salut dels treballadors en tots els aspectes del treball",
+      "explicacion": "La Llei 31/1995 estableix que l'empresari ha de garantir la seguretat i la salut dels treballadors en tots els aspectes del treball, adoptant totes les mesures necessàries.",
+      "explicacion_incorrecta": "El plus de perillositat, els EPI i la mútua són elements de la PRL però no l'obligació principal global.",
+      "fuente": "Llei 31/1995, art. 14"
+    },
+    {
+      "id": "HLwv2nIIFGCGSBJFvb8g",
+      "texto": "La seguretat del pacient és un àmbit prioritari de la qualitat assistencial. L'estratègia internacional de reducció d'errors es basa en:",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Identificar i sancionar els professionals que cometen errors per disuadir-ne futures incidències",
+        "Fomentar la cultura de la seguretat i la notificació voluntària d'incidents per aprendre i millorar el sistema",
+        "Reduir la plantilla de professionals per eliminar els punts de risc en les cadenes d'atenció",
+        "Implementar protocols únics nacionals sense adaptació als contextos locals dels centres"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Fomentar la cultura de la seguretat i la notificació voluntària d'incidents per aprendre i millorar el sistema",
+      "explicacion": "Seguretat del pacient: cultura de la seguretat + notificació d'incidents sense penalització + anàlisi sistèmica (no cerca de culpables).",
+      "explicacion_incorrecta": "Seguretat pacient = cultura seguretat + notificació voluntària + anàlisi sistèmica. No és punitiu.",
+      "fuente": "Font: Pla de Seguretat del Pacient · CatSalut · OMS"
+    },
+    {
+      "id": "IcH7CPgGrwPbq6NynBaK",
+      "texto": "Quin és l'òrgan de govern suprem de l'ICS?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "La Junta de Govern",
+        "El Consell d'Administració",
+        "El Consell de Direcció",
+        "El Director/a Gerent"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El Consell d'Administració",
+      "explicacion": "El Consell d'Administració és l'òrgan de govern suprem de l'ICS, presidit pel/per la conseller/a de Salut.",
+      "explicacion_incorrecta": "La Junta de Govern, el Consell de Direcció i el Director/a Gerent no són l'òrgan suprem de govern de l'ICS.",
+      "fuente": "Llei 8/2007, de 30 de juliol, de l'ICS"
+    },
+    {
+      "id": "IxuR5so15D9CTYc0aV84",
+      "texto": "Quina és la jornada laboral ordinària del personal estatutari de l'ICS en còmput anual, establerta per acord?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "1.500 hores efectives anuals amb distribució flexible al llarg de l'any",
+        "1.504 hores efectives de treball anual, distribuïdes en 35 hores setmanals",
+        "2.000 hores efectives anuals amb 40 hores setmanals de jornada màxima",
+        "1.800 hores efectives de treball anual distribuïdes en torns de 7,5 hores"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "1.504 hores efectives de treball anual, distribuïdes en 35 hores setmanals",
+      "explicacion": "La jornada ordinària del personal estatutari ICS és de 1.504 hores efectives anuals (equivalent a 37,5h setmanals de presència).",
+      "explicacion_incorrecta": "Jornada ICS = 1.504 hores efectives anuals.",
+      "fuente": "Font: Acord Regulació Condicions Treball Personal Estatutari ICS"
+    },
+    {
+      "id": "JMtJ7eAHHQbAB3DhU1tv",
+      "texto": "En quina situació es pot actuar sense consentiment informat del pacient?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Sempre que el professional ho consideri necessari per al bé del pacient",
+        "En situació de risc vital immediat quan el pacient no pot prestar consentiment i no hi ha DVA",
+        "Quan el pacient és major de 65 anys i presenta deteriorament cognitiu",
+        "Quan el pacient hagi signat prèviament qualsevol formulari d'ingrés hospitalari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "En situació de risc vital immediat quan el pacient no pot prestar consentiment i no hi ha DVA",
+      "explicacion": "En situació de risc vital immediat on el pacient no pot donar el consentiment i no hi ha instruccions prèvies (DVA), els professionals poden actuar.",
+      "explicacion_incorrecta": "El risc vital no elimina el dret quan el pacient pot decidir, l'edat no determina la capacitat, i signar l'ingrés no substitueix el CI per a procediments específics.",
+      "fuente": "Llei 41/2002, art. 9.2"
+    },
+    {
+      "id": "JPwVdIH0jsefQeqMkjNn",
+      "texto": "Que són les Voluntats Anticipades (DVA)?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Un testament vital que regula l'herència en cas de malaltia",
+        "Un document on la persona expressa les instruccions sobre els tractaments que vol o no vol en situació d'incapacitat",
+        "Un document que designa el metge responsable",
+        "Un formulari de renúncia a tractaments experimentals"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Un document on la persona expressa les instruccions sobre els tractaments que vol o no vol en situació d'incapacitat",
+      "explicacion": "El DVA és el document on una persona, amb capacitat, expressa les seves instruccions sobre els tractaments mèdics que vol o no vol rebre si en el futur no pot prendre decisions per si mateixa.",
+      "explicacion_incorrecta": "No és un testament, ni designa metge, ni es limita a tractaments experimentals.",
+      "fuente": "Llei 21/2000 de Catalunya; Llei 41/2002, art. 11"
+    },
+    {
+      "id": "KDhaGFqDQ8KudVTWji89",
+      "texto": "L'assetjament laboral (mobbing) es caracteritza per:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Qualsevol conflicte puntual entre companys de feina",
+        "Conductes abusives, repetides i sistemàtiques que atempten contra la dignitat o integritat psíquica del treballador",
+        "Un desacord puntual sobre les condicions de treball",
+        "Una queixa formal presentada davant el comitè d'empresa"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Conductes abusives, repetides i sistemàtiques que atempten contra la dignitat o integritat psíquica del treballador",
+      "explicacion": "L'assetjament laboral es caracteritza per conductes reiteratives, sistemàtiques i intencionals que atempten contra la dignitat de la persona i alteren el seu entorn laboral.",
+      "explicacion_incorrecta": "Un conflicte puntual no és assetjament, ni tampoc un desacord sobre condicions ni una queixa formal.",
+      "fuente": "Llei 31/1995; Protocol d'assetjament ICS"
+    },
+    {
+      "id": "KOml9HRBagJoIvHCQOKF",
+      "texto": "Quin organisme aprova el Pla de Salut de Catalunya?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "El Parlament de Catalunya",
+        "El Govern de la Generalitat",
+        "El Departament de Salut",
+        "El Consell d'Administració de CatSalut"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El Govern de la Generalitat",
+      "explicacion": "El Pla de Salut de Catalunya és aprovat pel Govern de la Generalitat, a proposta del Departament de Salut.",
+      "explicacion_incorrecta": "El Parlament el debat però no l'aprova, el Departament el proposa però no l'aprova, i el Consell de CatSalut no té aquesta competència.",
+      "fuente": "Llei 15/1990 LOSC, art. 59"
+    },
+    {
+      "id": "Knp1nLyE97b2HxEph5W3",
+      "texto": "L'ICS és una entitat de dret públic adscrita al:",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Ministeri de Sanitat de l'Estat espanyol, que en defineix l'activitat",
+        "Departament de Salut de la Generalitat de Catalunya",
+        "CatSalut, del qual és un ens dependent sense personalitat jurídica pròpia",
+        "Consorci de Salut i Social de Catalunya (CSC)"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Departament de Salut de la Generalitat de Catalunya",
+      "explicacion": "L'ICS (Llei 8/2007) és una entitat de dret públic amb personalitat jurídica pròpia, adscrita al Departament de Salut de la Generalitat.",
+      "explicacion_incorrecta": "ICS → Departament de Salut → Generalitat de Catalunya. Entitat de dret públic (Llei 8/2007).",
+      "fuente": "Font: Llei 8/2007, de 30 de juliol, de l'ICS"
+    },
+    {
+      "id": "LfFTGt9onNH1XTOxHNLn",
+      "texto": "El Delegat de Protecció de Dades (DPD) és obligatori per a:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Totes les empreses privades",
+        "Les autoritats i organismes públics i les entitats que tracten dades de salut a gran escala",
+        "Únicament les empreses tecnològiques",
+        "Les empreses amb més de 500 treballadors"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Les autoritats i organismes públics i les entitats que tracten dades de salut a gran escala",
+      "explicacion": "El RGPD obliga a designar DPD a totes les autoritats i organismes públics, i als responsables que realitzin tractaments a gran escala de categories especials de dades (com les de salut).",
+      "explicacion_incorrecta": "No és per a totes les empreses privades, ni exclusivament les tecnològiques, ni per nombre de treballadors.",
+      "fuente": "RGPD, art. 37"
+    },
+    {
+      "id": "MCRPMGSGniGylzfmlwl9",
+      "texto": "L'acreditació de centres sanitaris per part de CatSalut implica:",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Una auditoria comptable anual",
+        "L'avaluació del compliment d'estàndards de qualitat i seguretat per un organisme extern, donant reconeixement formal",
+        "Una inspecció sobre condicions edil·lícies de l'edifici",
+        "L'aprovació de nous llocs de treball per part del Departament de Salut"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "L'avaluació del compliment d'estàndards de qualitat i seguretat per un organisme extern, donant reconeixement formal",
+      "explicacion": "L'acreditació de centres sanitaris per CatSalut avalua si el centre compleix estàndards de qualitat, seguretat i organització, i suposa un reconeixement formal de l'excel·lència del centre.",
+      "explicacion_incorrecta": "No és una auditoria comptable, ni d'edificis, ni una aprovació de RRHH.",
+      "fuente": "Model d'acreditació de centres sanitaris - CatSalut"
+    },
+    {
+      "id": "Nf9fbdHgrjPvBT4K5KGr",
+      "texto": "La Llei Orgànica 3/2007, de 22 de març, per a la igualtat efectiva de dones i homes, defineix la discriminació indirecta com:",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "Un tracte menys favorable que rep una persona directament per raó del seu sexe",
+        "Una disposició, criteri o pràctica aparentment neutres que posen a persones d'un sexe en desavantatge particular",
+        "Una acció positiva que afavoreix un sexe per compensar les desigualtats existents",
+        "Qualsevol comentari o broma de contingut sexista en l'entorn laboral"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Una disposició, criteri o pràctica aparentment neutres que posen a persones d'un sexe en desavantatge particular",
+      "explicacion": "LO 3/2007: discriminació indirecta = disposició aparentment neutra que en la pràctica perjudica un sexe. Diferent de la directa (tracte menys favorable exprés).",
+      "explicacion_incorrecta": "Discriminació indirecta = norma aparentment neutra que perjudica un sexe en la pràctica.",
+      "fuente": "Font: LO 3/2007, art. 6"
+    },
+    {
+      "id": "O1ItqwwmQpcnIc3j1SIS",
+      "texto": "Quin organisme té la funció de planificar, comprar i avaluar serveis sanitaris a Catalunya?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "ICS",
+        "Departament de Salut",
+        "CatSalut",
+        "Salut Pública de Catalunya"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "CatSalut",
+      "explicacion": "CatSalut (Servei Català de la Salut) és l'organisme responsable de planificar, comprar i avaluar els serveis sanitaris públics de Catalunya.",
+      "explicacion_incorrecta": "L'ICS és el proveïdor de serveis, el Departament de Salut és l'òrgan polític, i Salut Pública se centra en la salut comunitària.",
+      "fuente": "Llei 15/1990 d'ordenació sanitària de Catalunya"
+    },
+    {
+      "id": "OVbvBUeJRYfVGJFgJB2i",
+      "texto": "Quin model sanitari caracteritza el sistema de salut de Catalunya?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Model Bismarck pur de seguretat social",
+        "Model Beveridge de cobertura universal finançat per impostos",
+        "Model mixt amb separació de funcions entre finançador i proveïdor",
+        "Model d'assegurança privada obligatòria"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "Model mixt amb separació de funcions entre finançador i proveïdor",
+      "explicacion": "Catalunya té un model mixt amb separació de funcions: CatSalut finança i compra, mentre que l'ICS i altres entitats (concertades) proveeixen els serveis.",
+      "explicacion_incorrecta": "El model Bismarck es basa en cotitzacions, el Beveridge pur no inclou concertació privada, i el model privat obligatori no existeix a Catalunya.",
+      "fuente": "Llei 15/1990 d'ordenació sanitària de Catalunya (LOSC)"
+    },
+    {
+      "id": "ObAuREiClWxzfaLeB7Vb",
+      "texto": "El dret a la informació clínica correspon principalment a:",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Al familiar més proper del pacient",
+        "Al pacient, que pot indicar si vol compartir-la amb familiars",
+        "Al metge, que decideix quina informació dona i a qui",
+        "Al centre sanitari, que determina el protocol d'informació"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Al pacient, que pot indicar si vol compartir-la amb familiars",
+      "explicacion": "El dret a la informació clínica és del pacient. Ell/ella pot decidir si vol que els seus familiars o persones properes rebin informació.",
+      "explicacion_incorrecta": "El familiar no té dret automàtic, el metge no decideix arbitràriament, i el centre estableix protocols però no suplanta el dret del pacient.",
+      "fuente": "Llei 41/2002, art. 5"
+    },
+    {
+      "id": "Ozao0ACYuOGg9Iyzz0nt",
+      "texto": "Quina diferència hi ha entre atenció primària i atenció especialitzada?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "L'AP tracta malalties cròniques i l'AE les agudes",
+        "L'AP és la porta d'entrada al sistema i ofereix atenció continuada; l'AE resol problemes de major complexitat",
+        "L'AP és gratuïta i l'AE té copagament",
+        "L'AP depèn de l'ICS i l'AE depèn del Departament de Salut"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "L'AP és la porta d'entrada al sistema i ofereix atenció continuada; l'AE resol problemes de major complexitat",
+      "explicacion": "L'atenció primària és la porta d'entrada al sistema sanitari i ofereix atenció integral i continuada; l'atenció especialitzada (hospitals, CAP especialitzats) resol problemes de major complexitat.",
+      "explicacion_incorrecta": "No és correcte que l'AP tracti només crònics, ni que l'AE tingui copagament, ni que l'AE depengui del Departament directament.",
+      "fuente": "Llei 14/1986 General de Sanitat"
+    },
+    {
+      "id": "PdFHNScIs7S1IoKdYyHN",
+      "texto": "Qui pot accedir a la història clínica d'un pacient sense el seu consentiment?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Qualsevol professional del centre sanitari",
+        "Els professionals directament responsables de l'atenció i l'autoritat judicial en casos legals",
+        "Els familiars directes del pacient",
+        "Qualsevol persona amb interès legítim"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Els professionals directament responsables de l'atenció i l'autoritat judicial en casos legals",
+      "explicacion": "Sense consentiment exprés del pacient, només pot accedir a la HC el personal directament implicat en la seva atenció i, per via judicial, la justícia.",
+      "explicacion_incorrecta": "No tots els professionals del centre hi poden accedir, els familiars necessiten consentiment, i 'interès legítim' no és criteri suficient.",
+      "fuente": "Llei 41/2002, art. 16"
+    },
+    {
+      "id": "R7Wrmu2ye0oZ8mrPw7e0",
+      "texto": "El termini màxim per notificar una bretxa de seguretat a l'autoritat de control és:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "24 hores",
+        "72 hores des que es té coneixement de la bretxa",
+        "7 dies hàbils",
+        "1 mes"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "72 hores des que es té coneixement de la bretxa",
+      "explicacion": "El responsable del tractament ha de notificar la bretxa de seguretat a l'autoritat de control (AEPD/APDCAT) en un termini màxim de 72 hores.",
+      "explicacion_incorrecta": "24 hores és insuficient per investigar, 7 dies i 1 mes superen el termini legal.",
+      "fuente": "RGPD, art. 33"
+    },
+    {
+      "id": "SFBkM6M5SZoe3uA96KQg",
+      "texto": "El concepte 'Salut en Totes les Polítiques' (STP) implica:",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "Que únicament el Departament de Salut és responsable de les polítiques que afecten la salut",
+        "Que totes les polítiques públiques (habitatge, educació, transport, medi ambient) han de tenir en compte el seu impacte en la salut",
+        "Que la salut és la primera prioritat pressupostària de tots els departaments del Govern",
+        "Que els professionals de salut han d'intervenir en totes les polítiques socials de l'administració"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Que totes les polítiques públiques (habitatge, educació, transport, medi ambient) han de tenir en compte el seu impacte en la salut",
+      "explicacion": "STP (Health in All Policies): incorporar la perspectiva de la salut en totes les polítiques públiques (habitatge, educació, medi ambient...), ja que els determinants de la salut van més enllà del sistema sanitari.",
+      "explicacion_incorrecta": "STP = incorporar perspectiva de la salut en TOTES les polítiques públiques (determinants socials de la salut).",
+      "fuente": "Font: OMS · Pla de Salut de Catalunya 2021-2025"
+    },
+    {
+      "id": "SKUKpZnU4J7TU6ZJfB5y",
+      "texto": "Les Àrees Bàsiques de Salut (ABS) a Catalunya son la unitat territorial:",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "De referència per als serveis d'urgències hospitalàries de cada regió sanitària",
+        "Mínima d'organització de l'atenció primària de salut, amb una població assignada i un Equip d'Atenció Primària",
+        "D'organització dels serveis especialitzats hospitalaris de la seva zona de referència",
+        "De gestió econòmica i pressupostària dels recursos de l'atenció primària"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Mínima d'organització de l'atenció primària de salut, amb una població assignada i un Equip d'Atenció Primària",
+      "explicacion": "ABS: unitat mínima territorial d'organització de l'AP. Cada ABS té un EAP (metges, infermeres, personal adm., TS sanitari...).",
+      "explicacion_incorrecta": "ABS = unitat mínima AP. Cada ABS → un EAP (Equip d'Atenció Primària).",
+      "fuente": "Font: Decret d'ordenació sanitària · Atenció primària"
+    },
+    {
+      "id": "SNhmb0ZMV5dJURhQgAxG",
+      "texto": "L'article 4 de la Llei 55/2003 distingeix el personal estatutari fix del temporal. Quina és la característica del personal estatutari temporal eventual?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Ocupa una plaça de la plantilla orgànica de manera permanent i indefinida",
+        "Presta serveis per a activitats de caràcter permanent però per raons urgents o per circumstàncies extraordinàries no cobertes per vacant",
+        "Substitueix personal fix en situació de baixa, permís o comissió de serveis",
+        "Desenvolupa programes de caràcter temporal amb data d'inici i final prèviament definida"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Presta serveis per a activitats de caràcter permanent però per raons urgents o per circumstàncies extraordinàries no cobertes per vacant",
+      "explicacion": "Personal temporal eventual (art. 9 Llei 55/2003): per activitats permanents en circumstàncies urgents o extraordinàries sense plaça vacant coberta.",
+      "explicacion_incorrecta": "Eventual = urgència/circumstàncies extraordinàries (no substitució ni programa temporal).",
+      "fuente": "Font: Llei 55/2003, art. 9"
+    },
+    {
+      "id": "Sga4phxMHqn0tcRR3TxN",
+      "texto": "La transformació digital en el Pla de Salut 2021-2025 inclou:",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "La substitució de tots els professionals sanitaris per intel·ligència artificial",
+        "L'impuls de la salut digital (telemedicina, HC3, apps de salut) per millorar l'accessibilitat i l'eficiència",
+        "La reducció de personal sanitari gràcies a la digitalització",
+        "La creació d'una xarxa social exclusiva per a pacients"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "L'impuls de la salut digital (telemedicina, HC3, apps de salut) per millorar l'accessibilitat i l'eficiència",
+      "explicacion": "La transformació digital del Pla de Salut inclou telemedicina, ampliació de l'HC3, apps de salut mòbil, recepta electrònica i ús de les dades per a la millora de la salut.",
+      "explicacion_incorrecta": "La IA no substitueix els professionals, la digitalització no redueix el personal, i no hi ha una xarxa social oficial.",
+      "fuente": "Pla de Salut 2021-2025, eix transformació digital"
+    },
+    {
+      "id": "SqtILhd7nH2AM1wGH676",
+      "texto": "Quin model d'excel·lència organitzacional s'aplica habitualment en hospitals europeus?",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Model Balanced Scorecard",
+        "Model EFQM d'Excel·lència",
+        "Model Six Sigma",
+        "Model TQM japonès"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Model EFQM d'Excel·lència",
+      "explicacion": "El model EFQM (European Foundation for Quality Management) és el model d'excel·lència més utilitzat en organitzacions europees, inclosos hospitals, per avaluar i millorar la seva gestió.",
+      "explicacion_incorrecta": "El Balanced Scorecard és un sistema de gestió estratègica, Six Sigma és una metodologia de reducció de variabilitat, i TQM japonès (Kaizen) és un enfocament de millora però no el model de referència a Europa.",
+      "fuente": "EFQM 2020"
+    },
+    {
+      "id": "TmIH5Yae5j6cWWI7ui38",
+      "texto": "Quin model d'atenció aplica l'ICS a l'atenció primària?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Model de medicina familiar exclusivament individual, sense treball en equip interdisciplinari",
+        "Model d'atenció primària de salut basat en equips interdisciplinaris (EAP) amb enfocament biopsicosocial",
+        "Model hospitalocèntric on l'hospital és el primer punt de contacte amb el sistema sanitari",
+        "Model de mercat on cada professional funciona com a proveïdor independent de serveis"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Model d'atenció primària de salut basat en equips interdisciplinaris (EAP) amb enfocament biopsicosocial",
+      "explicacion": "L'ICS aplica a AP el model d'Equips d'Atenció Primària (EAP) amb enfocament biopsicosocial i treball interdisciplinari (metge, infermera, TS sanitari, adm...).",
+      "explicacion_incorrecta": "ICS AP = model EAP interdisciplinari biopsicosocial. No és hospitalocèntric.",
+      "fuente": "Font: Model d'atenció primària ICS · Temari transversal"
+    },
+    {
+      "id": "TzEWeGtAHA9BBu2XqYzv",
+      "texto": "Quina norma regula la incompatibilitat del personal al servei de les administracions públiques, aplicable al personal de l'ICS?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "La Llei 55/2003, que conté un capítol específic sobre incompatibilitats del personal sanitari",
+        "La Llei 53/1984, de 26 de desembre, d'Incompatibilitats del Personal al Servei de les Administracions Públiques",
+        "El Reial Decret 598/1985, de 30 d'abril, sobre incompatibilitats del personal sanitari hospitalari",
+        "El Codi Penal espanyol, que regula el conflicte d'interessos dels funcionaris públics"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "La Llei 53/1984, de 26 de desembre, d'Incompatibilitats del Personal al Servei de les Administracions Públiques",
+      "explicacion": "Llei 53/1984 regula les incompatibilitats del personal públic, aplicable al personal estatutari de l'ICS. La regla general és la dedicació exclusiva.",
+      "explicacion_incorrecta": "Llei 53/1984 = incompatibilitats personal públic (incloent personal estatutari ICS).",
+      "fuente": "Font: Llei 53/1984 d'Incompatibilitats · Temari transversal ICS"
+    },
+    {
+      "id": "Uqkqrm95eR9YBMjtBtUW",
+      "texto": "Quina és la jornada ordinària de treball del personal estatutari de l'ICS?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "35 hores setmanals",
+        "37,5 hores setmanals",
+        "40 hores setmanals",
+        "38 hores setmanals"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "37,5 hores setmanals",
+      "explicacion": "El personal estatutari de l'ICS té una jornada ordinària de 37,5 hores setmanals, d'acord amb la normativa aplicable als empleats públics de la Generalitat.",
+      "explicacion_incorrecta": "35h és la jornada del personal laboral de l'Administració, 40h és la màxima legal, 38h no és la jornada aplicable.",
+      "fuente": "Acord de condicions de treball ICS / Llei 55/2003, art. 47"
+    },
+    {
+      "id": "W1bfVhyG7JO7j2LUo3is",
+      "texto": "El personal estatutari de l'ICS pot accedir a activitat privada compatible si:",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Ho sol·licita a la seva gerència i no hi ha cap restricció automàtica per categories sanitàries",
+        "Obté un reconeixement de compatibilitat expressa de l'òrgan competent i l'activitat no afecta la dedicació al servei públic",
+        "Treballa en torn de nit i la seva activitat privada es desenvolupa en horari diürn",
+        "Ha superat el període de prova i porta més de 5 anys com a personal fix a l'ICS"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Obté un reconeixement de compatibilitat expressa de l'òrgan competent i l'activitat no afecta la dedicació al servei públic",
+      "explicacion": "Llei 53/1984: la compatibilitat cal ser reconeguda expressament per l'òrgan competent. El principi general és la dedicació exclusiva al servei públic.",
+      "explicacion_incorrecta": "Compatibilitat = reconeixement exprés per l'òrgan competent. No és automàtica ni per antiguitat.",
+      "fuente": "Font: Llei 53/1984 · Incompatibilitats personal públic"
+    },
+    {
+      "id": "WPQVkheJ8NESZvm6dKQK",
+      "texto": "La sigla SISCAT fa referència a:",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "El Sistema d'Informació Sanitari de Catalunya per a la gestió de dades clíniques",
+        "El Sistema Sanitari Integral d'Utilització Pública de Catalunya, que inclou tots els proveïdors públics i concertats",
+        "El Servei d'Integració Social i Comunitari d'Atenció Territorial de Catalunya",
+        "El Sistema d'Indicadors de Salut Comunitaris i d'Atenció Territorial de la Generalitat"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El Sistema Sanitari Integral d'Utilització Pública de Catalunya, que inclou tots els proveïdors públics i concertats",
+      "explicacion": "SISCAT: Sistema Sanitari Integral d'Utilització Pública de Catalunya. Inclou l'ICS i tots els proveïdors concertats que presten serveis finançats públicament.",
+      "explicacion_incorrecta": "SISCAT = sistema de tots els proveïdors finançats públicament (ICS + concertats).",
+      "fuente": "Font: Temari transversal ICS 100-2025 · CatSalut"
+    },
+    {
+      "id": "WyA7sHauboaHSjxmwODg",
+      "texto": "La representació equilibrada a la LO 3/2007 significa que cap sexe superi:",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "El 40% de representació en òrgans directius",
+        "El 60% ni sigui inferior al 40% en òrgans de presa de decisions",
+        "El 55% en llocs de gestió intermedis",
+        "El 70% en llocs de base"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El 60% ni sigui inferior al 40% en òrgans de presa de decisions",
+      "explicacion": "La LO 3/2007 estableix el principi de presència equilibrada quan cap sexe supera el 60% ni és inferior al 40% en llocs de presa de decisions i òrgans col·legiats.",
+      "explicacion_incorrecta": "El 40% com a màxim o el 55%/70% no s'ajusten al criteri 40-60 de la llei.",
+      "fuente": "LO 3/2007, disposició addicional primera"
+    },
+    {
+      "id": "XpilvEovGDlGv4YOs5fz",
+      "texto": "La Llei 41/2002, de 14 de novembre, bàsica reguladora de l'autonomia del pacient, estableix el dret a la informació sanitària com:",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Opcional, ja que el pacient pot renunciar-hi i el metge no té obligació d'informar sempre",
+        "Un dret del pacient que inclou informació adequada, veraç, comprensible i suficient sobre el diagnòstic, pronòstic i alternatives",
+        "Exclusiu per als majors d'edat, atès que els menors no tenen capacitat per comprendre-la",
+        "Restringit a la informació sobre el tractament prescrit, sense incloure les alternatives terapèutiques"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Un dret del pacient que inclou informació adequada, veraç, comprensible i suficient sobre el diagnòstic, pronòstic i alternatives",
+      "explicacion": "Art. 4 Llei 41/2002: dret a informació adequada, comprensible, veraç i suficient. Inclou diagnòstic, pronòstic i alternatives terapèutiques.",
+      "explicacion_incorrecta": "Dret a informació = adequada, veraç, comprensible i suficient (diagnòstic + pronòstic + alternatives). Art. 4 Llei 41/2002.",
+      "fuente": "Font: Llei 41/2002, art. 4"
+    },
+    {
+      "id": "YQ3SWi51APoqSYgz0tbL",
+      "texto": "El Comitè de Seguretat i Salut s'ha de constituir en empreses amb:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Més de 10 treballadors",
+        "Més de 25 treballadors",
+        "50 o més treballadors",
+        "100 o més treballadors"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "50 o més treballadors",
+      "explicacion": "El Comitè de Seguretat i Salut s'ha de constituir en totes les empreses o centres de treball que tinguin 50 o més treballadors.",
+      "explicacion_incorrecta": "10 i 25 treballadors és el llindar per a delegat de prevenció (6+), 100 és superior al llindar real.",
+      "fuente": "Llei 31/1995, art. 38"
+    },
+    {
+      "id": "Ymx63yJhfejwSUnjtZzx",
+      "texto": "El permís de paternitat a Espanya, arran del RDL 6/2019, és equivalent en durada al de maternitat. Quants dies de permís corresponen en total al progenitor no gestant?",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "16 setmanes, igual que el permís de maternitat, a gaudir de manera consecutiva",
+        "16 setmanes de les quals les 6 primeres son obligatòries immediatament postpart",
+        "8 setmanes de permís, de les quals 4 son d'ús exclusiu del progenitor",
+        "12 setmanes de permís, 4 d'obligatòries i 8 opcionals a transferir a l'altre progenitor"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "16 setmanes de les quals les 6 primeres son obligatòries immediatament postpart",
+      "explicacion": "Permís de corresponsabilitat (RDL 6/2019): 16 setmanes totals, 6 de les quals son d'ús exclusiu i obligatòries immediatament posteriors al part.",
+      "explicacion_incorrecta": "16 setmanes totals: 6 obligatòries immediatament (iguales que el de maternitat) + 10 opcionals.",
+      "fuente": "Font: RDL 6/2019 · Conciliació i corresponsabilitat"
+    },
+    {
+      "id": "Zq0xcwv8EUfFWoM936HP",
+      "texto": "El règim disciplinari del personal estatutari de l'ICS preveu tres tipus d'infraccions. Quina és la sanció màxima per a una falta molt greu?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Amonestació per escrit amb constatació a l'expedient personal",
+        "Suspensió de funcions de fins a 6 mesos màxim en qualsevol circumstància",
+        "Separació del servei o rescissió del contracte per al personal temporal",
+        "Trasllat forçós a un altre centre sense dret a indemnització per canvi de destinació"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "Separació del servei o rescissió del contracte per al personal temporal",
+      "explicacion": "Falta molt greu: separació del servei (personal fix) o rescissió del vincle (personal temporal). És la sanció màxima del règim disciplinari.",
+      "explicacion_incorrecta": "Falta molt greu = separació del servei (la màxima). Leve = amonestació escrita. Greu = suspensió fins 3 anys.",
+      "fuente": "Font: Llei 55/2003, art. 72-75 · Règim disciplinari"
+    },
+    {
+      "id": "Zx4JwCcdcKXxWmJGAhDG",
+      "texto": "L'assetjament laboral (mobbing) es diferencia de l'assetjament sexual en que:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "L'assetjament laboral es dirigeix per destruir la salut psíquica i forçar l'abandó del lloc; l'assetjament sexual té una motivació sexual",
+        "L'assetjament laboral sempre l'exerceix el superior jeràrquic; l'assetjament sexual pot provenir de qualsevol company",
+        "L'assetjament laboral no és delicte penal; l'assetjament sexual sí que ho és en tots els casos",
+        "L'assetjament laboral requereix un mínim de 6 mesos de durada; el sexual és puntual"
+      ],
+      "respuesta_correcta": 0,
+      "respuesta_correcta_texto": "L'assetjament laboral es dirigeix per destruir la salut psíquica i forçar l'abandó del lloc; l'assetjament sexual té una motivació sexual",
+      "explicacion": "Mobbing = conducta hostil sistemàtica per destruir salut psíquica i forçar abandonament. Assetjament sexual = conducta de naturalesa sexual no desitjada.",
+      "explicacion_incorrecta": "Mobbing = motivació laboral/destrucció psíquica. Assetjament sexual = motivació sexual. Ambdós estan regulats i son sancionables.",
+      "fuente": "Font: Protocol ICS assetjament · LO 3/2007 · Llei 5/2008"
+    },
+    {
+      "id": "bLFT7RrE3agw4LbglEDl",
+      "texto": "El consentiment informat ha de contenir com a mínim:",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Únicament la signatura del pacient",
+        "El diagnòstic, el tractament proposat, els riscos freqüents i greus, les alternatives i el dret a rebutjar el tractament",
+        "El diagnòstic i la signatura del metge",
+        "La signatura del pacient i dos testimonis"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El diagnòstic, el tractament proposat, els riscos freqüents i greus, les alternatives i el dret a rebutjar el tractament",
+      "explicacion": "El consentiment informat ha de contenir: diagnòstic, naturalesa del procediment, riscos freqüents i greus, beneficis esperats, alternatives terapèutiques i el dret del pacient a revocar-lo o rebutjar-lo.",
+      "explicacion_incorrecta": "Només la signatura no és suficient, el metge no signa el CI sinó que l'explica, i els testimonis no són requisit general.",
+      "fuente": "Llei 41/2002, art. 10"
+    },
+    {
+      "id": "bSnOuLe7zLzkUVRIsamX",
+      "texto": "Per sol·licitar una excedència voluntària per interès particular, el personal fix de l'ICS ha d'acreditar:",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "2 anys com a fix",
+        "Almenys 5 anys consecutius com a personal fix i no haver gaudit d'una altra excedència voluntària en els 4 anys anteriors",
+        "Almenys 3 anys de serveis, sigui fix o temporal",
+        "Que el servei ho autoritza per necessitats organitzatives"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Almenys 5 anys consecutius com a personal fix i no haver gaudit d'una altra excedència voluntària en els 4 anys anteriors",
+      "explicacion": "Per sol·licitar excedència voluntària per interès particular, cal almenys 5 anys consecutius com a personal fix i no haver gaudit d'una altra excedència voluntària en els 4 anys anteriors.",
+      "explicacion_incorrecta": "2 anys és insuficient, el personal temporal no pot sol·licitar-la, i no és una decisió discrecional del servei.",
+      "fuente": "Llei 55/2003, art. 67"
+    },
+    {
+      "id": "bYovBou86ewDwWR3fxqV",
+      "texto": "Quant de temps s'ha de conservar com a mínim la història clínica d'un pacient?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "5 anys des de l'alta",
+        "10 anys des de l'alta",
+        "15 anys des de l'alta",
+        "Indefinidament"
+      ],
+      "respuesta_correcta": 0,
+      "respuesta_correcta_texto": "5 anys des de l'alta",
+      "explicacion": "La història clínica s'ha de conservar un mínim de 5 anys des de l'alta, d'acord amb la Llei 41/2002 i la Llei 21/2000 de Catalunya.",
+      "explicacion_incorrecta": "10 i 15 anys sobrepassen el mínim legal estatal, i la conservació indefinida no és el mínim legal.",
+      "fuente": "Llei 41/2002, art. 17; Llei 21/2000"
+    },
+    {
+      "id": "bYsgOKacdmjFV6jM0u6K",
+      "texto": "Que és un Esdeveniment Advers (EA) en l'àmbit de la seguretat del pacient?",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Qualsevol efecte secundari dels medicaments",
+        "Un dany involuntari al pacient causat per l'assistència sanitària, no per la malaltia base",
+        "Una queixa presentada per un pacient o familiar",
+        "Un error en la facturació del servei sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Un dany involuntari al pacient causat per l'assistència sanitària, no per la malaltia base",
+      "explicacion": "Un esdeveniment advers és un dany no intencionat causat per l'atenció sanitària (no per la malaltia), que pot ser evitable (error) o no evitable.",
+      "explicacion_incorrecta": "Els efectes secundaris dels medicaments no sempre son EA assistencials, les queixes son un instrument de millora, i la facturació no és un EA clínic.",
+      "fuente": "OMS - Classificació internacional per a la seguretat del pacient"
+    },
+    {
+      "id": "bu0lC9Dk4f6qSpTayaMw",
+      "texto": "Quin és el cicle de millora contínua PDCA (cicle de Deming)?",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Planificar - Decidir - Controlar - Aprovar",
+        "Planificar - Fer - Comprovar - Actuar (ajustar)",
+        "Prevenir - Detectar - Corregir - Analitzar",
+        "Prioritzar - Dissenyar - Crear - Auditar"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Planificar - Fer - Comprovar - Actuar (ajustar)",
+      "explicacion": "El cicle PDCA de Deming consta de 4 etapes: Planificar (Plan), Fer (Do), Comprovar/Verificar (Check) i Actuar/Ajustar (Act) per a la millora contínua dels processos.",
+      "explicacion_incorrecta": "Les opcions incorrectes no corresponen al cicle PDCA original.",
+      "fuente": "W. Edwards Deming; ISO 9001"
+    },
+    {
+      "id": "c8heCYtbhfqX4Ru5o56H",
+      "texto": "Quants dies de vacances anuals té el personal estatutari de l'ICS amb menys de 15 anys d'antiguitat?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "22 dies laborables",
+        "30 dies naturals",
+        "23 dies laborables",
+        "25 dies laborables"
+      ],
+      "respuesta_correcta": 0,
+      "respuesta_correcta_texto": "22 dies laborables",
+      "explicacion": "El personal estatutari té dret a 22 dies laborables de vacances anuals quan porta menys de 15 anys de serveis, incrementant-se progressivament.",
+      "explicacion_incorrecta": "30 dies naturals correspondria a treballadors privats, 23 i 25 dies laborables no corresponen al tram inferior de l'Estatut Marc.",
+      "fuente": "Llei 55/2003, art. 60"
+    },
+    {
+      "id": "dANfbEQkA0QmvLqnYVeA",
+      "texto": "Quin és el permís de paternitat vigent a Espanya des de 2021?",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "2 setmanes intransferibles",
+        "16 setmanes intransferibles, les 6 primeres de caràcter obligatori",
+        "4 setmanes transferibles a la mare",
+        "8 setmanes des del part"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "16 setmanes intransferibles, les 6 primeres de caràcter obligatori",
+      "explicacion": "Des del 2021, el permís del segon progenitor és de 16 setmanes, de les quals les 6 primeres s'han de gaudir immediatament. És intransferible.",
+      "explicacion_incorrecta": "2 setmanes era el permís anterior, les transferibles a la mare no s'apliquen, i 4 setmanes és insuficient.",
+      "fuente": "RD-llei 6/2019; LO 3/2007 en la seva redacció actual"
+    },
+    {
+      "id": "dME2EbLQPhcSEORB3wdd",
+      "texto": "Quins tipus de mèrits es valoren en la carrera professional de l'ICS?",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "Únicament la formació continuada",
+        "Anys de servei, formació continuada, activitat científica/docent i dedicació i implicació professional",
+        "Únicament els anys d'antiguitat",
+        "Únicament les publicacions científiques"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Anys de servei, formació continuada, activitat científica/docent i dedicació i implicació professional",
+      "explicacion": "La carrera professional de l'ICS valora mèrits de diverses categories: antiguitat/temps de servei, formació continuada (cursos, màsters), activitat científica i docent, i dedicació i implicació en el servei.",
+      "explicacion_incorrecta": "No es valora exclusivament cap d'aquests factors per separat.",
+      "fuente": "Acord de carrera professional ICS"
+    },
+    {
+      "id": "eJl6jsAwUhY13JEAkxGU",
+      "texto": "Quina llei regula l'Estatut Marc del personal estatutari dels serveis de salut?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Llei 7/2007 EBEP",
+        "Llei 55/2003 Estatut Marc",
+        "Llei 14/1986 General de Sanitat",
+        "RD 84/1990"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Llei 55/2003 Estatut Marc",
+      "explicacion": "La Llei 55/2003, de 16 de desembre, de l'Estatut Marc del personal estatutari dels serveis de salut, és la norma bàsica que regula la relació especial d'aquest col·lectiu.",
+      "explicacion_incorrecta": "L'EBEP regula els empleats públics en general, la Llei 14/1986 és la General de Sanitat, i el RD 84/1990 és un reglament de règim disciplinari.",
+      "fuente": "Llei 55/2003, de 16 de desembre"
+    },
+    {
+      "id": "eiySQKXj1Y6NJJawOy0W",
+      "texto": "La Central de Resultats del sistema de salut de Catalunya serveix per:",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Centralitzar les analítiques de tots els hospitals",
+        "Avaluar i publicar el rendiment dels proveïdors sanitaris públics",
+        "Gestionar les compres centralitzades de material sanitari",
+        "Coordinar les derivacions entre nivells assistencials"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Avaluar i publicar el rendiment dels proveïdors sanitaris públics",
+      "explicacion": "La Central de Resultats, impulsada per l'AQuAS, publica indicadors de rendiment, qualitat i seguretat dels proveïdors del SISCAT per afavorir la transparència i la millora contínua.",
+      "explicacion_incorrecta": "No centralitza analítiques, ni gestiona compres, ni coordina derivacions.",
+      "fuente": "AQuAS - Central de Resultats"
+    },
+    {
+      "id": "etjd1cfeugrS3YlIwfiC",
+      "texto": "Les retribucions del personal estatutari de l'ICS es componen de:",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Únicament el sou base i l'antiguitat, sense cap altre concepte addicional",
+        "Sou base, complement de destinació, complement específic, complement de carrera i les pagues extraordinàries",
+        "Sou base i incentius variables establerts per cada gerència sense regulació centralitzada",
+        "Sou base, hores extres i dietes, com qualsevol treballador del sector privat sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Sou base, complement de destinació, complement específic, complement de carrera i les pagues extraordinàries",
+      "explicacion": "Retribucions personal estatutari ICS: sou base + complement destinació + complement específic + carrera professional + pagues extres.",
+      "explicacion_incorrecta": "Retribucions ICS = sou base + compl. destinació + compl. específic + carrera professional + pagues extres.",
+      "fuente": "Font: Llei 55/2003, art. 41-47 · Retribucions personal estatutari"
+    },
+    {
+      "id": "f0LRf3yXiE5hwOqZlp0N",
+      "texto": "Quin organisme de l'ICS és responsable de vetllar per la igualtat d'oportunitats i la no discriminació en les condicions laborals del personal?",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "La Comissió de Seguiment del Conveni Col·lectiu, com a òrgan paritari de relacions laborals",
+        "La Unitat d'Igualtat de l'ICS, que coordina les polítiques d'igualtat i gestiona el Pla d'Igualtat",
+        "El Consell d'Administració de l'ICS, que pren totes les decisions estratègiques",
+        "L'Institut Català de les Dones (ICD), com a organisme extern especialitzat"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "La Unitat d'Igualtat de l'ICS, que coordina les polítiques d'igualtat i gestiona el Pla d'Igualtat",
+      "explicacion": "La Unitat d'Igualtat de l'ICS és l'òrgan intern responsable de coordinar les polítiques d'igualtat i gestionar el Pla d'Igualtat.",
+      "explicacion_incorrecta": "Unitat d'Igualtat ICS = coordina polítiques igualtat i gestiona Pla d'Igualtat intern.",
+      "fuente": "Font: Pla d'Igualtat ICS · LO 3/2007"
+    },
+    {
+      "id": "fPfoqTmxVCcucmBDe47S",
+      "texto": "Quin reglament europeu regula la protecció de dades personals des de 2018?",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Directiva 95/46/CE",
+        "Reglament UE 2016/679 (RGPD)",
+        "Conveni 108 del Consell d'Europa",
+        "Llei Orgànica 15/1999"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Reglament UE 2016/679 (RGPD)",
+      "explicacion": "El Reglament (UE) 2016/679 (RGPD) és d'aplicació directa a tots els estats membres des del 25 de maig de 2018.",
+      "explicacion_incorrecta": "La Directiva 95/46/CE va ser derogada pel RGPD, el Conveni 108 és del Consell d'Europa, i la LO 15/1999 va ser derogada per la LOPDGDD.",
+      "fuente": "RGPD (UE) 2016/679"
+    },
+    {
+      "id": "gBsmDVLaNJbQ59fVBtii",
+      "texto": "La cessió de dades de salut entre professionals de l'equip assistencial que atén un pacient:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Requereix consentiment exprés del pacient per a cada professional que accedeix a la HC",
+        "Queda emparada pel secret professional compartit i la necessitat d'atenció, sense necessitat de consentiment específic",
+        "Està prohibida i cada professional ha d'obtenir les dades directament del pacient",
+        "Requereix signar un acord de confidencialitat específic per a cada cas clínic"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Queda emparada pel secret professional compartit i la necessitat d'atenció, sense necessitat de consentiment específic",
+      "explicacion": "L'accés dels professionals de l'equip assistencial a les dades clíniques queda emparat per la finalitat assistencial (necessitat de tractament). No cal consentiment per a cada accés.",
+      "explicacion_incorrecta": "Equip assistencial = accés emparat per la finalitat assistencial (sense consentiment específic per cada accés).",
+      "fuente": "Font: Llei 41/2002, art. 16 · LOPD-GDD"
+    },
+    {
+      "id": "hUIZ7O9mD0vVPEsZ9ahB",
+      "texto": "Quin any es va crear l'Institut Català de la Salut (ICS)?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "1983",
+        "1990",
+        "1981",
+        "1975"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "1981",
+      "explicacion": "L'ICS va ser creat l'any 1981 per la Llei 12/1981, com a entitat gestora de la Seguretat Social a Catalunya.",
+      "explicacion_incorrecta": "1983 és l'any de la transferència sanitària, 1990 i 1975 no corresponen a la creació de l'ICS.",
+      "fuente": "Llei 12/1981, de 24 de desembre"
+    },
+    {
+      "id": "i2EuXKral9Y1FQmaFIQB",
+      "texto": "L'Acord de la Mesa Sectorial de Negociació de Sanitat de Catalunya té per objectiu:",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Fixar les retribucions dels metges de medicina privada",
+        "Negociar les condicions de treball del personal estatutari de l'ICS i altres entitats públiques sanitàries",
+        "Aprovar la cartera de serveis sanitaris",
+        "Regular el sector sanitari privat concertat"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Negociar les condicions de treball del personal estatutari de l'ICS i altres entitats públiques sanitàries",
+      "explicacion": "La Mesa Sectorial de Negociació de Sanitat negocia les condicions de treball (retribucions, jornada, permisos) del personal estatutari de l'ICS i altres entitats públiques sanitàries.",
+      "explicacion_incorrecta": "No afecta la medicina privada, ni aprova la cartera de serveis, ni regula el sector concertat.",
+      "fuente": "Llei 55/2003, art. 79 i 80"
+    },
+    {
+      "id": "iA0vgtsgIbtPcQgbZkRM",
+      "texto": "Quin organisme planifica, ordena i finança els serveis sanitaris a Catalunya?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "L'ICS, que és el principal proveïdor de serveis de salut de Catalunya",
+        "El CatSalut (Servei Català de la Salut), responsable del finançament i la compra de serveis",
+        "El Departament de Salut, que elabora les lleis i les polítiques sanitàries",
+        "El Parlament de Catalunya, que aprova els pressupostos per al sistema sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El CatSalut (Servei Català de la Salut), responsable del finançament i la compra de serveis",
+      "explicacion": "CatSalut planifica, ordena i compra serveis al SISCAT. L'ICS és el principal proveïdor (presta els serveis), però no el planificador.",
+      "explicacion_incorrecta": "CatSalut = planifica i finança. ICS = presta serveis. Distinció fonamental a l'examen.",
+      "fuente": "Font: Llei 15/1990 (LOSC) · Temari transversal ICS 100-2025"
+    },
+    {
+      "id": "iLGrRFisxYgrqKG0PJfF",
+      "texto": "La Llei 21/2000 de Catalunya sobre drets d'informació i autonomia del pacient estableix el dret a l'oblit sanitari. Què significa?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "El dret del pacient a que s'esborrin totes les seves dades clíniques de la HC quan doni l'alta",
+        "El dret a no ser informat sobre el pronòstic de la seva malaltia si el pacient ho sol·licita expressament",
+        "El dret del pacient a ser atès sense que els antecedents clínics condicionin el tracte rebut pels professionals",
+        "El dret a destruir físicament la documentació clínica personal als 5 anys de l'alta"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El dret a no ser informat sobre el pronòstic de la seva malaltia si el pacient ho sol·licita expressament",
+      "explicacion": "Dret a l'oblit o a no saber: art. 3 Llei 21/2000. La persona pot renunciar expressament a rebre informació sobre el seu pronòstic.",
+      "explicacion_incorrecta": "Dret a no saber = pacient pot renunciar a informació del pronòstic (art. 3 Llei 21/2000).",
+      "fuente": "Font: Llei 21/2000, art. 3"
+    },
+    {
+      "id": "iQ71oTHzht3x8dVq5AND",
+      "texto": "Quins son els eixos principals del Pla de Salut de Catalunya 2021-2025?",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "Digitalització, privatització i reducció de costos del sistema sanitari",
+        "Salut en totes les polítiques, atenció centrada en la persona, cronicitat, salut mental i equitat",
+        "Increment de llits hospitalaris, reducció de llistes d'espera i millora de les urgències",
+        "Extensió de l'horari dels CAP, creació de nous hospitals comarcals i formació continuada"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Salut en totes les polítiques, atenció centrada en la persona, cronicitat, salut mental i equitat",
+      "explicacion": "Pla de Salut 2021-2025: eixos de salut en totes les polítiques, persona al centre, cronicitat, salut mental, equitat i serveis de qualitat.",
+      "explicacion_incorrecta": "Pla Salut 2021-2025: salut en totes les polítiques + persona al centre + cronicitat + salut mental + equitat.",
+      "fuente": "Font: Pla de Salut de Catalunya 2021-2025"
+    },
+    {
+      "id": "j5Bd7EZsE1psEsFRwN2F",
+      "texto": "La diferència entre personal estatutari fix i personal estatutari temporal és:",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "El fix cobra més per les mateixes funcions",
+        "El fix ocupa una plaça de manera permanent; el temporal cobreix vacants, absències o programes temporals",
+        "El fix és sanitari i el temporal és de gestió",
+        "El fix té jornada completa i el temporal jornada parcial"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El fix ocupa una plaça de manera permanent; el temporal cobreix vacants, absències o programes temporals",
+      "explicacion": "El personal estatutari fix ocupa una plaça de la plantilla orgànica de manera indefinida. El temporal (interí, substitut, eventual) ocupa places vacants, cobreix absències o necessitats temporals.",
+      "explicacion_incorrecta": "No hi ha diferència salarial per les mateixes funcions, ni distinció sanitari/gestió, ni diferències de jornada per aquesta distinció.",
+      "fuente": "Llei 55/2003, art. 8 i 9"
+    },
+    {
+      "id": "jSwOuneq361zRkhlVS1b",
+      "texto": "Quin és el termini per a la prescripció de les faltes lleus disciplinàries en el personal estatutari?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "1 mes",
+        "6 mesos",
+        "1 any",
+        "4 anys"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "6 mesos",
+      "explicacion": "Les faltes lleus prescriuen als 6 mesos. Les faltes greus prescriuen als 2 anys i les molt greus als 4 anys.",
+      "explicacion_incorrecta": "1 mes és insuficient, 1 any correspon a les greus, 4 anys a les molt greus.",
+      "fuente": "Llei 55/2003, art. 73"
+    },
+    {
+      "id": "lGTYDgjb2bPwjfUlPb3W",
+      "texto": "Quins son els drets del personal estatutari recollits a la Llei 55/2003?",
+      "bloc_tematico": "marc_legal",
+      "respuestas": [
+        "Únicament el dret a la retribució, el permís per malaltia i la jubilació anticipada",
+        "Drets retributius, de carrera professional, de formació, de prevenció de riscos, sindicals i d'igualtat de tracte, entre d'altres",
+        "Dret a no ser traslladat de centre sense consentiment exprés i per escrit",
+        "Dret a l'accés als sistemes d'informació clínica sense cap restricció professional"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Drets retributius, de carrera professional, de formació, de prevenció de riscos, sindicals i d'igualtat de tracte, entre d'altres",
+      "explicacion": "Art. 17 Llei 55/2003: drets retributius, de carrera, formació, PRL, sindicals, igualtat, no discriminació... Catàleg ampli de drets.",
+      "explicacion_incorrecta": "Llei 55/2003, art. 17: catàleg ampli de drets: retributius, carrera, formació, PRL, sindicals, igualtat...",
+      "fuente": "Font: Llei 55/2003, art. 17"
+    },
+    {
+      "id": "lMGb8tQjWL6fTj1nmhvU",
+      "texto": "La Llei Orgànica 3/2018 de Protecció de Dades Personals (LOPD-GDD) defineix les dades de salut com:",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "Dades ordinàries, ja que les gestiona el personal sanitari de manera habitual",
+        "Dades especialment protegides (categoria especial) que requereixen consentiment explícit o base jurídica específica",
+        "Dades de nivell alt que poden ser tractades per qualsevol professional de la salut sense restriccions",
+        "Dades públiques que el pacient cedeix voluntàriament en accedir al sistema sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Dades especialment protegides (categoria especial) que requereixen consentiment explícit o base jurídica específica",
+      "explicacion": "LOPD-GDD i RGPD: les dades de salut son dades de categoria especial. Requereixen consentiment explícit o altra base jurídica (interès vital, obligació legal...).",
+      "explicacion_incorrecta": "Dades salut = categoria especial (màxima protecció). Consentiment explícit o base jurídica específica.",
+      "fuente": "Font: LO 3/2018 LOPD-GDD · RGPD art. 9"
+    },
+    {
+      "id": "leeS1z4alIBR2VIbUwuA",
+      "texto": "La carrera professional a l'ICS és:",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "Obligatòria per a tot el personal i s'activa automàticament",
+        "Voluntària: el professional ha de sol·licitar l'avaluació i acreditació en cada nivell",
+        "Únicament per al personal mèdic i d'infermeria",
+        "Restringida als centres hospitalaris"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Voluntària: el professional ha de sol·licitar l'avaluació i acreditació en cada nivell",
+      "explicacion": "La participació en la carrera professional és voluntària: el professional ha de sol·licitar l'avaluació de mèrits per accedir a cada nivell. Si no sol·licita, no progressa automàticament.",
+      "explicacion_incorrecta": "No és obligatòria, no es limita per categoria professional ni per tipus de centre.",
+      "fuente": "Acord de carrera professional ICS"
+    },
+    {
+      "id": "m5mlzoMNlp1FbVx0SGJd",
+      "texto": "Quin és el temps mínim com a personal fix per accedir al primer nivell de carrera professional (CI) a l'ICS?",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "1 any",
+        "2 anys",
+        "3 anys",
+        "5 anys"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "2 anys",
+      "explicacion": "Per accedir al primer nivell de carrera professional (CI) cal tenir un mínim de 2 anys de prestació de serveis efectius com a personal fix de la categoria corresponent.",
+      "explicacion_incorrecta": "1 any és insuficient, 3 i 5 anys sobrepassen el mínim establert per al CI.",
+      "fuente": "Acord de carrera professional ICS / Llei 55/2003"
+    },
+    {
+      "id": "muTsNLzMx2DRLqOypV4E",
+      "texto": "Si un professional de l'ICS reconegut al nivell CII canvia de centre sanitari dins l'ICS, el seu nivell de carrera:",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "Es perd i ha de tornar a demanar l'acreditació",
+        "Es manté, ja que el nivell reconegut és personal i no vinculat al centre",
+        "Es congela durant 2 anys fins a demostrar adaptació al nou centre",
+        "S'ha de renegociar amb la nova gerència"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Es manté, ja que el nivell reconegut és personal i no vinculat al centre",
+      "explicacion": "El nivell de carrera professional és personal i portàtil dins l'ICS: es manté si el professional canvia de centre.",
+      "explicacion_incorrecta": "No es perd, no es congela ni es renegocia per canvi de centre dins l'ICS.",
+      "fuente": "Acord de carrera professional ICS"
+    },
+    {
+      "id": "nBar3rFRtTdLRuKKr64A",
+      "texto": "Quan pot un professional sanitari realitzar una intervenció sense el consentiment del pacient, excepcionalment?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Quan el pacient es mostra poc col·laborador o no segueix les indicacions del professional",
+        "Quan hi ha risc immediat greu per a la salut del pacient i no és possible obtenir el consentiment",
+        "Quan la família del pacient autoritza el procediment en lloc del propi pacient",
+        "Quan el metge considera que la intervenció és clarament beneficiosa per al pacient (beneficència)"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Quan hi ha risc immediat greu per a la salut del pacient i no és possible obtenir el consentiment",
+      "explicacion": "Art. 9.2 Llei 41/2002: excepció al consentiment quan hi ha risc vital immediat i no és possible obtenir-lo. Cal deixar-ho documentat.",
+      "explicacion_incorrecta": "Excepció consentiment = risc vital immediat i impossible obtenir-lo (art. 9.2 Llei 41/2002).",
+      "fuente": "Font: Llei 41/2002, art. 9.2"
+    },
+    {
+      "id": "nhlPAv5QAL3pgV8glwOS",
+      "texto": "La vigilància de la salut dels treballadors és:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Obligatòria per a tots els treballadors sense excepció",
+        "Voluntària per al treballador, amb excepcions per risc per a tercers o quan la normativa ho imposa",
+        "Una obligació exclusiva del treballador, no de l'empresa",
+        "Una activitat que depèn del conveni col·lectiu de cada sector"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Voluntària per al treballador, amb excepcions per risc per a tercers o quan la normativa ho imposa",
+      "explicacion": "La vigilància de la salut és, com a regla general, voluntària per al treballador (però l'empresa l'ha d'oferir). Té caràcter obligatori quan hi ha risc per a la salut dels companys o tercers.",
+      "explicacion_incorrecta": "No és obligatòria universalment, és una obligació de l'empresa (no del treballador), i no depèn exclusivament del conveni.",
+      "fuente": "Llei 31/1995, art. 22"
+    },
+    {
+      "id": "o9nfsDOUNHxtRIaIISgz",
+      "texto": "Quina és l'edat a partir de la qual el menor pot donar consentiment informat de manera autònoma, en general, a Catalunya?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "12 anys, quan el menor pot expressar la seva opinió en tots els procediments mèdics",
+        "16 anys, a partir dels quals el menor és considerat capaç per prestar consentiment informat de manera autònoma",
+        "18 anys, ja que la majoria d'edat civil coincideix amb la capacitat de consentir",
+        "14 anys, quan el jutge pot reconèixer capacitat anticipada d'acord amb el codi civil"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "16 anys, a partir dels quals el menor és considerat capaç per prestar consentiment informat de manera autònoma",
+      "explicacion": "Art. 9 Llei 41/2002 i art. 5 Llei 21/2000 (Catalunya): a partir de 16 anys el menor pot consentir de manera autònoma en general.",
+      "explicacion_incorrecta": "16 anys = consentiment autònom del menor (regla general). Menors de 16 amb maduresa suficient en casos específics.",
+      "fuente": "Font: Llei 41/2002, art. 9 · Llei 21/2000, art. 5"
+    },
+    {
+      "id": "oAWt5NJO0JEaA3pHsdFY",
+      "texto": "El SISCAT és el Sistema Sanitari Integral d'Utilització Pública de Catalunya. Qui el forma?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "Únicament l'ICS",
+        "Hospitals i centres concertats que presten serveis al sistema públic de salut de Catalunya",
+        "Únicament els hospitals universitaris",
+        "Els centres de salut mental públics"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Hospitals i centres concertats que presten serveis al sistema públic de salut de Catalunya",
+      "explicacion": "El SISCAT inclou tots els proveïdors (ICS, concertats, mútues) que presten serveis sanitaris al sistema públic de CatSalut.",
+      "explicacion_incorrecta": "No es limita a l'ICS, ni als universitaris, ni als de salut mental.",
+      "fuente": "Llei 15/1990 LOSC, art. 7"
+    },
+    {
+      "id": "pOfG944UQyTG5Tb2Kpvl",
+      "texto": "L'avaluació de riscos és:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Un tràmit administratiu anual sense conseqüències pràctiques",
+        "El procés d'identificar, valorar i prioritzar els riscos per a la salut i seguretat dels treballadors",
+        "Una inspecció que realitza la Inspecció de Treball anualment",
+        "Un document que elabora exclusivament la mútua d'accidents"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "El procés d'identificar, valorar i prioritzar els riscos per a la salut i seguretat dels treballadors",
+      "explicacion": "L'avaluació de riscos és el nucli del sistema preventiu: permet identificar els perills, valorar els riscos derivats i establir les mesures preventives adequades.",
+      "explicacion_incorrecta": "No és un tràmit buit, no la fa la Inspecció de Treball, ni l'elabora exclusivament la mútua.",
+      "fuente": "Llei 31/1995, art. 16; RD 39/1997"
+    },
+    {
+      "id": "pppEjs64FxUbtR82pty4",
+      "texto": "Quin any va entrar en vigor la Llei que va crear l'ICS com a entitat de dret públic amb personalitat jurídica pròpia?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "L'any 1990, amb la Llei 15/1990 d'Ordenació Sanitària de Catalunya",
+        "L'any 2007, amb la Llei 8/2007, de 30 de juliol, de l'ICS",
+        "L'any 1983, amb la Llei 4/1983, que va crear l'ICS per primer cop",
+        "L'any 2003, amb la Llei 55/2003 de l'Estatut Marc del personal estatutari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "L'any 2007, amb la Llei 8/2007, de 30 de juliol, de l'ICS",
+      "explicacion": "La Llei 8/2007 va transformar l'ICS en entitat de dret públic amb personalitat jurídica pròpia, separant-lo de l'administració de la Generalitat.",
+      "explicacion_incorrecta": "Llei 8/2007 = ICS com entitat de dret públic. Llei 4/1983 = creació original de l'ICS.",
+      "fuente": "Font: Llei 8/2007, de 30 de juliol, de l'ICS"
+    },
+    {
+      "id": "q4Wt1fUNKldJowcc2wZO",
+      "texto": "El Pla d'Igualtat de l'ICS és una obligació legal. Quines matèries ha de recollir necessàriament?",
+      "bloc_tematico": "igualtat",
+      "respuestas": [
+        "Únicament les mesures de conciliació de la vida laboral i familiar per al personal femení",
+        "Accés a l'ocupació, condicions laborals, formació, promoció, retribució, prevenció de l'assetjament sexual i per raó de sexe, entre d'altres",
+        "Exclusivament les mesures per garantir la paritat en els òrgans de direcció de l'ICS",
+        "Les estadístiques de bretxa salarial sense necessitat d'incloure cap mesura correctora"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Accés a l'ocupació, condicions laborals, formació, promoció, retribució, prevenció de l'assetjament sexual i per raó de sexe, entre d'altres",
+      "explicacion": "Art. 46 LO 3/2007: el Pla d'Igualtat ha de cobrir accés, formació, promoció, condicions de treball, retribució, conciliació i prevenció de l'assetjament.",
+      "explicacion_incorrecta": "Pla Igualtat: accés + formació + promoció + condicions + retribució + conciliació + prevenció assetjament (art. 46 LO 3/2007).",
+      "fuente": "Font: LO 3/2007, art. 46"
+    },
+    {
+      "id": "qgYrKcnaadYx8Rz621rc",
+      "texto": "L'avaluació de riscos psicosocials al lloc de treball és obligatòria en el marc de la Llei 31/1995. Els principals factors de risc psicosocial en l'àmbit sanitari son:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Únicament els riscos biològics i químics derivats del contacte amb agents infecciosos",
+        "La càrrega de treball, la manca d'autonomia, la comunicació deficient, el suport social i el conflicte de rol",
+        "Els riscos ergonòmics derivats de la mobilització de pacients i les postures forçades",
+        "Exclusivament el risc d'accident laboral per caigudes i talls amb material punxoagut"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "La càrrega de treball, la manca d'autonomia, la comunicació deficient, el suport social i el conflicte de rol",
+      "explicacion": "Riscos psicosocials en sanitat: càrrega treball, exigència emocional, manca autonomia, comunicació, suport social, conflicte/ambigüitat de rol.",
+      "explicacion_incorrecta": "Riscos psicosocials = càrrega treball + comunicació + autonomia + suport social + conflicte de rol.",
+      "fuente": "Font: Guia INSST riscos psicosocials · Temari PRL ICS"
+    },
+    {
+      "id": "qisHhwykLb4Ks0lcj4RN",
+      "texto": "Quina llei regula els drets del pacient a nivell estatal?",
+      "bloc_tematico": "drets_pacient",
+      "respuestas": [
+        "Llei 14/1986 General de Sanitat",
+        "Llei 41/2002 d'autonomia del pacient",
+        "Llei 16/2003 de cohesió del SNS",
+        "Llei 21/2000 de Catalunya"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Llei 41/2002 d'autonomia del pacient",
+      "explicacion": "La Llei 41/2002, de 14 de novembre, bàsica reguladora de l'autonomia del pacient, és la norma estatal que regula el consentiment informat, la història clínica i els drets dels pacients.",
+      "explicacion_incorrecta": "La Llei 14/1986 és la General de Sanitat, la 16/2003 regula la cohesió del SNS, i la Llei 21/2000 és la llei catalana específica.",
+      "fuente": "Llei 41/2002, de 14 de novembre"
+    },
+    {
+      "id": "rwmWiq8tnAOl3FppQNt4",
+      "texto": "Quin és el títol del Pla de Salut de Catalunya en vigor?",
+      "bloc_tematico": "pla_salut",
+      "respuestas": [
+        "Pla de Salut 2016-2020",
+        "Pla de Salut de Catalunya 2021-2025",
+        "Estratègia de Salut 2030",
+        "Pla Nacional de Salut 2020-2024"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Pla de Salut de Catalunya 2021-2025",
+      "explicacion": "El Pla de Salut de Catalunya 2021-2025 és el marc estratègic vigent que guia la política sanitària a Catalunya.",
+      "explicacion_incorrecta": "El Pla 2016-2020 ha expirat, 2030 no és el títol oficial, i no hi ha un 'Pla Nacional' de salut específic de Catalunya.",
+      "fuente": "Pla de Salut de Catalunya 2021-2025, Departament de Salut"
+    },
+    {
+      "id": "tZEyHI5UrbDT1ZD5NyTp",
+      "texto": "Per accedir al Nivell 1 de Carrera Professional (NCP-1) a l'ICS, el requisit mínim d'experiència és:",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "3 anys de serveis prestats a qualsevol administració pública",
+        "5 anys de serveis a l'ICS o al Sistema Nacional de Salut",
+        "2 anys de serveis prestats en la mateixa categoria a l'ICS",
+        "10 anys d'experiència total incloent el sector privat sanitari"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "5 anys de serveis a l'ICS o al Sistema Nacional de Salut",
+      "explicacion": "NCP-1: requereix 5 anys de serveis prestats a l'ICS o al SNS en la mateixa categoria o assimilada.",
+      "explicacion_incorrecta": "NCP-1 = mínim 5 anys de serveis a l'ICS o al SNS (no 3 anys ni 2 anys).",
+      "fuente": "Font: Acord carrera professional ICS · Criteris d'accés"
+    },
+    {
+      "id": "tr0UcZZZPZ91OMKKH5SK",
+      "texto": "La seguretat del pacient inclou com a mesura bàsica:",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Tenir assegurats tots els equips amb seguretat elèctrica",
+        "La higiene de mans com una de les mesures de seguretat més efectives",
+        "L'eliminació total de tots els riscos en la pràctica clínica",
+        "Que els metges tinguin seguretat emocional en la seva pràctica"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "La higiene de mans com una de les mesures de seguretat més efectives",
+      "explicacion": "La higiene de mans (els 5 moments de l'OMS) és reconeguda com una de les mesures de seguretat del pacient més efectives per prevenir les infeccions associades a l'atenció sanitària.",
+      "explicacion_incorrecta": "La seguretat elèctrica és important però no és 'la' mesura bàsica, l'eliminació total és impossible, i la seguretat emocional és important però no és el significat en aquest context.",
+      "fuente": "OMS - Save Lives: Clean Your Hands"
+    },
+    {
+      "id": "uLZfi2iexfjwlKMqNXd0",
+      "texto": "Un indicador de qualitat assistencial és vàlid quan:",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "El mesura qualsevol aspecte de l'atenció sanitària, independentment de si és rellevant per a la pràctica clínica",
+        "Mesura realment allò que es vol mesurar (validesa), és sensible als canvis i permet comparar-se amb referències",
+        "Ha estat aprovat per la Comissió de Qualitat de l'hospital sense necessitat de validació estadística",
+        "S'obté de manera automàtica dels sistemes d'informació sense intervenció dels professionals"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Mesura realment allò que es vol mesurar (validesa), és sensible als canvis i permet comparar-se amb referències",
+      "explicacion": "Indicador de qualitat: ha de ser vàlid (mesura el que vol mesurar), fiable (reproducible), sensible al canvi i comparable (benchmark).",
+      "explicacion_incorrecta": "Indicador bo = vàlid + fiable + sensible al canvi + comparable. No basta amb ser fàcil d'obtenir.",
+      "fuente": "Font: Metodologia qualitat · Temari transversal ICS"
+    },
+    {
+      "id": "vfuSFUZ9BoJamEdcEbm7",
+      "texto": "La Llei 31/1995 de PRL estableix que l'obligació d'avaluar els riscos laborals recau sobre:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "El treballador, que ha d'identificar els riscos del seu lloc de treball",
+        "L'empresari o la institució (l'ICS), que ha d'avaluar els riscos i adoptar mesures preventives",
+        "El Servei de Prevenció extern contractat per l'empresa",
+        "El Ministeri de Treball i Seguretat Social"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "L'empresari o la institució (l'ICS), que ha d'avaluar els riscos i adoptar mesures preventives",
+      "explicacion": "Art. 14-16 Llei 31/1995: l'empresari (ICS) ha d'avaluar els riscos, planificar la prevenció i adoptar mesures. El treballador col·labora però l'obligació és de l'empresa.",
+      "explicacion_incorrecta": "PRL: obligació principal de l'empresari/ICS. Treballadors han de col·laborar i seguir les mesures.",
+      "fuente": "Font: Llei 31/1995, art. 14-16"
+    },
+    {
+      "id": "wZYZSTxiWiDA2NG81M9w",
+      "texto": "La Llei 31/1995 reconeix el dret dels treballadors a:",
+      "bloc_tematico": "prl",
+      "respuestas": [
+        "Negar-se a treballar si consideren que la feina és impossible de fer",
+        "Paralitzar l'activitat i abandonar el lloc de treball en cas de risc greu i imminent",
+        "Exigir la millora de les condicions laborals sense preavís",
+        "Designar el seu propi metge del treball"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Paralitzar l'activitat i abandonar el lloc de treball en cas de risc greu i imminent",
+      "explicacion": "La Llei 31/1995 reconeix el dret dels treballadors a interrompre l'activitat i abandonar el lloc de treball en situació de risc greu i imminent per a la seva vida o salut.",
+      "explicacion_incorrecta": "La impossibilitat subjectiva no justifica l'aturada, els drets de millora es canalitzen per via sindical, i no es pot designar metge del treball propi.",
+      "fuente": "Llei 31/1995, art. 21"
+    },
+    {
+      "id": "x1q1ydducfYZNShyJapb",
+      "texto": "Quin percentatge aproximat d'atenció primària de Catalunya gestiona l'ICS?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "35%",
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "respuesta_correcta": 2,
+      "respuesta_correcta_texto": "75%",
+      "explicacion": "L'ICS gestiona aproximadament el 75% dels equips d'atenció primària de Catalunya, sent el principal proveïdor públic.",
+      "explicacion_incorrecta": "El 35% i el 50% subestimen la cobertura de l'ICS, mentre que el 90% la sobreestima.",
+      "fuente": "Memòria ICS 2023"
+    },
+    {
+      "id": "x6GOGmHoswChU4fDWpuG",
+      "texto": "Quants nivells té el sistema de carrera professional de l'ICS?",
+      "bloc_tematico": "carrera",
+      "respuestas": [
+        "3 nivells (CI, CII, CIII)",
+        "4 nivells (CI, CII, CIII, CIV)",
+        "5 nivells (CI, CII, CIII, CIV, CV)",
+        "6 nivells"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "4 nivells (CI, CII, CIII, CIV)",
+      "explicacion": "La carrera professional de l'ICS té 4 nivells: CI (inicial), CII, CIII i CIV (màxim), progressant per mèrits acumulats al llarg del temps.",
+      "explicacion_incorrecta": "3 nivells és insuficient, 5 i 6 nivells sobrepassen l'estructura actual de l'ICS.",
+      "fuente": "Acord de carrera professional ICS"
+    },
+    {
+      "id": "xP7WJBwxxXHTICs1wmK1",
+      "texto": "La Llei 19/2014, de 29 de desembre, de transparència, accés a la informació pública i bon govern de Catalunya, s'aplica a l'ICS?",
+      "bloc_tematico": "lopd",
+      "respuestas": [
+        "No, perquè l'ICS és una entitat de dret públic i queda exclosa de l'àmbit d'aplicació de la llei",
+        "Sí, perquè l'ICS és una entitat del sector públic català i, per tant, subjecta a les obligacions de publicitat activa",
+        "Parcialment, només per als contractes de valor superior a 50.000 euros",
+        "Únicament en allò relatiu a les retribucions dels alts càrrecs directius de l'ICS"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Sí, perquè l'ICS és una entitat del sector públic català i, per tant, subjecta a les obligacions de publicitat activa",
+      "explicacion": "Llei 19/2014: aplica a tot el sector públic català, incloent-hi entitats de dret públic com l'ICS. Publicitat activa obligatòria.",
+      "explicacion_incorrecta": "Llei 19/2014 s'aplica a l'ICS (sector públic català). Publicitat activa obligatòria.",
+      "fuente": "Font: Llei 19/2014, art. 3"
+    },
+    {
+      "id": "zXSnP5CjFXM48p9P4hFK",
+      "texto": "El cicle PDCA (Plan-Do-Check-Act) en gestió de la qualitat significa:",
+      "bloc_tematico": "qualitat",
+      "respuestas": [
+        "Preparar, Delegar, Controlar i Avaluar: les fases de la supervisió d'equips",
+        "Planificar, Fer, Comprovar i Actuar: cicle de millora contínua per a la resolució de problemes",
+        "Proposar, Dissenyar, Corregir i Analitzar: metodologia d'innovació organitzativa",
+        "Projectar, Documentar, Comunicar i Arxivar: protocol de gestió de projectes sanitaris"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "Planificar, Fer, Comprovar i Actuar: cicle de millora contínua per a la resolució de problemes",
+      "explicacion": "PDCA (Deming): Planificar (identificar problema i plantejar solució), Fer (implementar), Comprovar (verificar resultats), Actuar (consolidar o corregir).",
+      "explicacion_incorrecta": "PDCA = Plan-Do-Check-Act = Planificar-Fer-Comprovar-Actuar. Cicle de millora contínua (Deming).",
+      "fuente": "Font: Gestió de la qualitat · Temari transversal ICS"
+    },
+    {
+      "id": "zeLFDiCpgSDRxzhL7QAU",
+      "texto": "Quina és la Targeta Sanitària Individual (TSI) i qui l'emet?",
+      "bloc_tematico": "organitzacio",
+      "respuestas": [
+        "És el carnet professional que acredita el personal sanitari de l'ICS",
+        "És el document que identifica cada persona beneficiària i acredita el seu dret a l'atenció sanitària pública, emesa pel CatSalut",
+        "És la targeta de control d'accés als hospitals de l'ICS per al personal intern",
+        "És el document de consentiment informat normalitzat per a tots els procediments clínics"
+      ],
+      "respuesta_correcta": 1,
+      "respuesta_correcta_texto": "És el document que identifica cada persona beneficiària i acredita el seu dret a l'atenció sanitària pública, emesa pel CatSalut",
+      "explicacion": "TSI: document d'identificació de cada beneficiari/ària que acredita el dret a l'atenció sanitària pública. L'emet el CatSalut.",
+      "explicacion_incorrecta": "TSI = dret a atenció sanitària pública. L'emet el CatSalut (no l'ICS ni el metge).",
+      "fuente": "Font: Temari transversal ICS 100-2025 · CatSalut"
+    }
+  ]
+}
